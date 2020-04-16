@@ -1,0 +1,1 @@
+In the original thesis, the author lists some 275 cognate sets with standardized meanings. These have been linked to Concepticon. However, the source data do not show these meanings in the same form, in fact, they show many more, but hardly normalized elicitation glosses. For this reason, an additional concept list was added to the `etc` folder and linked in part to concepticon.
