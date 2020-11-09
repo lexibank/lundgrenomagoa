@@ -41,7 +41,7 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Olof Lundgren | | data curator | Author
-Johann-Mattis List | @LinguList | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Other
 Lev Michael | | data provider | Editor
 Natalia Chousou-Polydouri | data provider | Editor
 

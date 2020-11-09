@@ -18,9 +18,6 @@ setup(
         'lexibank.dataset': [
             'lundgrenomagoa=lexibank_lundgrenomagoa:Dataset',
         ],
-        'cldfbench.commands': [
-            'lundgrenomagoa=lundgrenomagoacommands',
-        ]
     },
     install_requires=[
         'pylexibank>=2.0.0',

@@ -28,7 +28,6 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             cid = '{0}_{1}'.format(concept['NUMBER'], 
                     slug(concept['ENGLISH']))
-            args.log.info('adding {0}'.format(cid))
             args.writer.add_concept(
                     ID=cid,
                     Number=concept['NUMBER'],
