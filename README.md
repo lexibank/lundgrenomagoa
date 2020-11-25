@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Lundgren, Olof (2020): A phonological reconstruction of Proto-Omagua-Kokama-Tupinambá. Master's thesis. Lund: Lund University.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://lup.lub.lu.se/student-papers/search/publication/9007022
 
 
@@ -18,7 +20,7 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 14%](https://img.shields.io/badge/Concepticon-14%25-red.svg "Concepticon: 14%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -33,8 +35,8 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 - **Cognate Diversity:** 0.49
 - **Invalid lexemes:** 0
 - **Tokens:** 19,055
-- **Segments:** 54 (0 BIPA errors, 0 CTLS sound class errors, 54 CLTS modified)
-- **Inventory size (avg):** 32.67
+- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
+- **Inventory size (avg):** 31.67
 
 # Contributors
 

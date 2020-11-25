@@ -46,7 +46,7 @@ class Dataset(BaseDataset):
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'ipa'] or ''.join(wl[idx, 'tokens']),
                     Form=wl[idx, 'ipa'] or ''.join(wl[idx, 'tokens']),
-                    Segments=wl[idx, 'tokens'],
+                    Segments=[{'_': '+'}.get(x, x) for x in wl[idx, 'tokens']],
                     Source=['Lundgren2020']
                     )
             args.writer.add_cognate(
