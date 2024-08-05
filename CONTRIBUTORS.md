@@ -3,7 +3,7 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Olof Lundgren | | data curator | Author
-Johann-Mattis List | @LinguList | maintainer | Other
-Lev Michael | | data provider | Editor
-Natalia Chousou-Polydouri | data provider | Editor
+Johann-Mattis List | @LinguList | maintainer | Editor
+Lev Michael | | data provider | Other
+Natalia Chousou-Polydouri | data provider | Other
 
