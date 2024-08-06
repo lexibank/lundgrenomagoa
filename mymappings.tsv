@@ -1042,587 +1042,218 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 1002	machete	2680	MACHETE
 1003	majás (paca)	316	PACA
 1004	majás (paca), Cuniculus paca	316	PACA
-#<<<			
 1005	make	734	MAKE
-1005	make	2575	DO OR MAKE
-#>>>			
-1006	make arrive		???
-1007	make dirty	1015	SOIL
-#<<<			
-1008	make dirty, soil	1228	EARTH (SOIL)
-1008	make dirty, soil	1015	SOIL
-#>>>			
-1009	make dull		???
-#<<<			
-1010	make fall, drop	2253	DRIP (EMIT LIQUID)
-1010	make fall, drop	808	DRIP (FALL IN GLOBULES)
-1010	make fall, drop	2087	DROP (CLASSIFIER)
-1010	make fall, drop	3748	DROP (OF A LIQUID)
-1010	make fall, drop	2866	DROP (SOMETHING)
-1010	make fall, drop	1280	FALL
-1010	make fall, drop	750	DROP
-#>>>			
-#<<<			
-1011	make go, send	1127	SEND
-1011	make go, send	1447	GIVE
-#>>>			
-1012	make jump		???
-1013	make leave		???
-1014	make remember (trans)		???
-1015	make sweat		???
-#<<<			
-1016	male	2106	MALE PERSON
-1016	male	2261	MALE (OF PERSON)
+1006	make arrive		
+1007	make dirty		
+1008	make dirty, soil		
+1009	make dull		
+1010	make fall, drop		
+1011	make go, send		
+1012	make jump		
+1013	make leave		
+1014	make remember (trans)		
+1015	make sweat		
 1016	male	1553	MALE
-#>>>			
-1017	malleable		???
-#<<<			
+1017	malleable		
 1018	man	1554	MAN
-1018	man	683	PERSON
-1018	man	2106	MALE PERSON
-#>>>			
 1019	manioc	925	CASSAVA
-1020	manioc beer		???
-1021	manioc cutting		???
+1020	manioc beer		
+1021	manioc cutting		
 1022	manioc flour	324	MANIOC FLOUR
 1023	manioc, Manihot esculenta	925	CASSAVA
 1024	many (much)	1198	MANY
-1025	many (much) in a group		???
-#<<<			
+1025	many (much) in a group		
 1026	marry (trans)	203	MARRY
-1026	marry (trans)	2164	MARRY (AS MAN)
-1026	marry (trans)	2163	MARRY (AS WOMAN)
-#>>>			
-#<<<			
-1027	marry (trans), marriage, married	1259	WEDDING
-1027	marry (trans), marriage, married	3182	MARRIAGE OR WEDDING
-1027	marry (trans), marriage, married	2432	MARRIAGE
-1027	marry (trans), marriage, married	2164	MARRY (AS MAN)
-1027	marry (trans), marriage, married	2163	MARRY (AS WOMAN)
-1027	marry (trans), marriage, married	203	MARRY
-#>>>			
-1028	marry a man (trans)		???
-1029	marry a woman (trans)		???
-#<<<			
-1030	marsh, swamp	640	MUD
-1030	marsh, swamp	3688	MARSH
-1030	marsh, swamp	1145	SWAMP
-1030	marsh, swamp	624	LAKE
-#>>>			
+1027	marry (trans), marriage, married		
+1028	marry a man (trans)		
+1029	marry a woman (trans)		
+1030	marsh, swamp		
 1031	massage	3119	MASSAGE (SOMEBODY)
 1032	mat	195	MAT
-#<<<			
 1033	maternal uncle	3220	MATERNAL UNCLE
-1033	maternal uncle	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
-#>>>			
-#<<<			
-1034	maternal uncle: MB or MPGS, male or female ego	1553	MALE
-1034	maternal uncle: MB or MPGS, male or female ego	809	TROUSERS
-1034	maternal uncle: MB or MPGS, male or female ego	1554	MAN
-1034	maternal uncle: MB or MPGS, male or female ego	1961	NECKLACE
 1034	maternal uncle: MB or MPGS, male or female ego	3220	MATERNAL UNCLE
-1034	maternal uncle: MB or MPGS, male or female ego	2694	MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT)
-1034	maternal uncle: MB or MPGS, male or female ego	1344	RAM
-1034	maternal uncle: MB or MPGS, male or female ego	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
-1034	maternal uncle: MB or MPGS, male or female ego	3249	MATERNAL UNCLE (MOTHER'S OLDER BROTHER)
-1034	maternal uncle: MB or MPGS, male or female ego	3250	MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER)
-1034	maternal uncle: MB or MPGS, male or female ego	2263	MALE (OF ANIMAL)
-1034	maternal uncle: MB or MPGS, male or female ego	2261	MALE (OF PERSON)
-1034	maternal uncle: MB or MPGS, male or female ego	1936	DEER
-1034	maternal uncle: MB or MPGS, male or female ego	2646	HUSBAND OR MALE PERSON
-1034	maternal uncle: MB or MPGS, male or female ego	2106	MALE PERSON
-1034	maternal uncle: MB or MPGS, male or female ego	771	HAT
-#>>>			
-#<<<			
-1035	meat	634	MEAT
 1035	meat	2615	FLESH OR MEAT
-#>>>			
 1036	meet	1831	MEET
-#<<<			
-1037	meet, encounter, come across, find	719	FIND
-1037	meet, encounter, come across, find	1831	MEET
 1037	meet, encounter, come across, find	3904	ENCOUNTER (MEET)
-#>>>			
-#<<<			
-1038	meet, visit	1377	VISIT
-1038	meet, visit	1831	MEET
-#>>>			
-1039	meet/visit again, see again	1831	MEET
-#<<<			
-1040	melt fat/lard	1282	FAT (FROM ANIMALS)
-1040	melt fat/lard	323	FAT (ORGANIC SUBSTANCE)
-#>>>			
-1041	melted		???
+1038	meet, visit		
+1039	meet/visit again, see again		
+1040	melt fat/lard		
+1041	melted		
 1042	memory	1018	MEMORY
-1043	messenger		???
-1044	mestizo, mixed person		???
-#<<<			
-1045	microbe, bug (associated to water)	1027	BUG
-1045	microbe, bug (associated to water)	620	INSECT
-#>>>			
+1043	messenger		
+1044	mestizo, mixed person		
+1045	microbe, bug (associated to water)		
 1046	mine	2090	MY
-1047	mite sp. (scabies)		???
+1047	mite sp. (scabies)		
 1048	mix (trans)	2017	MIX
-#<<<			
-1049	mix, turn	1444	TURN AROUND
-1049	mix, turn	2017	MIX
-1049	mix, turn	1588	TURN
-1049	mix, turn	121	SPIN
-1049	mix, turn	827	ROLL
-1049	mix, turn	1445	TURN (SOMETHING)
-#>>>			
-1050	mixer, blender		???
-#<<<			
+1049	mix, turn		
+1050	mixer, blender		
 1051	mock, make fun of	2760	MAKE A JOKE
-1051	mock, make fun of	117	IMITATE
-#>>>			
 1052	monkey	1350	MONKEY
-1053	monkey sp.	434	SPIDER MONKEY
-1054	monkey sp., bald uakari, Cacajao calvus	434	SPIDER MONKEY
-1055	monkey sp., marmoset	434	SPIDER MONKEY
-#<<<			
-1056	monkey, generic	3298	APE OR MONKEY
-1056	monkey, generic	925	CASSAVA
+1053	monkey sp.	1350	MONKEY
+1054	monkey sp., bald uakari, Cacajao calvus		
+1055	monkey sp., marmoset		
 1056	monkey, generic	1350	MONKEY
-1056	monkey, generic	439	CEBUS MONKEY
-#>>>			
 1057	month	1370	MONTH
 1058	moon	1313	MOON
 1059	more	1992	MORE
 1060	morning	1339	MORNING
-#<<<			
 1061	mortar	224	MORTAR
-1061	mortar	1731	MORTAR BINDER
-#>>>			
-1062	mortar & pestle		???
+1062	mortar & pestle		
 1063	mosquito	1509	MOSQUITO
-1064	mosquito sp.		???
-#<<<			
-1065	mosquito, generic	925	CASSAVA
+1064	mosquito sp.	1509	MOSQUITO
 1065	mosquito, generic	1509	MOSQUITO
-#>>>			
 1066	mother	1216	MOTHER
 1067	mother-in-law	1050	MOTHER-IN-LAW
-#<<<			
-1068	mother-in-law, female ego	2257	MOTHER-IN-LAW (OF MAN)
-1068	mother-in-law, female ego	2383	AUNT OR MOTHER-IN-LAW
 1068	mother-in-law, female ego	2256	MOTHER-IN-LAW (OF WOMAN)
-1068	mother-in-law, female ego	306	PARENTS-IN-LAW
-1068	mother-in-law, female ego	1050	MOTHER-IN-LAW
-#>>>			
-#<<<			
 1069	mother-in-law, male ego	2257	MOTHER-IN-LAW (OF MAN)
-1069	mother-in-law, male ego	2383	AUNT OR MOTHER-IN-LAW
-1069	mother-in-law, male ego	2256	MOTHER-IN-LAW (OF WOMAN)
-1069	mother-in-law, male ego	306	PARENTS-IN-LAW
-1069	mother-in-law, male ego	1050	MOTHER-IN-LAW
-#>>>			
 1070	mourn	1955	GRIEVE
-#<<<			
 1071	mouse, rat	2139	MUROID (MOUSE OR RAT)
-1071	mouse, rat	1491	MOUSE
-1071	mouse, rat	1490	RAT
-#>>>			
 1072	moustache	1165	MOUSTACHE
 1073	mouth	674	MOUTH
-1074	move to		???
+1074	move to		
 1075	much, many	1198	MANY
 1076	mud	640	MUD
-1077	murky		???
-1078	murky water		???
-1079	mythical hero		???
-#<<<			
-1080	nail, fasten, attach	2128	CLAW OR NAIL
-1080	nail, fasten, attach	1258	FINGERNAIL
-1080	nail, fasten, attach	502	NAIL (TOOL)
-1080	nail, fasten, attach	3306	NAIL
-1080	nail, fasten, attach	1094	FASTEN
-1080	nail, fasten, attach	3894	ATTACH
-1080	nail, fasten, attach	1896	FINGERNAIL OR TOENAIL
-#>>>			
+1077	murky		
+1078	murky water		
+1079	mythical hero		
+1080	nail, fasten, attach		
 1081	naked	590	NAKED
 1082	name (n.)	1405	NAME
-1083	name (n.)@		???
-1084	name of a god from Tupi mythology		???
-#<<<			
+1083	name (n.)@	1405	NAME
+1084	name of a god from Tupi mythology		
 1085	nape, back of neck	1347	NAPE (OF NECK)
-1085	nape, back of neck	1333	NECK
-#>>>			
 1086	narrow	1267	NARROW
-1087	narrow in the middle		???
-1088	narrow in the middle and wide on the ends		???
-#<<<			
-1089	nation, race	789	PEOPLE
-1089	nation, race	1300	COUNTRY
-#>>>			
-#<<<			
-1090	near (nearby)	3735	NEAR (IN SPACE)
-1090	near (nearby)	78	THAT
+1087	narrow in the middle		
+1088	narrow in the middle and wide on the ends		
+1089	nation, race		
 1090	near (nearby)	1942	NEAR
-1090	near (nearby)	1937	THERE
-#>>>			
-#<<<			
-1091	near (nearby), be with (person)	2482	TOGETHER
-1091	near (nearby), be with (person)	1937	THERE
-1091	near (nearby), be with (person)	1340	WITH
-1091	near (nearby), be with (person)	1200	HUSBAND
-1091	near (nearby), be with (person)	3735	NEAR (IN SPACE)
-1091	near (nearby), be with (person)	78	THAT
-1091	near (nearby), be with (person)	1942	NEAR
-#>>>			
+1091	near (nearby), be with (person)		
 1092	neck	1333	NECK
 1093	necklace	1961	NECKLACE
-#<<<			
 1094	need	2339	NEED (SOMETHING)
-1094	need	643	NEED (NOUN)
-#>>>			
 1095	negate, say no	49	REFUSE
 1096	negotiation, agreement	3644	AGREEMENT
 1097	neighbor	1332	NEIGHBOUR
-#<<<			
-1098	nephew	1056	SON-IN-LAW
 1098	nephew	1063	NEPHEW
-#>>>			
-#<<<			
-1099	nephew, BC or PGCC, female ego	1056	SON-IN-LAW
-1099	nephew, BC or PGCC, female ego	3890	NEPHEW OR NIECE
-1099	nephew, BC or PGCC, female ego	1063	NEPHEW
-#>>>			
-#<<<			
-1100	nephew, female ego	1056	SON-IN-LAW
-1100	nephew, female ego	3890	NEPHEW OR NIECE
-1100	nephew, female ego	1063	NEPHEW
-#>>>			
-#<<<			
-1101	nephew, male ego	1056	SON-IN-LAW
-1101	nephew, male ego	3890	NEPHEW OR NIECE
-1101	nephew, male ego	1063	NEPHEW
-#>>>			
-#<<<			
-1102	nephew, or son of male cousin. male ego	1056	SON-IN-LAW
-1102	nephew, or son of male cousin. male ego	3890	NEPHEW OR NIECE
-1102	nephew, or son of male cousin. male ego	1063	NEPHEW
-#>>>			
-#<<<			
-1103	nephew, ZS	1056	SON-IN-LAW
-1103	nephew, ZS	3890	NEPHEW OR NIECE
+1099	nephew, BC or PGCC, female ego		
+1100	nephew, female ego		
+1101	nephew, male ego		
+1102	nephew, or son of male cousin. male ego		
 1103	nephew, ZS	1063	NEPHEW
-#>>>			
-#<<<			
 1104	nest, for birds	3549	BIRD NEST
-1104	nest, for birds	539	NEST
-#>>>			
 1105	new	1231	NEW
-1106	next part		???
+1106	next part		
 1107	niece	1642	NIECE
-#<<<			
-1108	niece (ZD or MZDD or FZDD), male ego	1642	NIECE
-1108	niece (ZD or MZDD or FZDD), male ego	3890	NEPHEW OR NIECE
-#>>>			
-#<<<			
-1109	niece, BC or PGCC, female ego	1642	NIECE
-1109	niece, BC or PGCC, female ego	3890	NEPHEW OR NIECE
-#>>>			
-#<<<			
-1110	niece, male ego	1642	NIECE
-1110	niece, male ego	3890	NEPHEW OR NIECE
-#>>>			
-#<<<			
-1111	niece, male ego (brother's daughter or cousin's daughter)	1642	NIECE
-1111	niece, male ego (brother's daughter or cousin's daughter)	3890	NEPHEW OR NIECE
-#>>>			
-#<<<			
-1112	night (evening)	1233	NIGHT
-1112	night (evening)	706	DARK
+1108	niece (ZD or MZDD or FZDD), male ego		
+1109	niece, BC or PGCC, female ego		
+1110	niece, male ego		
+1111	niece, male ego (brother's daughter or cousin's daughter)		
 1112	night (evening)	1629	EVENING
-#>>>			
 1113	no	1269	NO
-#<<<			
-1114	no (female/woman)	2105	FEMALE PERSON
-1114	no (female/woman)	1240	NOT
-1114	no (female/woman)	687	NOTHING
-1114	no (female/woman)	3661	RICH PERSON
-1114	no (female/woman)	962	WOMAN
-1114	no (female/woman)	2279	NO OR NOT
-1114	no (female/woman)	1269	NO
-#>>>			
-#<<<			
-1115	no, negation	687	NOTHING
+1114	no (female/woman)		
 1115	no, negation	2279	NO OR NOT
-1115	no, negation	1269	NO
-1115	no, negation	1240	NOT
-#>>>			
 1116	nobody	3887	NOBODY
 1117	noise	1182	NOISE
-1118	none		???
-1119	NONE		???
+1118	none		
+1119	NONE		
 1120	nose	1221	NOSE
 1121	nothing	687	NOTHING
 1122	now	1376	NOW
-#<<<			
-1123	now, soon	703	SOON
-1123	now, soon	1963	IMMEDIATELY
-1123	now, soon	2097	NOW OR TODAY
-1123	now, soon	1376	NOW
-#>>>			
+1123	now, soon		
 1124	obey (trans)	1635	OBEY
-1125	oblong basket		???
+1125	oblong basket		
 1126	ocean, sea	2282	SEA OR OCEAN
-1127	ocelot		???
+1127	ocelot		
 1128	offspring	1801	CHILD (DESCENDANT)
-#<<<			
-1129	offspring (son or daughter), female ego	2392	DAUGHTER OR GIRL
-1129	offspring (son or daughter), female ego	1801	CHILD (DESCENDANT)
-1129	offspring (son or daughter), female ego	1357	DAUGHTER
-1129	offspring (son or daughter), female ego	3778	DAUGHTER (OF MALE EGO)
-1129	offspring (son or daughter), female ego	3930	DAUGHTER (OF WOMAN)
-#>>>			
-#<<<			
-1130	offspring, child, cub (of male)	74	PUPPY
-1130	offspring, child, cub (of male)	1801	CHILD (DESCENDANT)
-1130	offspring, child, cub (of male)	1304	CHILD (YOUNG HUMAN)
-1130	offspring, child, cub (of male)	2099	CHILD
-1130	offspring, child, cub (of male)	3254	YOUNG ANIMAL
-1130	offspring, child, cub (of male)	1620	SON
-1130	offspring, child, cub (of male)	2391	BOY OR SON
-1130	offspring, child, cub (of male)	1366	BOY
-1130	offspring, child, cub (of male)	1646	GIRL
-#>>>			
+1129	offspring (son or daughter), female ego		
+1130	offspring, child, cub (of male)		
 1131	often, frequent	1852	OFTEN
-#<<<			
-1132	old	2112	OLD (AGED)
-1132	old	2113	OLD (USED)
 1132	old	1229	OLD
-1132	old	406	OLD MAN
-#>>>			
-#<<<			
 1133	old man	406	OLD MAN
-1133	old man	1229	OLD
-#>>>			
 1134	old woman	907	OLD WOMAN
-#<<<			
-1135	older brother, male ego	2415	OLDER BROTHER (OF WOMAN)
-1135	older brother, male ego	1759	OLDER BROTHER
-1135	older brother, male ego	2644	GRANDFATHER OR OLDER BROTHER
 1135	older brother, male ego	2414	OLDER BROTHER (OF MAN)
-#>>>			
-1136	older cousin (female), female ego		???
-1137	older cousin (male), male ego		???
-1138	older nephew, male ego		???
-1139	older niece, female ego		???
-#<<<			
-1140	older sister, female ego	2418	OLDER SISTER (OF MAN)
+1136	older cousin (female), female ego		
+1137	older cousin (male), male ego		
+1138	older nephew, male ego		
+1139	older niece, female ego		
 1140	older sister, female ego	2419	OLDER SISTER (OF WOMAN)
-1140	older sister, female ego	1758	OLDER SISTER
-#>>>			
 1141	one	1493	ONE
 1142	one time	374	ONE TIME
-1143	one-eyed, cross-eyed		???
-1144	one-handed		???
-#<<<			
+1143	one-eyed, cross-eyed		
+1144	one-handed		
 1145	open	1156	OPEN
-1145	open	3235	OPEN (STATE)
-#>>>			
-#<<<			
-1146	open (stative verb, adj)	1156	OPEN
-1146	open (stative verb, adj)	3234	OPEN (EYES)
-1146	open (stative verb, adj)	3437	OPEN (MOUTH)
-1146	open (stative verb, adj)	1398	DRY
-#>>>			
-#<<<			
+1145	open	1156	OPEN
+1146	open (stative verb, adj)	3235	OPEN (STATE)
 1147	open (trans)	1156	OPEN
-1147	open (trans)	3234	OPEN (EYES)
-1147	open (trans)	3437	OPEN (MOUTH)
-1147	open (trans)	1633	FLAT
-1147	open (trans)	3235	OPEN (STATE)
-1147	open (trans)	1108	UNCOVER
-#>>>			
-#<<<			
-1148	opening, crack	1437	SPLIT
-1148	opening, crack	1667	HOLE
-1148	opening, crack	3080	SPLIT OPEN
-#>>>			
-#<<<			
-1149	order, command	1362	STREET
-1149	order, command	1128	ORDER
-1149	order, command	1998	COMMAND
-#>>>			
+1148	opening, crack		
+1149	order, command		
 1150	orphan	1149	ORPHAN
-1151	orphan (of father)	1149	ORPHAN
-1152	orphan, of mother	1149	ORPHAN
+1151	orphan (of father)		
+1152	orphan, of mother		
 1153	other	197	OTHER
-#<<<			
-1154	other (FS)	3863	OTHER OR SOME
-1154	other (FS)	197	OTHER
-#>>>			
-#<<<			
-1155	other (MS)	3863	OTHER OR SOME
-1155	other (MS)	197	OTHER
-#>>>			
+1154	other (FS)		
+1155	other (MS)		
 1156	over there	3411	OVER THERE
-#<<<			
-1157	owner, boss (master)	2930	BOSS
-1157	owner, boss (master)	301	CHIEFTAIN
-1157	owner, boss (master)	1545	HOST
-1157	owner, boss (master)	1036	OWNER
-#>>>			
+1157	owner, boss (master)		
 1158	paco or pacu fish (Colossoma spp.)	3922	PACU
-1159	pacu sp., Mylossoma duriventre		???
-#<<<			
-1160	paddle (intr)	234	PADDLE
-1160	paddle (intr)	1849	ROW
-1160	paddle (intr)	3318	OAR OR PADDLE
-1160	paddle (intr)	696	STIR
-1160	paddle (intr)	3137	OAR
+1159	pacu sp., Mylossoma duriventre		
 1160	paddle (intr)	3668	PADDLE (MOVEMENT)
-#>>>			
 1161	paddle (n.)	234	PADDLE
 1162	paddle (v.)	3668	PADDLE (MOVEMENT)
 1163	pain (n.)	1783	PAIN
-#<<<			
 1164	paint (intr, trans)	3194	PAINT (SOMETHING) OR PAINTING
-1164	paint (intr, trans)	3122	PAINT (SOMETHING)
-1164	paint (intr, trans)	2001	PAINTING
-1164	paint (intr, trans)	1613	COLOR
-1164	paint (intr, trans)	647	PAINT (PIGMENTS)
-#>>>			
-1165	paint blue (trans)		???
-1166	paint with hand		???
-1167	painted (spotted)		???
-1168	painted (spotted) with white		???
-1169	painted, spotted		???
-#<<<			
+1165	paint blue (trans)		
+1166	paint with hand		
+1167	painted (spotted)		
+1168	painted (spotted) with white		
+1169	painted, spotted		
 1170	pair, couple	1888	PAIR
-1170	pair, couple	1498	TWO
-1170	pair, couple	2089	PAIR (CLASSIFIER)
-#>>>			
 1171	pant (breathe heavily)	3614	PANT
 1172	parakeet	886	PARAKEET
-1173	parakeet sp.		???
-1174	parcial paralysis		???
-#<<<			
-1175	parents, relatives, kin	1644	RELATIVES
-1175	parents, relatives, kin	505	PARENTS
-1175	parents, relatives, kin	194	FAMILY
-#>>>			
+1173	parakeet sp.	886	PARAKEET
+1174	parcial paralysis		
+1175	parents, relatives, kin		
 1176	parrot	882	PARROT
-1177	parrot sp.		???
-1178	parrot@		???
+1177	parrot sp.	882	PARROT
+1178	parrot@	882	PARROT
 1179	pass	1951	PASS
 1180	pass (time)	1951	PASS
-#<<<			
 1181	pass (trans)	1367	CROSS
-1181	pass (trans)	558	PASS BY
-1181	pass (trans)	1951	PASS
-1181	pass (trans)	402	SURPASS
-#>>>			
-1182	pass in front of (trans)		???
-1183	passion fruit		???
-1184	passion fruit, Passiflora ligularis		???
-#<<<			
-1185	paternal aunt; father's sister or father's female cousin	3041	PATERNAL AUNT (FATHER'S OLDER SISTER)
-1185	paternal aunt; father's sister or father's female cousin	2691	PATERNAL AUNT (FATHER'S SISTER)
-1185	paternal aunt; father's sister or father's female cousin	1272	AUNT
-1185	paternal aunt; father's sister or father's female cousin	2170	PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER)
-1185	paternal aunt; father's sister or father's female cousin	2171	PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER)
+1182	pass in front of (trans)		
+1183	passion fruit		
+1184	passion fruit, Passiflora ligularis		
 1185	paternal aunt; father's sister or father's female cousin	2175	PATERNAL AUNT
-#>>>			
-1186	paternal uncle FB or FPGS		???
-1187	path from the sea to inland		???
+1186	paternal uncle FB or FPGS	3763	PATERNAL UNCLE
+1187	path from the sea to inland		
 1188	path, road	2457	PATH OR ROAD
-1189	patio (porch)		???
+1189	patio (porch)	3269	PORCH
 1190	peanut	595	GROUNDNUT (PEANUT)
-#<<<			
 1191	peel (trans)	275	PEEL
-1191	peel (trans)	2373	SKIN (OF FRUIT)
-1191	peel (trans)	3660	SHELL (SOMETHING)
-#>>>			
-1192	peel of a fruit		???
-1193	penetrate deeply		???
+1192	peel of a fruit		
+1193	penetrate deeply		
 1194	penis	1222	PENIS
 1195	people	789	PEOPLE
-1196	person who lives in the forest, is part of an indigenous community		???
-1197	person who names		???
+1196	person who lives in the forest, is part of an indigenous community		
+1197	person who names		
 1198	person, human	683	PERSON
-#<<<			
-1199	person, human@	2645	MAN OR PERSON
-1199	person, human@	2661	PEOPLE OR PERSON
-1199	person, human@	516	PERSON (CLASSIFIER)
 1199	person, human@	683	PERSON
 1199	person, human@	1211	HE
-1199	person, human@	856	HIRE
-1199	person, human@	231	SHAVE
-1199	person, human@	1123	PREGNANT
-#>>>			
 1200	pestle	225	PESTLE
 1201	phlegm	3061	PHLEGM
 1202	piece	594	PIECE
-#<<<			
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	3326	LEATHER OR HIDE
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	629	LEATHER
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	2141	TREE OR WOOD
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	2127	BARK OR SKIN
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	594	PIECE
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	10	FIREWOOD
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	906	TREE
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	779	PART
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	634	MEAT
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	2159	GROUND
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	1228	EARTH (SOIL)
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	1803	WOOD
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	2615	FLESH OR MEAT
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	2259	FLESH
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	1004	MUSCLE
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	682	SIDE
-1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)	1295	STICK
-#>>>			
-#<<<			
-1204	pieces, slices (for example, of fruits like pineapple, papaya)	2445	PAPAYA
-1204	pieces, slices (for example, of fruits like pineapple, papaya)	2954	SLICE
-1204	pieces, slices (for example, of fruits like pineapple, papaya)	594	PIECE
-#>>>			
-#<<<			
-1205	pierce (trans)	1434	STAB
+1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)		
+1204	pieces, slices (for example, of fruits like pineapple, papaya)		
 1205	pierce (trans)	398	PIERCE
-#>>>			
-1206	pierce through the inside		???
-#<<<			
-1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)	1414	SQUEEZE
-1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)	93	DRAW MILK
-1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)	378	PINCH
-1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)	598	SHELL
-1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)	2706	GNAW
-#>>>			
+1206	pierce through the inside		
+1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)		
 1208	pineapple	2440	PINEAPPLE
 1209	piranha	317	PIRANHA
 1210	Pithecia spp., especially Pithecia monachus, monk saki monjey		???
-#<<<			
-1211	place	850	SQUARE
 1211	place	723	PLACE (POSITION)
-#>>>			
-#<<<			
-1212	place, seat	1237	WHERE
-1212	place, seat	723	PLACE (POSITION)
-1212	place, seat	2878	SEAT (SOMEBODY)
-1212	place, seat	2058	STOOL
-1212	place, seat	998	PUT
-1212	place, seat	2248	KNOW (SOMEBODY)
-1212	place, seat	2584	BENCH
-1212	place, seat	1476	CHAIR
-1212	place, seat	850	SQUARE
-#>>>			
-#<<<			
-1213	place, way, time for drinking water	2457	PATH OR ROAD
-1213	place, way, time for drinking water	1237	WHERE
-1213	place, way, time for drinking water	2252	PATH
-1213	place, way, time for drinking water	723	PLACE (POSITION)
-1213	place, way, time for drinking water	667	ROAD
-1213	place, way, time for drinking water	488	MANNER
-1213	place, way, time for drinking water	998	PUT
-1213	place, way, time for drinking water	2248	KNOW (SOMEBODY)
-1213	place, way, time for drinking water	850	SQUARE
-#>>>			
-1214	plague		???
+1212	place, seat		
+1213	place, way, time for drinking water		
+x	plague		???
 #<<<			
 1215	plant (trans)	2026	RICE PLANT
 1215	plant (trans)	1486	PLANT (SOMETHING)
