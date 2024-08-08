@@ -30,13 +30,13 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 
 [![CLDF validation](https://github.com/lexibank/lundgrenomagoa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lundgrenomagoa/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 14%](https://img.shields.io/badge/Concepticon-14%25-red.svg "Concepticon: 14%")
+![Concepticon: 74%](https://img.shields.io/badge/Concepticon-74%25-yellow.svg "Concepticon: 74%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 3
-- **Concepts:** 1,807
+- **Varieties:** 3 (linked to 3 different Glottocodes)
+- **Concepts:** 1,807 (linked to 878 different Concepticon concept sets)
 - **Lexemes:** 3,289
 - **Sources:** 1
 - **Synonymy:** 1.20
@@ -44,7 +44,7 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 - **Cognate Diversity:** 0.49
 - **Invalid lexemes:** 0
 - **Tokens:** 19,055
-- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
+- **Segments:** 53 (0 BIPA errors, 0 CLTS sound class errors, 53 CLTS modified)
 - **Inventory size (avg):** 31.67
 
 # Contributors
@@ -52,9 +52,9 @@ In the original thesis, the author lists some 275 cognate sets with standardized
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Olof Lundgren | | data curator | Author
-Johann-Mattis List | @LinguList | maintainer | Other
-Lev Michael | | data provider | Editor
-Natalia Chousou-Polydouri | data provider | Editor
+Johann-Mattis List | @LinguList | maintainer | Editor
+Lev Michael | | data provider | Other
+Natalia Chousou-Polydouri | data provider | Other
 
 
 

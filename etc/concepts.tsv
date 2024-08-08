@@ -2,10 +2,10 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 1	a few days ago		
 2	a few times		
 3	abdominal wall		
-4	above, on top		
+4	above, on top	1741	ABOVE
 5	accuse	1814	ACCUSE
 6	achiote	349	ACHIOTE
-7	achiote, Bixa orellana		
+7	achiote, Bixa orellana	349	ACHIOTE
 8	Adam's apple	802	ADAM'S APPLE
 9	adorn, decorate	1739	DECORATE
 10	adorn, decorate@	1739	DECORATE
@@ -30,10 +30,10 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 29	angry, mad, be angry (intr)	2223	BE ANGRY
 30	animal	619	ANIMAL
 31	ankle	803	ANKLE
-32	annoint
-33	another	OTHER	OTHER
+32	annoint		
+33	another	197	OTHER
 34	ant	587	ANT
-35	ant sp.		
+35	ant sp.	587	ANT
 36	ant, generic term	587	ANT
 37	ant@	587	ANT
 38	anteater	181	ANTEATER
@@ -46,23 +46,23 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 45	armadillo	1885	ARMADILLO
 46	armadillo sp., Dasypus novemcinctus.		
 47	arming, framing		
-48	around here, near		
+48	around here, near	3735	NEAR (IN SPACE)
 49	arrange, adorn		
 50	arrival		
 51	arrive (intr)	1387	ARRIVE
 52	arrow	977	ARROW
-53	arrow cane stem
+53	arrow cane stem		
 54	ashamed, embarrased	1894	ASHAMED
 55	ashes	646	ASH
 56	ashes from tree sp., Licania elata		
 57	ask (trans)	1309	ASK (INQUIRE)
-58	ask for (ditr?)	1828	ASK (INQUIRE)
-59	ask for, request	1828	ASK (INQUIRE)
+58	ask for (ditr?)	1828	ASK (REQUEST)
+59	ask for, request	1828	ASK (REQUEST)
 60	ask, request for something without indicating if it's a gift or to borrow		
-61	assault, attack		
+61	assault, attack	722	ATTACK
 62	at the same time		
 63	attach, adhere, stick to	3894	ATTACH
-64	attack	722	ATTACK
+64	attack	3899	ATTACKING
 65	attempt, try to do something	1812	TRY
 66	augmentative, big, large		
 67	augmentative; big, large		
@@ -74,10 +74,10 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 73	back part, seat, buttocks		
 74	back, aft		
 75	bad	1292	BAD
-76	bad smell	1587	SMELL (STINK)
-77	bad smell, stink (n.)	1587	SMELL (STINK)
+76	bad smell	3704	ODOR (SMELL)
+77	bad smell, stink (n.)	3704	ODOR (SMELL)
 78	bad spirit		
-79	bait, lure		
+79	bait, lure	2013	BAIT
 80	bamboo	1927	BAMBOO
 81	bamboo platform		
 82	banana	868	BANANA
@@ -88,30 +88,30 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 87	bark of a tree	1204	BARK
 88	base, seat of an object	831	BASE
 89	basket	1539	BASKET
-90	basket (in relation to who carries it)		
+90	basket (in relation to who carries it)	1539	BASKET
 91	bat	1793	BAT
 92	bathe (intr)	138	BATHE
 93	battle cry (n.)	3741	BATTLE CRY (WAR WHOOP)
-94	battle cry (v.)		
-95	be (plural)		
+44	battle cry (v.)
+95	be (plural)	987	REMAIN
 96	be a color between pink and brown, including yellow colors		
 97	be able to (trans)	972	BE ABLE
-98	be able, skilled		
-99	be ash-colored, gray		
+98	be able, skilled	807	SKILLED
+99	be ash-colored, gray	153	GREY
 100	be ashamed or embarrased	1894	ASHAMED
 101	be bad	1292	BAD
 102	be blind	1653	BLIND
-103	be bored		
+103	be bored	905	BORING
 104	be born (from the sky)		
 105	be born (intr)	1090	BE BORN
 106	be called, be named	3835	BE CALLED BY NAME
 107	be carried		
 108	be clear		
-109	be cloudy, hazy	2743	CLOUDY
+109	be cloudy, hazy	2341	CLOUDY
 110	be clumsy, awkward	3900	CLUMSY
 111	be cooked	269	COOKED
 112	be covered		
-113	be dark, get dark		
+113	be dark, get dark	706	DARK
 114	be dirty	1230	DIRTY
 115	be dizzy	2712	GET DIZZY
 116	be doing something		
@@ -134,7 +134,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 133	be hungry	1533	BE HUNGRY
 134	be in a place		
 135	be in line		
-136	be informed of, know		
+136	be informed of, know	1410	KNOW (SOMETHING)
 137	be jealous of	2821	JEALOUS
 138	be late (a person)	425	BE LATE
 139	be lazy	1564	LAZY
@@ -143,16 +143,16 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 142	be muddy		
 143	be named, be called	3835	BE CALLED BY NAME
 144	be new	1231	NEW
-145	be odorous (fragrant) (intr)	376	FRAGANT
+145	be odorous (fragrant) (intr)	376	FRAGRANT
 146	be poor	1674	POOR
-147	be pregnant (intr)	1123	PREGNANT
+147	be pregnant (intr)	3827	PREGNANT (OF ANIMALS)
 148	be pretty, beautiful	1427	BEAUTIFUL
 149	be quiet, calm		
 150	be quiet, shush, silence		
 151	be rotten	1728	ROTTEN
 152	be sad (intr)	699	SAD
-153	be scared (v.), be afraid		
-154	be seen or visible	1419	FEAR (BE AFRAID)
+153	be scared (v.), be afraid	1419	FEAR (BE AFRAID)
+154	be seen or visible	1868	VISIBLE
 155	be slippery	3702	SLIPPERY
 156	be slow	701	SLOW
 157	be small	1246	SMALL
@@ -163,11 +163,11 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 162	be suspicious of		
 163	be sweet	717	SWEET
 164	be thick	1244	THICK
-165	be thirsty (intr)	3474	BE THIRSTHY
+165	be thirsty (intr)	3474	BE THIRSTY
 166	be tired	1757	TIRED
-167	be tired of something, fed up with something	1757	TIRED
+167	be tired of something, fed up with something		
 168	be ugly	1548	UGLY
-169	be useless
+169	be useless		
 170	be weak	1601	WEAK
 171	be weak (feeble)	1601	WEAK
 172	be wet	1726	WET
@@ -175,7 +175,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 174	be wide	1243	WIDE
 175	be with		
 176	be worn out		
-177	be, generic plural		
+177	be, generic plural	987	REMAIN
 178	be/feel very hot	3818	HOT (FEELING HOT)
 179	beach	3460	BEACH
 180	bead	1860	BEAD
@@ -188,7 +188,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 187	beaten		
 188	become absorbed, interested		
 189	become muddy		
-190	become physically tired	1996	GET TIRED
+190	become physically tired		
 191	become sick	2327	BECOME SICK
 192	become sour, acidic, bitter		
 193	bed	1663	BED
@@ -199,26 +199,26 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 198	before	1882	BEFORE
 199	begin (v.) (trans, comp)	1806	BEGIN
 200	beginning	1557	BEGINNING
-201	beginning, origin	1557	BEGINNING
+201	beginning, origin	3447	BEGIN OR START
 202	behind	1686	BEHIND
 203	behind something, someone	1686	BEHIND
 204	being (n.)		
 205	believe	1890	BELIEVE
 206	believe (trans, comp)	1890	BELIEVE
 207	belly	1251	BELLY
-208	belly (the part between the hips)
+208	belly (the part between the hips)		
 209	belly button	1838	NAVEL
-210	bend (trans)	2004	BEND
-211	bend, curve		
+210	bend (trans)	2224	BEND (SOMETHING)
+211	bend, curve	2004	BEND
 212	bent, humped		
 213	bent, twisted		
 214	bent, twisted@		
 215	betray	1902	BETRAY
 216	big and thick		
-217	big, large		
+217	big, large	1202	BIG
 218	big, large (and thick)		
 219	big, large and thick		
-220	big, large@		
+220	big, large@	1202	BIG
 221	bird	937	BIRD
 222	bird, generic term	937	BIRD
 223	bird@	937	BIRD
@@ -233,6 +233,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 232	blossom, bloom	3287	BLOOM
 233	blow (trans)	176	BLOW (WITH MOUTH)
 234	blow (trans), play wind instrument	176	BLOW (WITH MOUTH)
+234	blow (trans), play wind instrument		
 235	blue	837	BLUE
 236	blue, colors between blue and gray		
 237	body	1480	BODY
@@ -250,16 +251,16 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 249	brain	1583	BRAIN
 250	branch	1531	BRANCH
 251	branch of a river	826	BRANCH (BIFURCATION)
-252	branch@	1521	BRANCH
+252	branch@	1531	BRANCH
 253	brave	3	BRAVE
-254	breadth, capacity		
-255	break (long skinny things like sticks) (trans)		
+254	breadth, capacity	2536	BREADTH
+255	break (long skinny things like sticks) (trans)	459	SNAP (OF STICK)
 256	break (something round)		
 257	break (trans)	2558	BREAK (CLEAVE)
 258	break (trans) (without an instrument)	2558	BREAK (CLEAVE)
 259	break (trans) something hollow		
-260	break up camp
-261	break, tear	2558	BREAK (CLEAVE)
+260	break up camp		
+261	break, tear		
 262	breast	1402	BREAST
 263	breastfeed	2472	SUCKLE (BREASTFEED, NURSE)
 264	breastfeed (trans)	2472	SUCKLE (BREASTFEED, NURSE)
@@ -270,38 +271,38 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 269	bring (trans)	692	BRING
 270	bring, take something from one place to another (trans)	692	BRING
 271	bristle, fur		
-272	broken, damaged	588	BROKEN
+272	broken, damaged	3190	BROKEN (NOT WORKING)
 273	broom	245	BROOM
 274	broth, juice		
 275	brother	1262	BROTHER
 276	brother, female ego	560	BROTHER (OF WOMAN)
 277	brother, male ego	559	BROTHER (OF MAN)
-278	brother-in law, HeB or HPGS , female ego	2698	BROTHER-IN-LAW (HUSBAND'S OLDER BROTHER)
-279	brother-in law, HyB, female ego	2699	BROTHER-IN-LAW (HUSBAND'S YOUNGER BROTHER)
+278	brother-in law, HeB or HPGS , female ego		
+279	brother-in law, HyB, female ego		
 280	brother-in-law	2314	BROTHER-IN-LAW
 281	brother-in-law, female ego		
 282	brother-in-law, male ego	2380	BROTHER-IN-LAW (OF MAN)
 283	brother-in-law, WB or WPGS male ego	2380	BROTHER-IN-LAW (OF MAN)
-284	brother-in-law: eZH, PGDH, GDH, female ego	2698	BROTHER-IN-LAW (HUSBAND'S OLDER BROTHER)
-285	brother-in-law: yZH, PGD(y), or GD(y), female ego	2699	BROTHER-IN-LAW (HUSBAND'S YOUNGER BROTHER)
+284	brother-in-law: eZH, PGDH, GDH, female ego		
+285	brother-in-law: yZH, PGD(y), or GD(y), female ego		
 286	brown	2409	BROWN
 287	brown capuchin monkey		
 288	bubble (v.)		
-289	bull, cow		
+289	bull, cow	3044	BOVINE
 290	bullet ant, Paraponera clavata		
 291	bumble bee		
-292	bunch, cluster		
+292	bunch, cluster	1966	BUNCH
 293	bundle, wrap (trans)		
 294	burn	2102	BURN
-295	burn, scald		
+295	burn, scald	3383	SCALD (BURN ONESELF WITH LIQUID)
 296	burnt, singed smell		
-297	burst, break open		
+297	burst, break open	3976	EXPLODE
 298	bury (trans)	1719	BURY
 299	butterfly	1791	BUTTERFLY
 300	buttocks	834	BUTTOCKS
 301	cadaver, corpse	767	CORPSE
 302	caiman	2438	CAIMAN
-303	calabash, Crescentia cujete		
+303	calabash, Crescentia cujete	3918	CALABASH
 304	call (trans)	1084	CALL
 305	calm down		
 306	candela	1273	CANDLE
@@ -315,16 +316,16 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 314	carry a short distance (trans)		
 315	catch (with a lasso, etc.)		
 316	catch by surprise		
-317	catch fire		
+317	catch fire	737	LIGHT (IGNITE)
 318	catch with hook, pull up with fishing hook		
 319	caterpillar sp.	2247	CATERPILLAR
 320	catfish	3777	CATFISH
 321	cause of fear		
-322	celebration, party		
+322	celebration, party	131	FESTIVAL
 323	centipede	1974	CENTIPEDE
 324	cerebellum, back of the head	523	BACK OF HEAD
 325	certain	509	CERTAIN
-326	certainly		
+326	certainly
 327	chacra	212	FIELD
 328	chacra, farm	212	FIELD
 329	chacra, farm, garden	212	FIELD
@@ -338,9 +339,9 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 337	chest, inflated part		
 338	chew	321	CHEW
 339	chew (trans)	321	CHEW
-340	chief (leader)	2394	CHIEF
+340	chief (leader)	301	CHIEFTAIN
 341	chief (leader), king		
-342	chigger
+342	chigger		
 343	chigger, Trombicula alfreddugesi		
 344	child	2099	CHILD
 345	chin	1510	CHIN
@@ -348,12 +349,12 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 347	cicada	2353	CICADA
 348	cigar		
 349	claw	72	CLAW
-350	claw@	72	claw
+350	claw@	72	CLAW
 351	clay	1399	CLAY
 352	clean	704	CLEAN
 353	clean (dirt that is hard to remove) (v) (trans)		
 354	clean (just dirt from the surface) (v) (trans)		
-355	clean (v) (trans)	704	CLEAN
+355	clean (v) (trans)	2235	CLEAN (SOMETHING)
 356	clean the rust off (v) (trans)		
 357	clear land (for farming)		
 358	climb (trans)	1102	CLIMB
@@ -407,7 +408,8 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 406	crock (earthenware)		
 407	crock (earthenware) for making chicha or masato		
 408	crock (earthenware) for making manioc beer		
-409	cross, go across		
+409	cross, go across	1367	CROSS
+409	cross, go across	574	TRANSIT
 410	cross-eyed		
 411	cry (intr)	1839	CRY
 412	cry, call (for example, rooster cry) (n. and v.)		
@@ -432,7 +434,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 431	cyst		
 432	dam made of wood		
 433	dance (intr)	1879	DANCE
-434	dance (intr.)	1879	DANCE
+434	dance (intr.)
 435	dance (n.)	3472	DANCE (MOVEMENT)
 436	dance (v.)	1879	DANCE
 437	dark	706	DARK
@@ -456,14 +458,14 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 455	defoliate, pick leaves		
 456	demon	1973	DEMON
 457	demon, devil		
-458	den, for animals		
+458	den, for animals	2949	LAIR
 459	desire	2117	DESIRE
 460	destroy	681	DESTROY
 461	destroy, ruin	681	DESTROY
 462	dexterous, skilled		
 463	die (intr)	1494	DIE
 464	different	2504	DIFFERENT
-465	dig (intrans)		
+465	dig (intrans)	1418	DIG
 466	dig (trans)	1418	DIG
 467	digging stick	339	DIGGING STICK
 468	digging stick, hoe		
@@ -496,7 +498,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 495	door	1567	DOOR
 496	drag	2030	DRAG
 497	drag a heavy object		
-498	drag, pull		
+498	drag, pull	2030	DRAG
 499	drain, drip (liquids)		
 500	drink (intr, trans)	1401	DRINK
 501	drink alcohol		
@@ -506,6 +508,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 505	drown (intr)	1904	DROWN
 506	drunk	1463	DRUNK
 507	dry	1398	DRY
+507	dry	1786	DRY UP
 508	dry (food) (trans)		
 509	dry (intr)	1786	DRY UP
 510	dry (intr, trans)	2015	MAKE DRY
@@ -523,116 +526,117 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 522	ear (inside)		
 523	ear (outside part)		
 524	earthworm	2350	EARTHWORM
-525	eat (intr)		
-526	eat (intr, trans)		
+525	eat (intr)	1336	EAT
+526	eat (intr, trans)	1336	EAT
 527	edge of an object		
-528	edge, fringe		
+528	edge, fringe	2989	FRINGE
 529	egg	744	EGG
-530	elbow		
-531	elbow, lit. the seat of the arm		
-532	embers		
-533	embrace, hug (trans)		
-534	emerge		
-535	emit noise, sound		
-536	emit smoke or steam		
+530	elbow	981	ELBOW
+531	elbow, lit. the seat of the arm	981	ELBOW
+532	embers	67	EMBERS
+533	embrace, hug (trans)	928	EMBRACE
+534	emerge	1076	EMERGE (APPEAR)
+535	emit noise, sound	2879	SOUND (OF INSTRUMENT OR VOICE)
+536	emit smoke or steam	2859	SMOKE (EMIT SMOKE)
 537	empty shell		
-538	enclosure, yard, fenced-in area		
+538	enclosure, yard, fenced-in area	736	YARD
 539	end, conclusion		
-540	endure		
-541	enemy		
+540	endure	833	ENDURE
+541	enemy	1358	ENEMY
 542	enjoy		
-543	enter (intr)		
+543	enter (intr)	749	ENTER
 544	entrance		
-545	escape (intr)		
+545	escape (intr)	1615	ESCAPE
 546	esophagus		
 547	even now		
 548	every day, always		
-549	evil		
+549	evil	45	EVIL
 550	evil snake spirit		
 551	evil spirit, demon		
-552	excrement		
-553	excrement, feces		
-554	exist		
+552	excrement	675	FAECES (EXCREMENT)
+553	excrement, feces	675	FAECES (EXCREMENT)
+554	exist	1579	BE
 555	extend, stretch out (bow		
 556	exterior		
-557	eye		
-558	eye, eyes		
-559	eyeball, lit. what is inside the eye		
-560	eyebrow		
-561	eyebrow, lit. hair of eye		
-562	face		
-563	faint		
+557	eye	1248	EYE
+558	eye, eyes	1248	EYE
+559	eyeball, lit. what is inside the eye	3807	EYEBALL
+560	eyebrow	1173	EYEBROW
+561	eyebrow, lit. hair of eye	1173	EYEBROW
+562	face	1560	FACE
+563	faint	3616	FAINT (PASS OUT)
 564	faint (n)		
-565	fall (what is at rest)		
-566	fall down, scatter		
+565	fall (what is at rest)	1276	AUTUMN
+566	fall down, scatter	2894	TUMBLE (FALL DOWN)
+566	fall down, scatter	1280	FALL
 567	fall from a height (intr)		
 568	fall into water		
-569	fall over, fall down (intr)		
-570	fall over, fall down, fall to the side (intr)		
-571	family (male or female ego)		
-572	fan		
+569	fall over, fall down (intr)	1280	FALL
+570	fall over, fall down, fall to the side (intr)	1280	FALL
+571	family (male or female ego)	194	FAMILY
+572	fan	1971	FAN (OBJECT)
 573	far	1406	FAR
-574	far (something visible)		
+574	far (something visible)	1406	FAR
 575	farming, agriculture		
-576	fast		
-577	fat		
-578	fat (lard)		
-579	father		
-580	father (religious)		
+576	fast	1631	FAST
+577	fat	1279	FAT (OBESE)
+578	fat (lard)	1282	FAT (FROM ANIMALS)
+579	father	1217	FATHER
+580	father (religious)	852	PRIEST
 581	father, mother of one's godchild		
-582	father-in-law		
-583	father-in-law, female ego		
-584	father-in-law, male ego		
+582	father-in-law	1055	FATHER-IN-LAW
+583	father-in-law, female ego	2254	FATHER-IN-LAW (OF WOMAN)
+584	father-in-law, male ego	2255	FATHER-IN-LAW (OF MAN)
 585	fear (n.), be scared (v.)		
-586	fear, be scared		
-587	feather		
+586	fear, be scared	1419	FEAR (BE AFRAID)
+587	feather	1201	FEATHER
 588	feather from a wing		
-589	feces, excrement		
-590	feed, offer food (trans)		
-591	feed, offer food (trans)@		
+589	feces, excrement	675	FAECES (EXCREMENT)
+590	feed, offer food (trans)	739	FEED
+591	feed, offer food (trans)@	739	FEED
 592	feel guilty		
-593	feel, perceive		
+593	feel, perceive	2572	SENSE (PERCEIVE BY SENSES)
 594	fellow community member (male), female ego		
 595	fellow man		
-596	female		
+596	female	1551	FEMALE
 597	female cousin, male ego		
-598	fence (for defense)		
-599	fever		
+598	fence (for defense)	1690	FENCE
+599	fever	1534	FEVER
 600	feverish		
-601	few (a little)		
-602	fiber, thread		
+601	few (a little)	1242	FEW
+602	fiber, thread	1161	THREAD
 603	fibrous		
 604	field mouse, rat sp.		
 605	field, meadow, savannah		
-606	fight (n)		
-607	fight (trans)		
+606	fight (n)	3880	FIGHT (COMBAT)
+607	fight (trans)	1423	FIGHT
 608	fight against each other		
-609	fight, battle (n)		
-610	fill (trans)		
-611	fin (of a fish)		
-612	find		
-613	find, come across		
-614	finger		
-615	finger, lit. points of the hand		
-616	finger, lit. son of the hand		
-617	fingernail		
-618	finish (trans)		
-619	finish (trans), end		
+609	fight, battle (n)	3880	FIGHT (COMBAT)
+610	fill (trans)	2006	FILL
+611	fin (of a fish)	213	FIN
+612	find	719	FIND
+613	find, come across	719	FIND
+614	finger	1303	FINGER
+615	finger, lit. points of the hand	1303	FINGER
+616	finger, lit. son of the hand	1303	FINGER
+617	fingernail	1258	FINGERNAIL
+618	finish (trans)	1766	FINISH
+619	finish (trans), end	1766	FINISH
 620	finished		
 621	finished, done		
-622	fire		
+622	fire	221	FIRE
 623	firefly	206	FIREFLY
 624	firefly sp., Photinus pyralis		
-625	firefly@		
-626	firewood		
-627	first		
+625	firefly@	206	FIREFLY
+626	firewood	10	FIREWOOD
+627	first	728	FIRST
 628	first time		
 629	fish	227	FISH
-630	fish (trans)		
-631	fish hook		
+630	fish (trans)	2638	FISHING
+631	fish hook	1074	FISHHOOK
 632	fish poison	348	FISH POISON
 633	fish poison, Lonchocarpus utilis		
-634	fish scales		
+634	fish scales	227	FISH
 635	fish sp.		
 636	fish sp. catfish sp. Microglanish poecilus		
 637	fish sp., cichlid sp.		
@@ -641,54 +645,54 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 640	fish sp., trahira		
 641	fish sp., tucunare sp., Cichla monoculus		
 642	fish with fish poison		
-643	fish with fishing net		
-644	fish with hook (trans)		
-645	fish with net (trans)		
-646	fish@		
-647	fishbone		
+643	fish with fishing net	2639	FISHING (WITH A NET)
+644	fish with hook (trans)	2796	FISHING (WITH A HOOK)
+645	fish with net (trans)	2639	FISHING (WITH A NET)
+646	fish@	227	FISH
+647	fishbone	3799	FISHBONE
 648	fishing net	388	FISHNET
-649	fishing net sp.		
-650	five		
-651	five (my hand)		
-652	fix		
+649	fishing net sp.	388	FISHNET
+650	five	493	FIVE
+651	five (my hand)	493	FIVE
+652	fix	3074	FIX
 653	flame (v.), shine (as in giving off light)		
 654	flame (v.), shine, bright (as in giving off light)		
 655	flat	1633	FLAT
-656	flat, extended horizontally		
-657	flea		
+656	flat, extended horizontally	1633	FLAT
+657	flea	232	FLEA
 658	flexible but strong		
-659	float		
+659	float	1574	FLOAT
 660	flood (intr, trans)		
 661	floor made from palm trunks		
-662	flour/manioc flour		
-663	flow		
-664	flow, run off (liquids)		
-665	flower		
-666	flower@		
-667	flute		
+662	flour/manioc flour	324	MANIOC FLOUR
+663	flow	2003	FLOW
+664	flow, run off (liquids)	2003	FLOW
+665	flower	239	FLOWER
+666	flower@	239	FLOWER
+667	flute	777	FLUTE
 668	fly	1504	FLY (INSECT)
-669	fly (intr)		
+669	fly (intr)	1441	FLY (MOVE THROUGH AIR)
 670	fly sp.		
 671	fly, generic		
-672	fog		
-673	follow (trans)		
+672	fog	249	FOG
+673	follow (trans)	1085	FOLLOW
 674	follow the trail of (coming)		
 675	follow the trail of (going)		
-676	food		
+676	food	256	FOOD
 677	foot	1301	FOOT
 678	foot (moving)		
-679	forearm		
-680	forest (jungle)		
+679	forearm	446	LOWER ARM
+680	forest (jungle)	420	FOREST
 681	forest (jungle), wilderness		
 682	forever, always		
-683	forget (trans)		
+683	forget (trans)	1523	FORGET
 684	four	1500	FOUR
 685	four times		
 686	frame (for building)		
-687	fresh		
-688	friend		
-689	friend, companion		
-690	friend@		
+687	fresh	243	FRESH
+688	friend	1325	FRIEND
+689	friend, companion	1325	FRIEND
+690	friend@	1325	FRIEND
 691	frog sp., Hyla punctata		
 692	frog sp., Leptodactylus pentadactylus		
 693	frog, toad		
@@ -698,111 +702,111 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 697	frog, toad, generic		
 698	fruit	1507	FRUIT
 699	fruit (from the stem of)		
-700	fruit, generic		
-701	fry (trans)		
-702	fugitive, person who escapes		
-703	fulfill, accomplish		
-704	full		
+700	fruit, generic	1507	FRUIT
+701	fry (trans)	991	FRY
+702	fugitive, person who escapes
+703	fulfill, accomplish	1112	SUCCEED
+704	full	1429	FULL
 705	full mouth		
-706	fur		
+706	fur	580	FUR
 707	further on, beyond		
 708	game, party		
-709	gap, empty spot		
+709	gap, empty spot	2948	GAP (DISTANCE)
 710	garbage	909	GARBAGE
-711	garbage@		
+711	garbage@	909	GARBAGE
 712	gather firewood		
 713	gather, harvest (trans)		
 714	gather, pick (breaking the stem)		
 715	get close (near/nearby) to someone or something slowly		
 716	get confused		
-717	get dressed		
-718	get dressed (intr)		
-719	get dressed (intr)@		
+717	get dressed	814	DRESS UP
+718	get dressed (intr)	814	DRESS UP
+719	get dressed (intr)@	814	DRESS UP
 720	get late (the day)		
-721	get sick		
+721	get sick	2327	BECOME SICK
 722	get used to (trans)		
 723	giant anteater, Myrmecophaga tridáctyla		
-724	gift		
-725	girl, female child		
-726	give (ditr)		
-727	give away		
-728	give birth to (trans)		
+724	gift	2982	GIFT
+725	girl, female child	1646	GIRL
+726	give (ditr)	1447	GIVE
+727	give away	196	DONATE
+728	give birth to (trans)	1195	GIVE BIRTH
 729	give flower		
 730	gland		
-731	glutton		
+731	glutton	533	GLUTTON
 732	gnaw, nibble, bite		
-733	go		
+733	go	695	GO
 734	go (IMP)		
-735	go down		
-736	go down (intr)		
+735	go down	2014	GO DOWN (DESCEND)
+736	go down (intr)	2014	GO DOWN (DESCEND)
 737	go down (the tide)		
 738	go downriver (intr)		
 739	go upriver (intr)		
-740	god		
+740	god	1944	GOD
 741	god of thunder and lightning		
 742	godchild (godson or daughter), female ego		
 743	godfather		
 744	godmother		
-745	good		
-746	good@		
+745	good	1035	GOOD
+746	good@	1035	GOOD
 747	gourd	411	GOURD
 748	gourd vessel		
 749	gourd, pumpkin, squash		
 750	gourd, pumpkin, squash sp.		
 751	grab (trans)		
-752	grandchild		
-753	grandchild, female ego		
-754	grandchild, male ego		
+752	grandchild	1618	GRANDSON
+753	grandchild, female ego	3782	GRANDCHILD (OF FEMALE EGO)
+754	grandchild, male ego	1618	GRANDSON
 755	grandfather	1383	GRANDFATHER
-756	grandmother		
+756	grandmother	1496	GRANDMOTHER
 757	grandson		
 758	grass	606	GRASS
-759	grass sp.		
-760	grasshopper		
-761	grate		
-762	grave sickness, disease		
+759	grass sp.	606	GRASS
+760	grasshopper	607	GRASSHOPPER
+761	grate	3114	GRATE (SOMETHING)
+762	grave sickness, disease	1986	DISEASE
 763	green	1425	GREEN
-764	green, grue		
-765	grill		
-766	grill, barbeque		
+764	green, grue	2382	BLUE OR GREEN
+765	grill	1962	ROAST (SOMETHING)
+766	grill, barbeque	1962	ROAST (SOMETHING)
 767	grill, barbeque (n)		
-768	grill, barbeque@		
-769	grind (trans)		
-770	grindstone, stone for sharpening		
+768	grill, barbeque@	1962	ROAST (SOMETHING)
+769	grind (trans)	1033	GRIND
+770	grindstone, stone for sharpening	2459	GRINDSTONE
 771	groan (n.)		
-772	groan (v.)		
+772	groan (v.)	716	GROAN
 773	groin		
 774	group		
-775	group, multitude		
-776	grow (intr, trans)		
-777	grow (intr, trans) (only people)		
+775	group, multitude	538	MULTITUDE
+776	grow (intr, trans)	479	GROW
+777	grow (intr, trans) (only people)	552	GROW UP
 778	grow big (intr)		
 779	grow, fill (for example water at it's source)		
 780	grue		
-781	guard (n)		
+781	guard (n)	1940	GUARD
 782	guide, protector		
-783	guinea pig (?)		
-784	gull		
+783	guinea pig (?)	3718	GUINEA PIG
+784	gull	950	SEAGULL
 785	gulp, mouthful		
 786	haber		
-787	hair		
-788	hair (on head)		
+787	hair	1040	HAIR
+788	hair (on head)	2648	HAIR (HEAD)
 789	hammock	2019	HAMMOCK
 790	hand	1277	HAND
-791	handle		
-792	handle (of an instrument)		
-793	handle (of vase, etc.)		
+791	handle	1254	HANDLE
+792	handle (of an instrument)	1254	HANDLE
+793	handle (of vase, etc.)	1254	HANDLE
 794	happy	1495	HAPPY
 795	happy, joy		
-796	hard	1884	HARD
+796	hard	584	DIFFICULT
 797	hard (but flexible)		
 798	hard (rigid, dense)		
 799	hard, tough		
 800	harden		
 801	harpoon (trans)		
-802	hate		
-803	hate, detest		
-804	have (trans)		
+802	hate	1607	HATE
+803	hate, detest	1607	HATE
+804	have (trans)	773	HAVE
 805	have a beard, moustache, facial hair		
 806	have a hole, be hollow		
 807	have a lover or spouse hidden		
@@ -816,194 +820,194 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 815	have the flu		
 816	head	1256	HEAD
 817	head of a river, stream, ravine		
-818	headwaters, beginning of river		
-819	heal (intr)		
-820	heal (intr, trans)		
-821	heal (trans)		
-822	healthy		
+818	headwaters, beginning of river	2672	HEADWATERS
+819	heal (intr)	499	CURE
+820	heal (intr, trans)	499	CURE
+821	heal (trans)	499	CURE
+822	healthy	1364	HEALTHY
 823	heap of dust, trash		
 824	heap, pile up, stack, accumulate		
 825	heap, pile, stack		
-826	hear (trans)		
+826	hear (trans)	1408	HEAR
 827	heart	1223	HEART
-828	heat		
+828	heat	612	HEAT
 829	heavy	1210	HEAVY
 830	heavy, weight		
-831	heel		
+831	heel	980	HEEL
 832	height, high/tall place		
-833	help (trans)		
+833	help (trans)	1897	HELP
 834	help to give birt		
-835	hide (intr, trans)		
-836	high up (adv.)	1265	HIGH
-837	high, tall		
-838	hill		
-839	hill, mountain		
+835	hide (intr, trans)	2486	HIDE
+836	high up (adv.)		
+837	high, tall	2790	HIGH OR TALL
+838	hill	614	HILL
+839	hill, mountain	2118	MOUNTAIN OR HILL
 840	hill, spit		
-841	hips		
+841	hips	1745	HIP
 842	hold hands		
 843	hole	1667	HOLE
 844	holy person, spiritual force		
-845	honey		
-846	honeybee		
+845	honey	942	HONEY
+846	honeybee	665	BEE
 847	horn	1393	HORN (ANATOMY)
 848	horsefly	3262	HORSEFLY
-849	hot		
+849	hot	1286	HOT
 850	hot, burning		
 851	house	1252	HOUSE
-852	how?		
+852	how?	1239	HOW
 853	howler monkey	433	HOWLER MONKEY
-854	howler monkey sp.		
-855	howler monkey, Alouatta seniculus		
+854	howler monkey sp.	433	HOWLER MONKEY
+855	howler monkey, Alouatta seniculus	433	HOWLER MONKEY
 856	huasacu or huasaco, Hoplias malabaricus, trahira fish		
-857	hump		
+857	hump	534	HUMP
 858	hungry	1533	BE HUNGRY
-859	hunt (intr, trans)		
+859	hunt (intr, trans)	1435	HUNT
 860	hunt or fish for oneself		
-861	hurt		
-862	hurt, be painful		
-863	hurt, wound		
+861	hurt	2411	HURT (SOMEBODY)
+862	hurt, be painful	1129	PAINFUL
+863	hurt, wound	1109	WOUND
 864	hurt, wound head		
 865	hurt, wounded		
 866	husband	1200	HUSBAND
-867	iguana. Iguana iguana		
+867	iguana. Iguana iguana	1578	IGUANA
 868	illuminate, shine light on		
-869	imitate, represent, signal, sometimes 'imitate' as in 'mock'		
+869	imitate, represent, signal, sometimes 'imitate' as in 'mock'	117	IMITATE
 870	immature, new (for something round like fruit)		
-871	importune, bother		
-872	in front		
-873	in front of something or someone		
-874	incline, bow		
-875	increase		
-876	Indian		
+871	importune, bother	2869	BOTHER (HARASS)
+872	in front	1883	IN FRONT OF
+873	in front of something or someone	1883	IN FRONT OF
+874	incline, bow	994	BOW
+875	increase	1041	INCREASE
+876	Indian	3612	INDIGENOUS PEOPLES OF THE AMERICAS
 877	Indian from another group		
 878	Indian woman		
-879	infant		
+879	infant	1289	BABY
 880	information		
-881	inside		
-882	intestines, guts		
-883	invite		
-884	invite (trans)		
+881	inside	1606	INSIDE
+882	intestines, guts	1991	INTESTINES
+883	invite	1611	INVITE
+884	invite (trans)	1611	INVITE
 885	invite to a party (trans)		
-886	invoke, call		
-887	iron, metal		
+886	invoke, call	1084	CALL
+887	iron, metal	3324	IRON OR METAL
 888	island	622	ISLAND
 889	isula or izula, Paraponera clavata, bullet ant		
 890	it's true		
-891	jaguar		
-892	jaw		
+891	jaguar	1250	JAGUAR
+892	jaw	798	JAW
 893	jergón, Bothrops atrox, fer-de-lance snake		
-894	join, (put together, attach) (trans)		
-895	jump (intr)		
+894	join, (put together, attach) (trans)	1743	JOIN
+895	jump (intr)	1829	JUMP
 896	jump from one side to another		
 897	jump with one foot or two		
-898	keep		
-899	kidney		
-900	kill (trans)		
+898	keep	1477	KEEP
+899	kidney	489	KIDNEY
+900	kill (trans)	1417	KILL
 901	kill (trans) doing great damage		
 902	kin, race, nation		
-903	kiss		
+903	kiss	578	KISS
 904	knead, rub (trans)		
-905	knee		
-906	kneecap		
+905	knee	1371	KNEE
+906	kneecap	1371	KNEE
 907	knife	1352	KNIFE
 908	knock down		
 909	knock down, undo, break up		
-910	knot		
+910	knot	760	KNOT
 911	knot (in wood/tree)		
 912	knot, knob (for example, in a cane/reed)		
-913	know (trans)		
+913	know (trans)	1410	KNOW (SOMETHING)
 914	know how to do		
 915	know well		
 916	lake	624	LAKE
-917	land, ground, earth		
+917	land, ground, earth	3603	EARTH OR LAND
 918	landslide		
-919	language		
-920	lap		
+919	language	1307	LANGUAGE
+920	lap	3263	LAP
 921	larva, maggot, grub		
 922	larva, maggot, grub sp.		
 923	larva, maggot, grub sp. that appears in fruits and meats		
 924	larva, maggot, grub sp., palm weevil, suri		
 925	late at night		
 926	lately, recently		
-927	later		
+927	later	477	LATE
 928	later, after something, someone		
-929	laugh (intr)		
-930	law		
-931	lay down		
-932	lazy		
+929	laugh (intr)	1355	LAUGH
+930	law	1062	LAW
+931	lay down	1411	LIE (REST)
+932	lazy	1564	LAZY
 933	leader of the song, conductor		
-934	leaf		
+934	leaf	628	LEAF
 935	leaf-cutter ant		
-936	leave (trans)		
-937	leave from (intr)		
+936	leave (trans)	1752	LEAVE
+937	leave from (intr)	1752	LEAVE
 938	leave from, depart, leave on a trail		
-939	left		
-940	left (hand)		
-941	leg		
-942	lend		
-943	lend, let borrow		
-944	length, body of something long		
-945	let go		
-946	liar, person who lies		
-947	lie (n.)		
+939	left	244	LEFT
+940	left (hand)	2182	LEFT HAND
+941	leg	1297	LEG
+942	lend	582	LEND
+943	lend, let borrow	582	LEND
+944	length, body of something long	2537	LENGTH
+945	let go	1095	LET GO OR SET FREE
+946	liar, person who lies	3470	LIAR
+947	lie (n.)	2826	LIE (FALSEHOOD)
 948	lie on a surface (intr)		
 949	lie on a surface (intr), only animals		
-950	lie to, deceive (trans)		
-951	life		
-952	lift (trans)		
+950	lie to, deceive (trans)	601	LIE (MISLEAD)
+951	life	210	LIFE
+952	lift (trans)	501	LIFT
 953	lift (trans) (something heavy)		
-954	light		
-955	light (v.)		
-956	light (v.), start fire		
-957	light (weight)		
-958	light fire (v.)		
+954	light	630	LIGHT (RADIATION)
+955	light (v.)	737	LIGHT (IGNITE)
+956	light (v.), start fire	737	LIGHT (IGNITE)
+957	light (weight)	1052	LIGHT (WEIGHT)
+958	light fire (v.)	737	LIGHT (IGNITE)
 959	limp with one foot and drag the other		
-960	line, row		
-961	lip		
-962	lip, lips		
-963	lips, lit. edge of the mouth		
-964	lips, lit. skin of the mouth		
-965	live (intr)		
-966	liver		
-967	lixard sp.		
-968	lizard sp.		
-969	lizard sp.,  Tupinambis teguixin		
+960	line, row	1048	LINE
+961	lip	478	LIP
+962	lip, lips	478	LIP
+963	lips, lit. edge of the mouth	478	LIP
+964	lips, lit. skin of the mouth	478	LIP
+965	live (intr)	1422	BE ALIVE
+966	liver	1224	LIVER
+967	lixard sp.	632	LIZARD
+968	lizard sp.	632	LIZARD
+969	lizard sp.,  Tupinambis teguixin	632	LIZARD
 970	lizard, gecko sp.		
 971	lizard, gecko, iguana		
 972	lizard, gecko, iguana@		
-973	load (n.)		
+973	load (n.)	1679	LOAD
 974	lobe-shaped part of a club		
 975	long	1203	LONG
 976	long stick for making holes in the ground for planting		
-977	long time		
+977	long time	418	FOR A LONG TIME
 978	long time ago	373	LONG AGO
-979	look (intr)		
-980	look for (trans)		
-981	look for something		
-982	look like, resemble		
+979	look (intr)	1819	LOOK
+980	look for (trans)	1468	LOOK FOR
+981	look for something	1468	LOOK FOR
+982	look like, resemble	1777	RESEMBLE
 983	look over, observe		
-984	lose (oneself) (intr)		
-985	lose (oneself), lose the way		
+984	lose (oneself) (intr)	423	GET LOST
+985	lose (oneself), lose the way	423	GET LOST
 986	lose something		
-987	lose way		
-988	lost		
+987	lose way	423	GET LOST
+988	lost	3667	LOST
 989	louse	1392	LOUSE
-990	love		
-991	love (trans)		
-992	love (trans)@		
-993	lower back		
-994	lower leg		
-995	lower lip		
+990	love	3834	LOVE (AFFECTION)
+991	love (trans)	923	LOVE
+992	love (trans)@	923	LOVE
+993	lower back	3613	LOWER BACK
+994	lower leg	447	LOWER LEG
+995	lower lip	3944	LOWER LIP
 996	lumbar region, tailbone, end of spinal column		
 997	lump, become lumpy		
 998	lump, bulge that forms on the head and other parts of the body		
-999	lung		
+999	lung	688	LUNG
 1000	macaw	1630	MACAW
 1001	macawa ap.		
-1002	machete		
-1003	majás (paca)		
-1004	majás (paca), Cuniculus paca		
-1005	make		
+1002	machete	2680	MACHETE
+1003	majás (paca)	316	PACA
+1004	majás (paca), Cuniculus paca	316	PACA
+1005	make	734	MAKE
 1006	make arrive		
 1007	make dirty		
 1008	make dirty, soil		
@@ -1014,795 +1018,797 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
 1013	make leave		
 1014	make remember (trans)		
 1015	make sweat		
-1016	male		
+1016	male	1553	MALE
 1017	malleable		
-1018	man		
-1019	manioc		
+1018	man	1554	MAN
+1019	manioc	925	CASSAVA
 1020	manioc beer		
 1021	manioc cutting		
 1022	manioc flour	324	MANIOC FLOUR
-1023	manioc, Manihot esculenta		
-1024	many (much)		
+1023	manioc, Manihot esculenta	925	CASSAVA
+1024	many (much)	1198	MANY
 1025	many (much) in a group		
-1026	marry (trans)		
+1026	marry (trans)	203	MARRY
 1027	marry (trans), marriage, married		
 1028	marry a man (trans)		
 1029	marry a woman (trans)		
 1030	marsh, swamp		
-1031	massage		
-1032	mat		
-1033	maternal uncle		
-1034	maternal uncle: MB or MPGS, male or female ego		
-1035	meat		
-1036	meet		
-1037	meet, encounter, come across, find		
+1031	massage	3119	MASSAGE (SOMEBODY)
+1032	mat	195	MAT
+1033	maternal uncle	3220	MATERNAL UNCLE
+1034	maternal uncle: MB or MPGS, male or female ego	3220	MATERNAL UNCLE
+1035	meat	2615	FLESH OR MEAT
+1036	meet	1831	MEET
+1037	meet, encounter, come across, find	3904	ENCOUNTER (MEET)
 1038	meet, visit		
 1039	meet/visit again, see again		
 1040	melt fat/lard		
 1041	melted		
-1042	memory		
+1042	memory	1018	MEMORY
 1043	messenger		
 1044	mestizo, mixed person		
 1045	microbe, bug (associated to water)		
-1046	mine		
+1046	mine	2090	MY
 1047	mite sp. (scabies)		
-1048	mix (trans)		
+1048	mix (trans)	2017	MIX
 1049	mix, turn		
 1050	mixer, blender		
-1051	mock, make fun of		
+1051	mock, make fun of	2760	MAKE A JOKE
 1052	monkey	1350	MONKEY
-1053	monkey sp.		
+1053	monkey sp.	1350	MONKEY
 1054	monkey sp., bald uakari, Cacajao calvus		
 1055	monkey sp., marmoset		
-1056	monkey, generic		
-1057	month		
+1056	monkey, generic	1350	MONKEY
+1057	month	1370	MONTH
 1058	moon	1313	MOON
-1059	more		
-1060	morning		
-1061	mortar		
+1059	more	1992	MORE
+1060	morning	1339	MORNING
+1061	mortar	224	MORTAR
 1062	mortar & pestle		
 1063	mosquito	1509	MOSQUITO
-1064	mosquito sp.		
-1065	mosquito, generic		
-1066	mother		
-1067	mother-in-law		
-1068	mother-in-law, female ego		
-1069	mother-in-law, male ego		
+1064	mosquito sp.	1509	MOSQUITO
+1065	mosquito, generic	1509	MOSQUITO
+1066	mother	1216	MOTHER
+1067	mother-in-law	1050	MOTHER-IN-LAW
+1068	mother-in-law, female ego	2256	MOTHER-IN-LAW (OF WOMAN)
+1069	mother-in-law, male ego	2257	MOTHER-IN-LAW (OF MAN)
 1070	mourn	1955	GRIEVE
-1071	mouse, rat		
-1072	moustache		
+1071	mouse, rat	2139	MUROID (MOUSE OR RAT)
+1072	moustache	1165	MOUSTACHE
 1073	mouth	674	MOUTH
 1074	move to		
-1075	much, many		
-1076	mud		
+1075	much, many	1198	MANY
+1076	mud	640	MUD
 1077	murky		
 1078	murky water		
 1079	mythical hero		
 1080	nail, fasten, attach		
-1081	naked		
-1082	name (n.)		
-1083	name (n.)@		
+1081	naked	590	NAKED
+1082	name (n.)	1405	NAME
+1083	name (n.)@	1405	NAME
 1084	name of a god from Tupi mythology		
-1085	nape, back of neck		
-1086	narrow		
+1085	nape, back of neck	1347	NAPE (OF NECK)
+1086	narrow	1267	NARROW
 1087	narrow in the middle		
 1088	narrow in the middle and wide on the ends		
 1089	nation, race		
-1090	near (nearby)		
+1090	near (nearby)	1942	NEAR
 1091	near (nearby), be with (person)		
-1092	neck		
-1093	necklace		
-1094	need		
-1095	negate, say no		
-1096	negotiation, agreement		
-1097	neighbor		
+1092	neck	1333	NECK
+1093	necklace	1961	NECKLACE
+1094	need	2339	NEED (SOMETHING)
+1095	negate, say no	49	REFUSE
+1096	negotiation, agreement	3644	AGREEMENT
+1097	neighbor	1332	NEIGHBOUR
 1098	nephew	1063	NEPHEW
 1099	nephew, BC or PGCC, female ego		
 1100	nephew, female ego		
 1101	nephew, male ego		
 1102	nephew, or son of male cousin. male ego		
-1103	nephew, ZS		
-1104	nest, for birds		
+1103	nephew, ZS	1063	NEPHEW
+1104	nest, for birds	3549	BIRD NEST
 1105	new	1231	NEW
 1106	next part		
-1107	niece		
+1107	niece	1642	NIECE
 1108	niece (ZD or MZDD or FZDD), male ego		
 1109	niece, BC or PGCC, female ego		
 1110	niece, male ego		
 1111	niece, male ego (brother's daughter or cousin's daughter)		
-1112	night (evening)		
-1113	no		
+1112	night (evening)	1629	EVENING
+1113	no	1269	NO
 1114	no (female/woman)		
-1115	no, negation		
-1116	nobody		
-1117	noise		
+1115	no, negation	2279	NO OR NOT
+1116	nobody	3887	NOBODY
+1117	noise	1182	NOISE
 1118	none		
 1119	NONE		
 1120	nose	1221	NOSE
-1121	nothing		
-1122	now		
+1121	nothing	687	NOTHING
+1122	now	1376	NOW
 1123	now, soon		
-1124	obey (trans)		
+1124	obey (trans)	1635	OBEY
 1125	oblong basket		
-1126	ocean, sea		
+1126	ocean, sea	2282	SEA OR OCEAN
 1127	ocelot		
-1128	offspring		
+1128	offspring	1801	CHILD (DESCENDANT)
 1129	offspring (son or daughter), female ego		
 1130	offspring, child, cub (of male)		
-1131	often, frequent		
-1132	old		
-1133	old man		
-1134	old woman		
-1135	older brother, male ego		
+1131	often, frequent	1852	OFTEN
+1132	old	1229	OLD
+1133	old man	406	OLD MAN
+1134	old woman	907	OLD WOMAN
+1135	older brother, male ego	2414	OLDER BROTHER (OF MAN)
 1136	older cousin (female), female ego		
 1137	older cousin (male), male ego		
 1138	older nephew, male ego		
 1139	older niece, female ego		
-1140	older sister, female ego		
-1141	one		
-1142	one time		
+1140	older sister, female ego	2419	OLDER SISTER (OF WOMAN)
+1141	one	1493	ONE
+1142	one time	374	ONE TIME
 1143	one-eyed, cross-eyed		
 1144	one-handed		
-1145	open		
-1146	open (stative verb, adj)		
-1147	open (trans)		
+1145	open	1156	OPEN
+1145	open	1156	OPEN
+1146	open (stative verb, adj)	3235	OPEN (STATE)
+1147	open (trans)	1156	OPEN
 1148	opening, crack		
 1149	order, command		
-1150	orphan		
+1150	orphan	1149	ORPHAN
 1151	orphan (of father)		
 1152	orphan, of mother		
 1153	other	197	OTHER
 1154	other (FS)		
 1155	other (MS)		
-1156	over there		
+1156	over there	3411	OVER THERE
 1157	owner, boss (master)		
-1158	paco or pacu fish (Colossoma spp.)		
+1158	paco or pacu fish (Colossoma spp.)	3922	PACU
 1159	pacu sp., Mylossoma duriventre		
-1160	paddle (intr)		
+1160	paddle (intr)	3668	PADDLE (MOVEMENT)
 1161	paddle (n.)	234	PADDLE
-1162	paddle (v.)		
-1163	pain (n.)		
-1164	paint (intr, trans)		
+1162	paddle (v.)	3668	PADDLE (MOVEMENT)
+1163	pain (n.)	1783	PAIN
+1164	paint (intr, trans)	3194	PAINT (SOMETHING) OR PAINTING
 1165	paint blue (trans)		
 1166	paint with hand		
 1167	painted (spotted)		
 1168	painted (spotted) with white		
 1169	painted, spotted		
-1170	pair, couple		
-1171	pant (breathe heavily)		
-1172	parakeet		
-1173	parakeet sp.		
+1170	pair, couple	1888	PAIR
+1171	pant (breathe heavily)	3614	PANT
+1172	parakeet	886	PARAKEET
+1173	parakeet sp.	886	PARAKEET
 1174	parcial paralysis		
 1175	parents, relatives, kin		
-1176	parrot		
-1177	parrot sp.		
-1178	parrot@		
-1179	pass		
-1180	pass (time)		
-1181	pass (trans)		
+1176	parrot	882	PARROT
+1177	parrot sp.	882	PARROT
+1178	parrot@	882	PARROT
+1179	pass	1951	PASS
+1180	pass (time)	1951	PASS
+1181	pass (trans)	1367	CROSS
 1182	pass in front of (trans)		
 1183	passion fruit		
 1184	passion fruit, Passiflora ligularis		
-1185	paternal aunt; father's sister or father's female cousin		
-1186	paternal uncle FB or FPGS		
+1185	paternal aunt; father's sister or father's female cousin	2175	PATERNAL AUNT
+1186	paternal uncle FB or FPGS	3763	PATERNAL UNCLE
 1187	path from the sea to inland		
-1188	path, road		
-1189	patio (porch)		
-1190	peanut	2364	PEANUT
-1191	peel (trans)		
+1188	path, road	2457	PATH OR ROAD
+1189	patio (porch)	3269	PORCH
+1190	peanut	595	GROUNDNUT (PEANUT)
+1191	peel (trans)	275	PEEL
 1192	peel of a fruit		
 1193	penetrate deeply		
-1194	penis		
-1195	people		
+1194	penis	1222	PENIS
+1195	people	789	PEOPLE
 1196	person who lives in the forest, is part of an indigenous community		
 1197	person who names		
-1198	person, human		
-1199	person, human@		
-1200	pestle		
-1201	phlegm		
-1202	piece		
+1198	person, human	683	PERSON
+1199	person, human@	683	PERSON
+1199	person, human@	1211	HE
+1200	pestle	225	PESTLE
+1201	phlegm	3061	PHLEGM
+1202	piece	594	PIECE
 1203	piece, part (of something extensive, like forest, ground, wood, flesh, leather)		
 1204	pieces, slices (for example, of fruits like pineapple, papaya)		
-1205	pierce (trans)		
+1205	pierce (trans)	398	PIERCE
 1206	pierce through the inside		
 1207	pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)		
 1208	pineapple	2440	PINEAPPLE
 1209	piranha	317	PIRANHA
-1210	Pithecia spp., especially Pithecia monachus, monk saki monjey		
-1211	place		
+1210	Pithecia spp., especially Pithecia monachus, monk saki monjey
+1211	place	723	PLACE (POSITION)
 1212	place, seat		
 1213	place, way, time for drinking water		
-1214	plague		
-1215	plant (trans)		
-1216	plant sp., broomweed		
-1217	plant, bush. generic term		
-1218	plantains		
-1219	plantains, Musa paradisiaca		
-1220	plate		
-1221	play (intr, trans)		
-1222	play (intr, trans)@		
-1223	plaza, courtyard		
-1224	Pleiades		
-1225	plow, beat		
-1226	point		
-1227	point, front		
-1228	point, tip (of tree, etc.)		
-1229	point, tip of earth/land		
-1230	poison		
+1214	plague
+1215	plant (trans)	1486	PLANT (SOMETHING)
+1216	plant sp., broomweed
+1217	plant, bush. generic term	653	PLANT (VEGETATION)
+1218	plantains	399	PLANTAIN
+1219	plantains, Musa paradisiaca	399	PLANTAIN
+1220	plate	480	PLATE
+1221	play (intr, trans)	1413	PLAY
+1222	play (intr, trans)@	1413	PLAY
+1223	plaza, courtyard	4	COURTYARD
+1224	Pleiades
+1225	plow, beat
+1226	point	2669	POINT (WITH FINGER)
+1227	point, front
+1228	point, tip (of tree, etc.)	2992	TIP (OF OBJECT)
+1229	point, tip of earth/land
+1230	poison	655	POISON
 1231	poor	1674	POOR
-1232	port		
-1233	pot		
-1234	pot with handles		
-1235	pour, spill		
-1236	poverty		
-1237	practice		
-1238	prankster, trickster		
-1239	pregnant		
-1240	press		
-1241	pretty, beautiful		
-1242	prey		
-1243	prey (caught)		
-1244	prisoner		
-1245	procreate		
-1246	promise		
-1247	pronounce		
-1248	protrusion in the shape of a nose		
-1249	protrusion, more or less round		
-1250	provide food (hunt/fish)		
-1251	prow		
-1252	prow, bow		
-1253	prow, bow of canoe		
-1254	prune, trim only the leaves		
-1255	publicly		
-1256	pucacuru or pucacuro, Solonepsis invicta, fire ant		
-1257	pull (trans)		
-1258	pull back		
-1259	pull off, tear away		
-1260	pull out, extract (trans)		
-1261	pull, withdraw		
-1262	pulp		
-1263	push (trans)		
-1264	put (ditr)		
-1265	put (ditr), place		
-1266	put inside		
-1267	put up against		
-1268	put, place (ditr)		
-1269	put, place, put something inside		
-1270	question		
-1271	quick, fast		
-1272	quiet down		
-1273	quiet, calm		
-1274	rain	2108	RAINING OR RAIN
-1275	rain (n.)		
-1276	rain (v.) (intr)		
-1277	rainbow		
-1278	rattle, maraca		
-1279	reach		
-1280	reach (trans)		
-1281	recently		
-1282	recently, a few minutes ago		
-1283	receptacle, vessel		
+1232	port	610	PORT
+1233	pot	1462	POT
+1234	pot with handles
+1235	pour, spill
+1236	poverty
+1237	practice
+1238	prankster, trickster
+1239	pregnant
+1240	press	1913	PRESS
+1241	pretty, beautiful	1427	BEAUTIFUL
+1242	prey
+1243	prey (caught)
+1244	prisoner	1072	PRISONER
+1245	procreate
+1246	promise	1675	PROMISE
+1247	pronounce
+1248	protrusion in the shape of a nose
+1249	protrusion, more or less round
+1250	provide food (hunt/fish)
+1251	prow
+1252	prow, bow
+1253	prow, bow of canoe
+1254	prune, trim only the leaves
+1255	publicly
+1256	pucacuru or pucacuro, Solonepsis invicta, fire ant
+1257	pull (trans)	1455	PULL
+1258	pull back
+1259	pull off, tear away
+1260	pull out, extract (trans)	2325	PULL OUT
+1261	pull, withdraw
+1262	pulp
+1263	push (trans)	1452	PUSH
+1264	put (ditr)	998	PUT
+1265	put (ditr), place	998	PUT
+1266	put inside
+1267	put up against
+1268	put, place (ditr)	998	PUT
+1269	put, place, put something inside
+1270	question	3268	QUESTION
+1271	quick, fast	1631	FAST
+1272	quiet down
+1273	quiet, calm
+1274	rain	1253	RAIN (RAINING)
+1275	rain (n.)	658	RAIN (PRECIPITATION)
+1276	rain (v.) (intr)	1253	RAIN (RAINING)
+1277	rainbow	1733	RAINBOW
+1278	rattle, maraca	300	RATTLE
+1279	reach
+1280	reach (trans)
+1281	recently
+1282	recently, a few minutes ago
+1283	receptacle, vessel	1462	POT
 1284	red	156	RED
-1285	red clay		
-1286	red, bright color of ripe fruits		
-1287	reddish		
-1288	relative (male), female ego		
-1289	remember (trans)		
-1290	remember (trans)@		
-1291	request something		
-1292	request, ask for (ditr?)		
-1293	request/ask for something as a gift		
-1294	respond (trans)		
-1295	rest (intr)		
-1296	return		
-1297	return (intr)		
-1298	reunite as a couple		
-1299	rhythm stick (instrument)		
-1300	rib		
-1301	ribs, lit. 'the bones of the owner/boss'		
-1302	ride horse		
-1303	right (hand)		
-1304	right (side/hand)		
-1305	right here, near		
-1306	right now		
-1307	rigid		
-1308	ring, hoop		
-1309	ripe		
-1310	ripe, become ripe		
+1285	red clay
+1286	red, bright color of ripe fruits
+1287	reddish
+1288	relative (male), female ego
+1289	remember (trans)	707	REMEMBER
+1290	remember (trans)@	707	REMEMBER
+1291	request something	1828	ASK (REQUEST)
+1292	request, ask for (ditr?)	1828	ASK (REQUEST)
+1293	request/ask for something as a gift
+1294	respond (trans)	1275	ANSWER
+1295	rest (intr)	168	REST
+1296	return	85	GIVE BACK
+1297	return (intr)	581	COME BACK
+1298	reunite as a couple
+1299	rhythm stick (instrument)
+1300	rib	801	RIB
+1301	ribs, lit. 'the bones of the owner/boss'	801	RIB
+1302	ride horse	367	RIDE
+1303	right (hand)	2183	RIGHT HAND
+1304	right (side/hand)	1019	RIGHT
+1305	right here, near
+1306	right now
+1307	rigid
+1308	ring, hoop	1374	RING
+1309	ripe	178	RIPE
+1310	ripe, become ripe	178	RIPE
 1311	river	666	RIVER
-1312	river caudaloso		
-1313	roast (trans)		
-1314	roast fariña (trans)		
-1315	roasted, sifted manioc dough wrapped in foil and roasted in clay pot		
-1316	robber, thief		
-1317	rock, sway		
-1318	rock, sway. for example, rock a baby		
-1319	rodent, generic term		
-1320	roll, wrap		
-1321	root		
-1322	rope		
-1323	rope for hammock		
-1324	rotten		
-1325	rough		
+1312	river caudaloso
+1313	roast (trans)	1962	ROAST (SOMETHING)
+1314	roast fariña (trans)
+1315	roasted, sifted manioc dough wrapped in foil and roasted in clay pot
+1316	robber, thief	3376	ROBBER
+1317	rock, sway	573	SWAY
+1318	rock, sway. for example, rock a baby	573	SWAY
+1319	rodent, generic term	669	RODENT
+1320	roll, wrap
+1321	root	670	ROOT
+1322	rope	1218	ROPE
+1323	rope for hammock
+1324	rotten	1728	ROTTEN
+1325	rough	1923	ROUGH
 1326	round	1395	ROUND
-1327	round, spherical		
-1328	rub (trans)		
-1329	rub, smear (trans)		
-1330	run (intr)		
-1331	sad		
-1332	saddle-back tamarin monkey		
-1333	saliva		
-1334	salt		
-1335	salty		
-1336	same		
-1337	sand		
+1327	round, spherical	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)
+1328	rub (trans)	1449	RUB
+1329	rub, smear (trans)
+1330	run (intr)	1519	RUN
+1331	sad	699	SAD
+1332	saddle-back tamarin monkey
+1333	saliva	1503	SALIVA
+1334	salt	1274	SALT
+1335	salty	1091	SALTY
+1336	same	200	SAME
+1337	sand	671	SAND
 1338	sandfly	95	SANDFLY
-1339	sandfly sp.		
-1340	sap (resin)		
-1341	satisfy		
-1342	save		
-1343	say (trans)		
-1344	scabies, mite sp.		
-1345	scales		
-1346	scare		
-1347	scare (trans)		
-1348	scarlet macaw, Ara macao		
-1349	scrape, scratch (trans)		
-1350	scratch, wound, cut (n.)		
-1351	scratch/(paint?) body with paint		
-1352	see (intr)		
-1353	see (intr, trans)		
-1354	seed		
-1355	semen		
-1356	send		
-1357	send something to another place		
-1358	separate, allot		
-1359	sew (trans)		
-1360	shadow, shade		
-1361	shadow, shade@		
-1362	shake (intr)		
-1363	shake (intr, trans)		
-1364	shake (intr, trans), agitate		
-1365	shake, tremble (intr, trans)		
-1366	shake, tremor (intr.)		
-1367	shake, tremor (n.)		
-1368	shaken		
-1369	share, distribute, give		
-1370	sharp		
-1371	sharpen (trans)		
-1372	sharpen (trans)/ make a point on		
-1373	sharpen (trans)@		
-1374	shave head		
-1375	shell		
-1376	shelter		
-1377	shelter, hut		
-1378	shin		
-1379	shine		
-1380	shine, brightness (n.)		
-1381	shine, shiny		
-1382	shirt		
-1383	shoot		
-1384	shoot (trans)		
-1385	shoot and hit		
-1386	shoot, sprout		
-1387	shore, bank		
-1388	short		
-1389	shoulder		
-1390	shoulder, lit. the seat of the arm		
-1391	shout, yell (intr)		
-1392	shout, yell (n)		
-1393	shout, yell (n.)		
-1394	shout, yell (v.)		
-1395	show		
-1396	shusupe, Lachesis muta, bushmaster snake		
-1397	sick		
-1398	sickness, disease		
-1399	side		
-1400	sieve (strainer)		
-1401	sieve, strainer		
-1402	signal, image		
-1403	similar		
-1404	sin		
-1405	sing		
-1406	sing (intr)		
-1407	sink (intr)		
+1339	sandfly sp.	95	SANDFLY
+1340	sap (resin)	345	SAP
+1341	satisfy	1271	DELIGHT
+1342	save	2008	RESCUE
+1343	say (trans)	1458	SAY
+1344	scabies, mite sp.	3172	SCABIES
+1345	scales	266	SCALE
+1346	scare	252	FRIGHTEN
+1347	scare (trans)	252	FRIGHTEN
+1348	scarlet macaw, Ara macao
+1349	scrape, scratch (trans)
+1350	scratch, wound, cut (n.)	1109	WOUND
+1351	scratch/(paint?) body with paint
+1352	see (intr)	1409	SEE
+1353	see (intr, trans)	1409	SEE
+1354	seed	714	SEED
+1355	semen	2283	SEMEN
+1356	send	1127	SEND
+1357	send something to another place
+1358	separate, allot
+1359	sew (trans)	1457	SEW
+1360	shadow, shade	1388	SHADE
+1361	shadow, shade@	1388	SHADE
+1362	shake (intr)	1909	SHAKE
+1363	shake (intr, trans)	1909	SHAKE
+1364	shake (intr, trans), agitate	1909	SHAKE
+1365	shake, tremble (intr, trans)	52	SHIVER
+1366	shake, tremor (intr.)	1909	SHAKE
+1367	shake, tremor (n.)
+1368	shaken
+1369	share, distribute, give
+1370	sharp	1396	SHARP
+1371	sharpen (trans)	251	SHARPEN (SOMETHING)
+1372	sharpen (trans)/ make a point on
+1373	sharpen (trans)@	251	SHARPEN (SOMETHING)
+1374	shave head
+1375	shell	598	SHELL
+1376	shelter	1678	HUT
+1377	shelter, hut	1678	HUT
+1378	shin	186	SHIN
+1379	shine	708	SHINE
+1380	shine, brightness (n.)	2236	SHINE (EMITTED LIGHT)
+1381	shine, shiny
+1382	shirt	1622	SHIRT
+1383	shoot	1172	SHOOT
+1384	shoot (trans)	1172	SHOOT
+1385	shoot and hit
+1386	shoot, sprout	3358	SPROUT (SHOOT)
+1387	shore, bank	113	SHORE
+1388	short	1645	SHORT
+1389	shoulder	1482	SHOULDER
+1390	shoulder, lit. the seat of the arm	1482	SHOULDER
+1391	shout, yell (intr)	715	SHOUT
+1392	shout, yell (n)
+1393	shout, yell (n.)
+1394	shout, yell (v.)	715	SHOUT
+1395	show	1039	SHOW
+1396	shusupe, Lachesis muta, bushmaster snake
+1397	sick	1847	SICK
+1398	sickness, disease	1986	DISEASE
+1399	side	682	SIDE
+1400	sieve (strainer)	3353	SIEVE (TOOL)
+1401	sieve, strainer	3353	SIEVE (TOOL)
+1402	signal, image
+1403	similar	1558	SIMILAR
+1404	sin	2971	SIN
+1405	sing	1261	SING
+1406	sing (intr)	1261	SING
+1407	sink (intr)	1088	SINK (DESCEND)
 1408	sister	1263	SISTER
-1409	sister, female ego		
-1410	sister, male ego		
-1411	sister-in law		
-1412	sister-in law, female ego		
-1413	sister-in law, male ego		
-1414	sister-in law: BW or MBSW, female ego		
-1415	sister-in law: BW, FBSW, or GBW,  male ego		
-1416	sister-in law: yBW, male ego		
-1417	sister-in-law, WeZ, male ego		
-1418	sister-in-law, WyZ, male ego		
-1419	sisters-in-law: HBW, female ego		
-1420	sit (intr)		
+1409	sister, female ego	562	SISTER (OF WOMAN)
+1410	sister, male ego	561	SISTER (OF MAN)
+1411	sister-in law	2317	SISTER-IN-LAW
+1412	sister-in law, female ego	3781	SISTER-IN-LAW (OF FEMALE EGO)
+1413	sister-in law, male ego
+1414	sister-in law: BW or MBSW, female ego	3781	SISTER-IN-LAW (OF FEMALE EGO)
+1415	sister-in law: BW, FBSW, or GBW,  male ego
+1416	sister-in law: yBW, male ego
+1417	sister-in-law, WeZ, male ego
+1418	sister-in-law, WyZ, male ego
+1419	sisters-in-law: HBW, female ego	3781	SISTER-IN-LAW (OF FEMALE EGO)
+1420	sit (intr)	1416	SIT
 1421	skin	763	SKIN
-1422	skin (separated from body)		
-1423	skin (trans)		
-1424	skin an animal(trans)		
-1425	skinny, thin		
-1426	sky		
-1427	sleep (intr)		
-1428	sleeping spot		
-1429	slip (intr)		
-1430	slip, fall, keeping in contact with the ground		
-1431	slippery		
+1422	skin (separated from body)
+1423	skin (trans)	291	PULL OFF (SKIN)
+1424	skin an animal(trans)
+1425	skinny, thin	2308	THIN
+1426	sky	1732	SKY
+1427	sleep (intr)	1585	SLEEP
+1428	sleeping spot
+1429	slip (intr)	1324	SLIP
+1430	slip, fall, keeping in contact with the ground
+1431	slippery	3702	SLIPPERY
 1432	sloth	2446	SLOTH
-1433	sloth, Bradypus variegatus.		
-1434	slow		
-1435	slow flow, run off (of viscous/ phlegmy liquids)		
-1436	smack		
-1437	small		
-1438	small basket		
-1439	small canoe		
-1440	small cut up pieces (for example, small pieces of manioc or sweet potato to make chips)		
-1441	small part of an object (for example, a ripped piece of cloth)		
-1442	small pieces, cut up (for example, food)		
-1443	smell (intr, trans)		
-1444	smell (trans)		
-1445	smile (intr)		
-1446	smoke (n)		
+1433	sloth, Bradypus variegatus.
+1434	slow	701	SLOW
+1435	slow flow, run off (of viscous/ phlegmy liquids)
+1436	smack
+1437	small	1246	SMALL
+1438	small basket
+1439	small canoe
+1440	small cut up pieces (for example, small pieces of manioc or sweet potato to make chips)
+1441	small part of an object (for example, a ripped piece of cloth)
+1442	small pieces, cut up (for example, food)
+1443	smell (intr, trans)	2124	SMELL
+1444	smell (trans)	1586	SMELL (PERCEIVE)
+1445	smile (intr)	1451	SMILE
+1446	smoke (n)	778	SMOKE (EXHAUST)
 1447	smoke (n.)	778	SMOKE (EXHAUST)
-1448	smoke (trans)		
-1449	smoke (v)		
-1450	smoke food		
-1451	smoke food@		
-1452	smoke tobacco		
-1453	smoking (v.)		
+1448	smoke (trans)	1689	SMOKE (INHALE)
+1449	smoke (v)	2859	SMOKE (EMIT SMOKE)
+1450	smoke food
+1451	smoke food@
+1452	smoke tobacco
+1453	smoking (v.)	1689	SMOKE (INHALE)
 1454	smooth	1234	SMOOTH
-1455	smooth, slippery, and hard surface		
+1455	smooth, slippery, and hard surface
 1456	snake	730	SNAKE
-1457	snake sp.		
-1458	snake sp., Corallus hortulanus		
-1459	snake sp., pit viper sp., Bothrops atrox		
-1460	snake sp., pit viper sp., Bothrops jararaca		
-1461	snake sp., pit viper sp., Lachesis muta		
-1462	snake sp., rattle snake		
-1463	snake sp., vipers		
-1464	snake@		
-1465	snore		
-1466	snout		
-1467	sob, cry		
-1468	soft		
-1469	some		
-1470	some time ago		
-1471	someday (future)		
-1472	something sweet or tasty		
-1473	son		
-1474	son, female ego		
-1475	son, male ego		
-1476	son-in-law		
-1477	son-in-law, male ego		
-1478	son-in-law: DH or GDH, female ego		
-1479	soon		
-1480	soul (separated)		
-1481	sound of spilling something		
-1482	sour		
-1483	Sp. `aguaje` (Mauritia flexuosa)		
-1484	spacious		
-1485	speak (utter words) (intrans)		
-1486	speak clear		
-1487	spear		
-1488	spear (metal)		
-1489	speck of dust, garbage		
-1490	speech, language		
-1491	spell		
+1457	snake sp.	730	SNAKE
+1458	snake sp., Corallus hortulanus
+1459	snake sp., pit viper sp., Bothrops atrox
+1460	snake sp., pit viper sp., Bothrops jararaca
+1461	snake sp., pit viper sp., Lachesis muta
+1462	snake sp., rattle snake	871	RATTLESNAKE
+1463	snake sp., vipers	2654	VIPER
+1464	snake@	730	SNAKE
+1465	snore	1983	SNORE
+1466	snout	2200	SNOUT
+1467	sob, cry	1839	CRY
+1468	soft	1856	SOFT
+1469	some	1241	SOME
+1470	some time ago
+1471	someday (future)
+1472	something sweet or tasty	1813	TASTY
+1473	son	1620	SON
+1474	son, female ego	3939	SON OF WOMAN
+1475	son, male ego	3779	SON (OF MALE EGO)
+1476	son-in-law	1056	SON-IN-LAW
+1477	son-in-law, male ego	2267	SON-IN-LAW (OF MAN)
+1478	son-in-law: DH or GDH, female ego	2266	SON-IN-LAW (OF WOMAN)
+1479	soon	703	SOON
+1480	soul (separated)
+1481	sound of spilling something
+1482	sour	1906	SOUR
+1483	Sp. `aguaje` (Mauritia flexuosa)
+1484	spacious	2531	BROAD
+1485	speak (utter words) (intrans)	1623	SPEAK
+1486	speak clear
+1487	spear	945	SPEAR
+1488	spear (metal)
+1489	speck of dust, garbage
+1490	speech, language
+1491	spell	118	BEWITCH
 1492	spicy	544	SPICY
-1493	spicy, bitter taste (from a pepper, etc.)		
+1493	spicy, bitter taste (from a pepper, etc.)
 1494	spider	843	SPIDER
-1495	spider monkey		
-1496	spill, pour		
-1497	spill, waste		
-1498	spin (thread) (trans)		
-1499	spinning top		
-1500	spirit (soul)		
-1501	spit (intr)		
-1502	spleen		
-1503	split (trans)		
-1504	split (trans) (without an instrument)		
-1505	split into pieces (trans)		
-1506	split open (trans)		
-1507	split, break (trans) (for example sticks, etc)		
-1508	split, cut something in pieces or slices (for example, a cake, a stick into woodchips or firewood)		
-1509	split, cut something in pieces or slices (for example, a tree trunk into firewood, fruit into slices)		
-1510	spouse, husband, wife		
-1511	spring (of water)		
-1512	sprout		
-1513	spur		
-1514	squash sp., Cucurbita maxima.		
-1515	squeeze (trans)		
-1516	squeeze (trans), twist		
-1517	squirrel monkey or tamarin monkey		
-1518	stab sign		
-1519	stalk, shank		
-1520	stand (intr)		
-1521	stand aside, away quietly		
-1522	stand, stand up (intr)		
+1495	spider monkey	434	SPIDER MONKEY
+1496	spill, pour
+1497	spill, waste
+1498	spin (thread) (trans)	121	SPIN
+1499	spinning top
+1500	spirit (soul)	53	SPIRIT
+1501	spit (intr)	1440	SPIT
+1502	spleen	1744	SPLEEN
+1503	split (trans)	1437	SPLIT
+1504	split (trans) (without an instrument)
+1505	split into pieces (trans)	1437	SPLIT
+1506	split open (trans)	3080	SPLIT OPEN
+1507	split, break (trans) (for example sticks, etc)	459	SNAP (OF STICK)
+1508	split, cut something in pieces or slices (for example, a cake, a stick into woodchips or firewood)
+1509	split, cut something in pieces or slices (for example, a tree trunk into firewood, fruit into slices)
+1510	spouse, husband, wife	2514	SPOUSE
+1511	spring (of water)	849	SPRING (OF WATER)
+1512	sprout	2076	SPROUT (VERB)
+1513	spur
+1514	squash sp., Cucurbita maxima.
+1515	squeeze (trans)	1414	SQUEEZE
+1516	squeeze (trans), twist
+1517	squirrel monkey or tamarin monkey
+1518	stab sign
+1519	stalk, shank
+1520	stand (intr)	1442	STAND
+1521	stand aside, away quietly
+1522	stand, stand up (intr)	570	STAND UP
 1523	star	1430	STAR
-1524	start fire		
-1525	state of being		
-1526	stay (intr)		
-1527	stay still		
-1528	steal (trans)		
-1529	steep riverbank, bluff		
-1530	stem, stalk		
-1531	step on		
-1532	step on, walk on		
-1533	stepmother		
-1534	stepson, male ego		
-1535	stick		
-1536	still, deep part of a river		
-1537	sting		
-1538	stinky, bad smell, be stinky (smell bad) (intr)		
-1539	stomach		
-1540	stone, rock		
-1541	stop		
-1542	stop (intr)		
-1543	stop (intr, trans)		
-1544	story		
-1545	straight		
-1546	straighten		
-1547	strain (trans)		
-1548	strap		
-1549	stream		
-1550	stream@		
-1551	street, road, path		
-1552	stretch		
-1553	strike, grind (trans)		
-1554	strong		
-1555	strong arms		
-1556	strongly		
-1557	suck (the sickness) (trans)		
-1558	suck (trans)		
-1559	suffer		
-1560	sugar cane		
-1561	summer, dry season		
-1562	summon for war		
+1524	start fire	737	LIGHT (IGNITE)
+1525	state of being
+1526	stay (intr)	987	REMAIN
+1527	stay still
+1528	steal (trans)	713	STEAL
+1529	steep riverbank, bluff
+1530	stem, stalk	2628	PLANT STEM
+1531	step on	575	TREAD
+1532	step on, walk on	575	TREAD
+1533	stepmother	236	STEPMOTHER
+1534	stepson, male ego
+1535	stick	254	STICKING
+1536	still, deep part of a river
+1537	sting	571	STING
+1538	stinky, bad smell, be stinky (smell bad) (intr)
+1539	stomach	819	STOMACH
+1540	stone, rock	2125	STONE OR ROCK
+1541	stop	3351	STOP DOING
+1542	stop (intr)	1928	CEASE
+1543	stop (intr, trans)	2115	CEASE OR FINISH
+1544	story	2060	STORY
+1545	straight	1404	STRAIGHT
+1546	straighten
+1547	strain (trans)	940	STRAIN
+1548	strap	2973	STRAP
+1549	stream	947	STREAM
+1550	stream@		947	STREAM
+1551	street, road, path
+1552	stretch	214	STRETCH
+1553	strike, grind (trans)
+1554	strong	785	STRONG
+1555	strong arms
+1556	strongly
+1557	suck (the sickness) (trans)
+1558	suck (trans)	1421	SUCK
+1559	suffer	1101	SUFFER
+1560	sugar cane	146	SUGAR CANE
+1561	summer, dry season
+1562	summon for war
 1563	sun	1343	SUN
-1564	swallow (intr, trans)		
-1565	swarm		
-1566	sweat (intr)		
-1567	sweat (n)		
-1568	sweat (n.)		
-1569	sweep (intr, trans)		
+1564	swallow (intr, trans)	897	SWALLOW
+1565	swarm	2974	SWARM (OF BIRDS)
+1566	sweat (intr)	126	SWEAT (PERSPIRE)
+1567	sweat (n)	125	SWEAT (SUBSTANCE)
+1568	sweat (n.)	125	SWEAT (SUBSTANCE)
+1569	sweep (intr, trans)	230	SWEEP
 1570	sweet	717	SWEET
 1571	sweet potato	159	SWEET POTATO
-1572	swell (intr)		
-1573	swell, collect water (intr)		
-1574	swell, enlarge		
-1575	swell, swollen		
-1576	swell, swollen, bloated		
-1577	swim (intr)		
-1578	swim under water		
+1572	swell (intr)	1573	SWELL
+1573	swell, collect water (intr)
+1574	swell, enlarge
+1575	swell, swollen
+1576	swell, swollen, bloated
+1577	swim (intr)	1439	SWIM
+1578	swim under water
 1579	tail	1220	TAIL
-1580	take along (trans)		
-1581	take away, take off		
-1582	take care of		
-1583	take out, remove		
-1584	take out, remove (trans)		
-1585	take out, remove, extract		
-1586	take, grab		
-1587	take, grab (trans)		
-1588	tall		
-1589	tambo, shelter		
+1580	take along (trans)
+1581	take away, take off
+1582	take care of
+1583	take out, remove	3654	TAKE OUT
+1584	take out, remove (trans)	3654	TAKE OUT
+1585	take out, remove, extract	3654	TAKE OUT
+1586	take, grab	1749	TAKE
+1587	take, grab (trans)	1749	TAKE
+1588	tall	711	TALL
+1589	tambo, shelter	1678	HUT
 1590	tapir	312	TAPIR
-1591	tapir, Tapirus terrestris		
-1592	taste (n.)		
-1593	tasty		
-1594	tasty (sweet or salty)		
-1595	tear, detach		
-1596	tease, prank, trick		
-1597	teeth, tooth		
-1598	tell (a story) (trans)		
-1599	tell a story		
+1591	tapir, Tapirus terrestris
+1592	taste (n.)	2190	TASTE
+1593	tasty	1813	TASTY
+1594	tasty (sweet or salty)	1813	TASTY
+1595	tear, detach	1735	TEAR (SHRED)
+1596	tease, prank, trick	2869	BOTHER (HARASS)
+1597	teeth, tooth	1380	TOOTH
+1598	tell (a story) (trans)	1711	TELL
+1599	tell a story	1711	TELL
 1600	termite	883	TERMITE
-1601	testicles		
-1602	that one		
-1603	thick		
-1604	thick and round		
-1605	thick, dense		
-1606	thicket, forest		
-1607	thigh	800	THIGH
-1608	thigh (inside part		
-1609	thigh@		
-1610	thin (objects)		
+1601	testicles	797	TESTICLES
+1602	that one
+1603	thick	1244	THICK
+1604	thick and round
+1605	thick, dense
+1606	thicket, forest
+1607	thigh	471	UPPER LEG (THIGH)
+1608	thigh (inside part
+1609	thigh@	471	UPPER LEG (THIGH)
+1610	thin (objects)	2249	THIN (OF SHAPE OF OBJECT)
 1611	thing	738	THING
-1612	things		
-1613	think (intr, trans)		
-1614	think (trans)		
-1615	think, believe		
-1616	this		
+1612	things	738	THING
+1613	think (intr, trans)	2271	THINK
+1614	think (trans)	1415	THINK (REFLECT)
+1615	think, believe	1513	THINK (BELIEVE)
+1616	this	1214	THIS
 1617	thorn	124	THORN
-1618	thread		
-1619	threaten		
+1618	thread	1161	THREAD
+1619	threaten	1192	THREATEN
 1620	three	492	THREE
-1621	three times		
-1622	throat		
-1623	throw a spear, stab		
-1624	throw, throw away (trans)		
+1621	three times	417	THREE TIMES
+1622	throat	1346	THROAT
+1623	throw a spear, stab
+1624	throw, throw away (trans)
 1625	thunder	1150	THUNDER
-1626	thundering noise, loud noise		
-1627	tick		
-1628	tick sp., Amblyomma dissimite		
-1629	tidal flood		
-1630	tie (trans)		
-1631	tie up corn from the tips (trans)		
-1632	tighten (trans)		
-1633	tighten (trans)@		
-1634	tip, end		
+1626	thundering noise, loud noise
+1627	tick	1527	TICK
+1628	tick sp., Amblyomma dissimite
+1629	tidal flood
+1630	tie (trans)	1917	TIE
+1631	tie up corn from the tips (trans)
+1632	tighten (trans)	1094	FASTEN
+1633	tighten (trans)@	1094	FASTEN
+1634	tip, end	2992	TIP (OF OBJECT)
 1635	tired	1757	TIRED
-1636	tissue of the posterior-superior part of the thigh		
-1637	to arm, prepare		
-1638	to board, get on a boat		
-1639	to calm, quiet down		
-1640	to fan, especially in reference to cooling		
-1641	to grease, oil		
-1642	to leak		
-1643	to play, beat (instrument)		
-1644	to tremble		
-1645	toast (corn, etc.)		
-1646	toast, brown (trans)		
-1647	toast, brown (trans)@		
-1648	toasted		
+1636	tissue of the posterior-superior part of the thigh
+1637	to arm, prepare
+1638	to board, get on a boat	1227	BOARD
+1639	to calm, quiet down
+1640	to fan, especially in reference to cooling	360	FAN (ACTION)
+1641	to grease, oil
+1642	to leak	2253	DRIP (EMIT LIQUID)
+1643	to play, beat (instrument)	3124	PLAY (INSTRUMENT)
+1644	to tremble	52	SHIVER
+1645	toast (corn, etc.)
+1646	toast, brown (trans)
+1647	toast, brown (trans)@
+1648	toasted
 1649	tobacco	974	TOBACCO
-1650	tobacco, Nicotiana tabacum		
-1651	today		
-1652	today (future)		
-1653	today, nowadays		
-1654	toe		
-1655	toenail		
-1656	together		
-1657	tomorrow		
+1650	tobacco, Nicotiana tabacum	974	TOBACCO
+1651	today	1283	TODAY
+1652	today (future)
+1653	today, nowadays
+1654	toe	1389	TOE
+1655	toenail	2662	TOENAIL
+1656	together	2482	TOGETHER
+1657	tomorrow	1329	TOMORROW
 1658	tongue	1205	TONGUE
-1659	tortoise sp., Chelonoidis denticulata		
-1660	touch		
-1661	touch (trans)		
-1662	touch, feel		
-1663	trail, trace		
-1664	treat, take care of		
+1659	tortoise sp., Chelonoidis denticulata
+1660	touch	1892	TOUCH
+1661	touch (trans)	1892	TOUCH
+1662	touch, feel	2559	FEEL (TACTUALLY)
+1663	trail, trace
+1664	treat, take care of
 1665	tree	906	TREE
-1666	tree base		
-1667	tree sp. (Brazilian grapetree, Plinia cauliflora)		
-1668	tree sp., Licania elata		
-1669	tree, generic		
-1670	tremble, shake		
-1671	tremble, shake (intr and n.)		
-1672	trunk		
-1673	try		
-1674	tucunaré, cichla spp., peacock bass fish		
-1675	tumor		
-1676	turn		
-1677	turn (intr, trans)		
-1678	turn off, extinguish		
-1679	turn off, extinguish the fire		
-1680	turn over, revolve		
-1681	turn up, twist up		
-1682	turtle sp., Podocnemis expansa		
-1683	turtle sp., Podocnemis unifilis		
-1684	turtle/tortoise		
-1685	turtle/tortoise sp.		
-1686	turtle/tortoise@		
-1687	twist (intr, trans)		
-1688	twist (trans)		
-1689	twist thread/fiber (trans)		
+1666	tree base	344	TREE TRUNK
+1667	tree sp. (Brazilian grapetree, Plinia cauliflora)
+1668	tree sp., Licania elata
+1669	tree, generic	906	TREE
+1670	tremble, shake	1909	SHAKE
+1671	tremble, shake (intr and n.)	1909	SHAKE
+1672	trunk	344	TREE TRUNK
+1673	try	1812	TRY
+1674	tucunaré, cichla spp., peacock bass fish
+1675	tumor
+1676	turn	1588	TURN
+1677	turn (intr, trans)	1588	TURN
+1678	turn off, extinguish	127	EXTINGUISH
+1679	turn off, extinguish the fire	127	EXTINGUISH
+1680	turn over, revolve	3537	TURN OVER
+1681	turn up, twist up
+1682	turtle sp., Podocnemis expansa
+1683	turtle sp., Podocnemis unifilis
+1684	turtle/tortoise
+1685	turtle/tortoise sp.
+1686	turtle/tortoise@
+1687	twist (intr, trans)	430	TWIST
+1688	twist (trans)	430	TWIST
+1689	twist thread/fiber (trans)
 1690	two	1498	TWO
-1691	two story house, raised structure		
-1692	type of basket		
-1693	type of flute		
-1694	type of flute, similar to panpipe		
-1695	type of rattle, maraca		
-1696	type of spirit		
-1697	type of yellow clay		
-1698	ugly		
-1699	uncle		
-1700	uncle, PB or PPGS		
-1701	unload, disembark		
-1702	unlock		
-1703	unripe		
-1704	untie (trans)		
-1705	upper lip		
-1706	urinate (intr)		
-1707	urine		
-1708	use		
-1709	used to, settled		
-1710	vagabond		
-1711	vagina		
-1712	vapor		
-1713	vapor, steam, breath		
-1714	vegetable dyes		
-1715	vein, artery		
-1716	venitive auxiliary, merges associated movement towards the speaker and imperfect aspect. Occurs at the end of the verbal phrase in the clause.		
-1717	venom, poison		
-1718	village		
+1691	two story house, raised structure
+1692	type of basket
+1693	type of flute
+1694	type of flute, similar to panpipe
+1695	type of rattle, maraca
+1696	type of spirit
+1697	type of yellow clay
+1698	ugly	1548	UGLY
+1699	uncle	1327	UNCLE
+1700	uncle, PB or PPGS	1327	UNCLE
+1701	unload, disembark
+1702	unlock
+1703	unripe	1958	UNRIPE
+1704	untie (trans)	352	UNTIE
+1705	upper lip
+1706	urinate (intr)	592	PISS
+1707	urine	1142	URINE
+1708	use	2072	USE (VERB)
+1709	used to, settled	1118	ACCUSTOM
+1710	vagabond
+1711	vagina	1836	VAGINA
+1712	vapor	1193	STEAM
+1713	vapor, steam, breath
+1714	vegetable dyes
+1715	vein, artery	1925	ARTERY
+1716	venitive auxiliary, merges associated movement towards the speaker and imperfect aspect. Occurs at the end of the verbal phrase in the clause.
+1717	venom, poison	655	POISON
+1718	village	930	VILLAGE
 1719	vine	343	VINE
-1720	virtuous		
-1721	vomit (intr)		
-1722	vomit (n)		
+1720	virtuous
+1721	vomit (intr)	1278	VOMIT
+1722	vomit (n)
 1723	vulture	1185	VULTURE
 1724	vulva	1837	VULVA
-1725	wake up (intr)		
-1726	walk (intr)		
-1727	walk a lot or fast		
-1728	wall, fence		
-1729	wall, separation in house		
-1730	want		
-1731	want (trans)		
-1732	want/like/love		
-1733	war, battle		
-1734	war, battle, fight (n)		
-1735	wash (clothes)		
-1736	wash (trans)		
-1737	wash (trans)@		
-1738	wash by beating, hitting, wringing (trans)		
+1725	wake up (intr)	1602	WAKE UP
+1726	walk (intr)	1443	WALK
+1727	walk a lot or fast
+1728	wall, fence	3830	WALL
+1729	wall, separation in house	933	WALL (OF HOUSE)
+1730	want	1784	WANT
+1731	want (trans)	1784	WANT
+1732	want/like/love
+1733	war, battle
+1734	war, battle, fight (n)
+1735	wash (clothes)	2503	LAUNDER (WASH CLOTHES)
+1736	wash (trans)	1453	WASH
+1737	wash (trans)@	1453	WASH
+1738	wash by beating, hitting, wringing (trans)
 1739	wasp	1517	WASP
 1740	water	948	WATER
-1741	weak (feeble)		
-1742	weak, useless		
-1743	weave		
-1744	weave (hammock, basket, etc.)		
-1745	weed		
-1746	weed (trans)		
-1747	weigh something down, make something heavy		
-1748	weight		
-1749	wet		
-1750	wet, dampen (trans)		
-1751	wet, soaked		
-1752	what, that		
-1753	what?		
-1754	where?		
-1755	which?		
-1756	whichever		
-1757	whistle		
+1741	weak (feeble)	1601	WEAK
+1742	weak, useless
+1743	weave	133	WEAVE
+1744	weave (hammock, basket, etc.)	133	WEAVE
+1745	weed	3288	WEED
+1746	weed (trans)	3548	PULL UP WEEDS
+1747	weigh something down, make something heavy
+1748	weight	2466	WEIGHT
+1749	wet	1726	WET
+1750	wet, dampen (trans)	2324	GET WET
+1751	wet, soaked	1726	WET
+1752	what, that
+1753	what?	1236	WHAT
+1754	where?	1237	WHERE
+1755	which?	727	WHICH
+1756	whichever
+1757	whistle	1025	WHISTLE
 1758	white	1335	WHITE
-1759	white person, non-Indian		
-1760	white-fronted capuchin monkey		
-1761	white-lipped peccary (Tayassu pecari)		
-1762	why?		
+1759	white person, non-Indian
+1760	white-fronted capuchin monkey
+1761	white-lipped peccary (Tayassu pecari)	436	WHITE-LIPPED PECCARY
+1762	why?	1270	WHY
 1763	wide	1243	WIDE
 1764	wife	1199	WIFE
-1765	win		
+1765	win	866	WIN
 1766	wind	960	WIND
-1767	wind around, roll up		
-1768	wind, roll		
-1769	wine		
-1770	wine (in context)		
+1767	wind around, roll up
+1768	wind, roll
+1769	wine	1524	WINE
+1770	wine (in context)
 1771	wing	1257	WING
-1772	winter		
-1773	witch, shaman, healer		
-1774	woman		
-1775	wood		
-1776	woolly monkey		
-1777	woolly monkey, Lagothrix lagotricha		
-1778	work (intr)		
-1779	work (n)		
-1780	work (v)		
-1781	work in a group		
-1782	workplace (n)		
-1783	world		
-1784	wound		
-1785	wound (n.)		
-1786	wound, injure (with an intrument)		
-1787	woven cloth		
-1788	wrap (trans)		
-1789	wrapped package		
-1790	wrapper		
-1791	write		
-1792	write, draw (intr, trans)		
-1793	yawn (intr)		
-1794	year		
+1772	winter	1471	WINTER
+1773	witch, shaman, healer	394	SHAMAN (FOLK HEALER)
+1774	woman	962	WOMAN
+1775	wood	1803	WOOD
+1776	woolly monkey
+1777	woolly monkey, Lagothrix lagotricha
+1778	work (intr)	1086	WORK (ACTIVITY)
+1779	work (n)	984	WORK (LABOUR)
+1780	work (v)	1086	WORK (ACTIVITY)
+1781	work in a group
+1782	workplace (n)
+1783	world	965	WORLD
+1784	wound	44	INJURE
+1785	wound (n.)	1109	WOUND
+1786	wound, injure (with an intrument)
+1787	woven cloth
+1788	wrap (trans)	1113	WRAP
+1789	wrapped package
+1790	wrapper	462	WRAPPER
+1791	write	1672	WRITE
+1792	write, draw (intr, trans)
+1793	yawn (intr)	1028	YAWN
+1794	year	1226	YEAR
 1795	yellow	1424	YELLOW
-1796	yes		
-1797	yes (FS)		
-1798	yes (mainly m.)		
-1799	yes (MS)		
-1800	yes (only for men)		
+1796	yes	1268	YES
+1797	yes (FS)
+1798	yes (mainly m.)
+1799	yes (MS)
+1800	yes (only for men)
 1801	yesterday	1174	YESTERDAY
 1802	young man	76	YOUNG MAN
 1803	young woman	77	YOUNG WOMAN
-1804	younger brother, male ego		
-1805	younger female cousin, female ego		
-1806	younger niece, female ego		
-1807	younger sister, female ego		
+1804	younger brother, male ego	2416	YOUNGER BROTHER (OF MAN)
+1805	younger female cousin, female ego
+1806	younger niece, female ego
+1807	younger sister, female ego	2421	YOUNGER SISTER (OF WOMAN)
