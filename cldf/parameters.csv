@@ -2,637 +2,637 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1_afewdaysago,a few days ago,,,1
 2_afewtimes,a few times,,,2
 3_abdominalwall,abdominal wall,,,3
-4_aboveontop,"above, on top",,,4
-5_accuse,accuse,,,5
+4_aboveontop,"above, on top",1741,ABOVE,4
+5_accuse,accuse,1814,ACCUSE,5
 6_achiote,achiote,349,ACHIOTE,6
-7_achiotebixaorellana,"achiote, Bixa orellana",,,7
-8_adamsapple,Adam's apple,,,8
-9_adorndecorate,"adorn, decorate",,,9
-10_adorndecorate,"adorn, decorate@",,,10
+7_achiotebixaorellana,"achiote, Bixa orellana",349,ACHIOTE,7
+8_adamsapple,Adam's apple,802,ADAM'S APPLE,8
+9_adorndecorate,"adorn, decorate",1739,DECORATE,9
+10_adorndecorate,"adorn, decorate@",1739,DECORATE,10
 11_adxe,adxe,,,11
 12_after,after,1685,AFTER,12
 13_afternoon,afternoon,1807,AFTERNOON,13
-14_again,again,,,14
+14_again,again,204,AGAIN,14
 15_agouti,agouti,313,AGOUTI,15
 16_agoutidasyproctafuliginosa,"agouti, Dasyprocta fuliginosa",,,16
-17_air,air,,,17
-18_ajipepper,"ají, pepper",,,18
+17_air,air,27,AIR,17
+18_ajipepper,"ají, pepper",919,CHILI PEPPER,18
 19_ajipeppercapiscumannuum,"ají, pepper, Capiscum annuum",,,19
 20_all,all,98,ALL,20
 21_alltogether,all together,,,21
-22_already,already,,,22
+22_already,already,2576,ALREADY,22
 23_also,also,,,23
 24_alsofs,also (FS),,,24
 25_alsoms,also (MS),,,25
-26_always,always,,,26
-27_amountportion,"amount, portion",,,27
-28_and,and,,,28
-29_angrymadbeangryintr,"angry, mad, be angry (intr)",,,29
-30_animal,animal,,,30
-31_ankle,ankle,,,31
+26_always,always,1676,ALWAYS,26
+27_amountportion,"amount, portion",2987,AMOUNT,27
+28_and,and,1577,AND,28
+29_angrymadbeangryintr,"angry, mad, be angry (intr)",2223,BE ANGRY,29
+30_animal,animal,619,ANIMAL,30
+31_ankle,ankle,803,ANKLE,31
 32_annoint,annoint,,,32
-33_another,another,,,33
+33_another,another,197,OTHER,33
 34_ant,ant,587,ANT,34
-35_antsp,ant sp.,,,35
-36_antgenericterm,"ant, generic term",,,36
-37_ant,ant@,,,37
+35_antsp,ant sp.,587,ANT,35
+36_antgenericterm,"ant, generic term",587,ANT,36
+37_ant,ant@,587,ANT,37
 38_anteater,anteater,181,ANTEATER,38
-39_anus,anus,,,39
+39_anus,anus,1935,ANUS,39
 40_anylightobjectthatfloatsandisfilledwithairlikeabuoyorfishlung,"any light object that floats and is filled with air, like a buoy or fish lung",,,40
-41_appearintr,appear (intr),,,41
+41_appearintr,appear (intr),1076,EMERGE (APPEAR),41
 42_aquaticspirit,aquatic spirit,,,42
 43_arm,arm,1673,ARM,43
 44_armframe,"arm, frame",,,44
 45_armadillo,armadillo,1885,ARMADILLO,45
 46_armadillospdasypusnovemcinctus,"armadillo sp., Dasypus novemcinctus.",,,46
 47_armingframing,"arming, framing",,,47
-48_aroundherenear,"around here, near",,,48
+48_aroundherenear,"around here, near",3735,NEAR (IN SPACE),48
 49_arrangeadorn,"arrange, adorn",,,49
 50_arrival,arrival,,,50
-51_arriveintr,arrive (intr),,,51
+51_arriveintr,arrive (intr),1387,ARRIVE,51
 52_arrow,arrow,977,ARROW,52
 53_arrowcanestem,arrow cane stem,,,53
-54_ashamedembarrased,"ashamed, embarrased",,,54
+54_ashamedembarrased,"ashamed, embarrased",1894,ASHAMED,54
 55_ashes,ashes,646,ASH,55
 56_ashesfromtreesplicaniaelata,"ashes from tree sp., Licania elata",,,56
-57_asktrans,ask (trans),,,57
-58_askforditr,ask for (ditr?),,,58
-59_askforrequest,"ask for, request",,,59
+57_asktrans,ask (trans),1309,ASK (INQUIRE),57
+58_askforditr,ask for (ditr?),1828,ASK (REQUEST),58
+59_askforrequest,"ask for, request",1828,ASK (REQUEST),59
 60_askrequestforsomethingwithoutindicatingifitsagiftortoborrow,"ask, request for something without indicating if it's a gift or to borrow",,,60
-61_assaultattack,"assault, attack",,,61
+61_assaultattack,"assault, attack",722,ATTACK,61
 62_atthesametime,at the same time,,,62
-63_attachadherestickto,"attach, adhere, stick to",,,63
-64_attack,attack,,,64
-65_attempttrytodosomething,"attempt, try to do something",,,65
+63_attachadherestickto,"attach, adhere, stick to",3894,ATTACH,63
+64_attack,attack,3899,ATTACKING,64
+65_attempttrytodosomething,"attempt, try to do something",1812,TRY,65
 66_augmentativebiglarge,"augmentative, big, large",,,66
 67_augmentativebiglarge,"augmentative; big, large",,,67
 68_aunt,aunt,1272,AUNT,68
-69_awaittrans,await (trans),,,69
+69_awaittrans,await (trans),1590,WAIT (FOR),69
 70_axe,axe,677,AXE,70
-71_back,back,,,71
-72_backpart,back part,,,72
+71_back,back,1291,BACK,71
+72_backpart,back part,2323,BACK (PART),72
 73_backpartseatbuttocks,"back part, seat, buttocks",,,73
 74_backaft,"back, aft",,,74
 75_bad,bad,1292,BAD,75
-76_badsmell,bad smell,,,76
-77_badsmellstinkn,"bad smell, stink (n.)",,,77
+76_badsmell,bad smell,3704,ODOR (SMELL),76
+77_badsmellstinkn,"bad smell, stink (n.)",3704,ODOR (SMELL),77
 78_badspirit,bad spirit,,,78
-79_baitlure,"bait, lure",,,79
-80_bamboo,bamboo,,,80
+79_baitlure,"bait, lure",2013,BAIT,79
+80_bamboo,bamboo,1927,BAMBOO,80
 81_bambooplatform,bamboo platform,,,81
-82_banana,banana,,,82
-83_bananasp,banana sp.,,,83
+82_banana,banana,868,BANANA,82
+83_bananasp,banana sp.,868,BANANA,83
 84_baptize,baptize,,,84
 85_barattheport,bar at the port,,,85
-86_bark,bark,,,86
-87_barkofatree,bark of a tree,,,87
-88_baseseatofanobject,"base, seat of an object",,,88
-89_basket,basket,,,89
-90_basketinrelationtowhocarriesit,basket (in relation to who carries it),,,90
+86_bark,bark,1206,BARKING,86
+87_barkofatree,bark of a tree,1204,BARK,87
+88_baseseatofanobject,"base, seat of an object",831,BASE,88
+89_basket,basket,1539,BASKET,89
+90_basketinrelationtowhocarriesit,basket (in relation to who carries it),1539,BASKET,90
 91_bat,bat,1793,BAT,91
-92_batheintr,bathe (intr),,,92
-93_battlecryn,battle cry (n.),,,93
-94_battlecryv,battle cry (v.),,,94
-95_beplural,be (plural),,,95
+92_batheintr,bathe (intr),138,BATHE,92
+93_battlecryn,battle cry (n.),3741,BATTLE CRY (WAR WHOOP),93
+44_battlecryv,battle cry (v.),,,44
+95_beplural,be (plural),987,REMAIN,95
 96_beacolorbetweenpinkandbrownincludingyellowcolors,"be a color between pink and brown, including yellow colors",,,96
-97_beabletotrans,be able to (trans),,,97
-98_beableskilled,"be able, skilled",,,98
-99_beashcoloredgray,"be ash-colored, gray",,,99
-100_beashamedorembarrased,be ashamed or embarrased,,,100
-101_bebad,be bad,,,101
-102_beblind,be blind,,,102
-103_bebored,be bored,,,103
+97_beabletotrans,be able to (trans),972,BE ABLE,97
+98_beableskilled,"be able, skilled",807,SKILLED,98
+99_beashcoloredgray,"be ash-colored, gray",153,GREY,99
+100_beashamedorembarrased,be ashamed or embarrased,1894,ASHAMED,100
+101_bebad,be bad,1292,BAD,101
+102_beblind,be blind,1653,BLIND,102
+103_bebored,be bored,905,BORING,103
 104_bebornfromthesky,be born (from the sky),,,104
-105_bebornintr,be born (intr),,,105
-106_becalledbenamed,"be called, be named",,,106
+105_bebornintr,be born (intr),1090,BE BORN,105
+106_becalledbenamed,"be called, be named",3835,BE CALLED BY NAME,106
 107_becarried,be carried,,,107
 108_beclear,be clear,,,108
-109_becloudyhazy,"be cloudy, hazy",,,109
-110_beclumsyawkward,"be clumsy, awkward",,,110
-111_becooked,be cooked,,,111
+109_becloudyhazy,"be cloudy, hazy",2341,CLOUDY,109
+110_beclumsyawkward,"be clumsy, awkward",3900,CLUMSY,110
+111_becooked,be cooked,269,COOKED,111
 112_becovered,be covered,,,112
-113_bedarkgetdark,"be dark, get dark",,,113
-114_bedirty,be dirty,,,114
-115_bedizzy,be dizzy,,,115
+113_bedarkgetdark,"be dark, get dark",706,DARK,113
+114_bedirty,be dirty,1230,DIRTY,114
+115_bedizzy,be dizzy,2712,GET DIZZY,115
 116_bedoingsomething,be doing something,,,116
 117_bedomestic,be domestic,,,117
 118_beemptyclean,"be empty, clean",,,118
-119_befar,be far,,,119
-120_befast,be fast,,,120
-121_befat,be fat,,,121
+119_befar,be far,1406,FAR,119
+120_befast,be fast,1631,FAST,120
+121_befat,be fat,1279,FAT (OBESE),121
 122_befermented,be fermented,,,122
-123_beflat,be flat,,,123
-124_befresh,be fresh,,,124
-125_befull,be full,,,125
-126_befullofsomethingiepregnantwomanballfullofair,"be full of something, i.e. pregnant woman, ball full of air",,,126
-127_begood,be good,,,127
+123_beflat,be flat,1633,FLAT,123
+124_befresh,be fresh,243,FRESH,124
+125_befull,be full,1429,FULL,125
+126_befullofsomethingiepregnantwomanballfullofair,"be full of something, i.e. pregnant woman, ball full of air",1429,FULL,126
+127_begood,be good,1035,GOOD,127
 128_begravelysick,be gravely sick,,,128
-129_behard,be hard,,,129
-130_beheavy,be heavy,,,130
+129_behard,be hard,1884,HARD,129
+130_beheavy,be heavy,1210,HEAVY,130
 131_behighpitchedhighsound,"be high-pitched, high sound",,,131
-132_behot,be hot,,,132
-133_behungry,be hungry,,,133
+132_behot,be hot,1286,HOT,132
+133_behungry,be hungry,1533,BE HUNGRY,133
 134_beinaplace,be in a place,,,134
 135_beinline,be in line,,,135
-136_beinformedofknow,"be informed of, know",,,136
-137_bejealousof,be jealous of,,,137
-138_belateaperson,be late (a person),,,138
-139_belazy,be lazy,,,139
+136_beinformedofknow,"be informed of, know",1410,KNOW (SOMETHING),136
+137_bejealousof,be jealous of,2821,JEALOUS,137
+138_belateaperson,be late (a person),425,BE LATE,138
+139_belazy,be lazy,1564,LAZY,139
 140_bemadecreated,"be made, created",,,140
 141_bemanyexpand,"be many, expand",,,141
 142_bemuddy,be muddy,,,142
-143_benamedbecalled,"be named, be called",,,143
-144_benew,be new,,,144
-145_beodorousfragrantintr,be odorous (fragrant) (intr),,,145
-146_bepoor,be poor,,,146
-147_bepregnantintr,be pregnant (intr),,,147
-148_beprettybeautiful,"be pretty, beautiful",,,148
+143_benamedbecalled,"be named, be called",3835,BE CALLED BY NAME,143
+144_benew,be new,1231,NEW,144
+145_beodorousfragrantintr,be odorous (fragrant) (intr),376,FRAGRANT,145
+146_bepoor,be poor,1674,POOR,146
+147_bepregnantintr,be pregnant (intr),3827,PREGNANT (OF ANIMALS),147
+148_beprettybeautiful,"be pretty, beautiful",1427,BEAUTIFUL,148
 149_bequietcalm,"be quiet, calm",,,149
 150_bequietshushsilence,"be quiet, shush, silence",,,150
-151_berotten,be rotten,,,151
-152_besadintr,be sad (intr),,,152
-153_bescaredvbeafraid,"be scared (v.), be afraid",,,153
-154_beseenorvisible,be seen or visible,,,154
-155_beslippery,be slippery,,,155
-156_beslow,be slow,,,156
-157_besmall,be small,,,157
-158_besmooth,be smooth,,,158
-159_bestickygummy,"be sticky, gummy",,,159
-160_bestinkysmellbadintr,be stinky (smell bad) (intr),,,160
-161_bestrong,be strong,,,161
+151_berotten,be rotten,1728,ROTTEN,151
+152_besadintr,be sad (intr),699,SAD,152
+153_bescaredvbeafraid,"be scared (v.), be afraid",1419,FEAR (BE AFRAID),153
+154_beseenorvisible,be seen or visible,1868,VISIBLE,154
+155_beslippery,be slippery,3702,SLIPPERY,155
+156_beslow,be slow,701,SLOW,156
+157_besmall,be small,1246,SMALL,157
+158_besmooth,be smooth,1234,SMOOTH,158
+159_bestickygummy,"be sticky, gummy",3703,STICKY,159
+160_bestinkysmellbadintr,be stinky (smell bad) (intr),1587,SMELL (STINK),160
+161_bestrong,be strong,785,STRONG,161
 162_besuspiciousof,be suspicious of,,,162
-163_besweet,be sweet,,,163
-164_bethick,be thick,,,164
-165_bethirstyintr,be thirsty (intr),,,165
-166_betired,be tired,,,166
+163_besweet,be sweet,717,SWEET,163
+164_bethick,be thick,1244,THICK,164
+165_bethirstyintr,be thirsty (intr),3474,BE THIRSTY,165
+166_betired,be tired,1757,TIRED,166
 167_betiredofsomethingfedupwithsomething,"be tired of something, fed up with something",,,167
-168_beugly,be ugly,,,168
+168_beugly,be ugly,1548,UGLY,168
 169_beuseless,be useless,,,169
-170_beweak,be weak,,,170
-171_beweakfeeble,be weak (feeble),,,171
-172_bewet,be wet,,,172
-173_bewhite,be white,,,173
-174_bewide,be wide,,,174
+170_beweak,be weak,1601,WEAK,170
+171_beweakfeeble,be weak (feeble),1601,WEAK,171
+172_bewet,be wet,1726,WET,172
+173_bewhite,be white,1335,WHITE,173
+174_bewide,be wide,1243,WIDE,174
 175_bewith,be with,,,175
 176_bewornout,be worn out,,,176
-177_begenericplural,"be, generic plural",,,177
-178_befeelveryhot,be/feel very hot,,,178
-179_beach,beach,,,179
-180_bead,bead,,,180
-181_beak,beak,,,181
+177_begenericplural,"be, generic plural",987,REMAIN,177
+178_befeelveryhot,be/feel very hot,3818,HOT (FEELING HOT),178
+179_beach,beach,3460,BEACH,179
+180_bead,bead,1860,BEAD,180
+181_beak,beak,73,BEAK,181
 182_beardmoustachefacialhair,"beard, moustache, facial hair",,,182
 183_beat,beat,1665,BEAT,183
-184_beathittrans,"beat, hit (trans)",,,184
+184_beathittrans,"beat, hit (trans)",2133,STRIKE OR BEAT,184
 185_beathittranssomethinground,"beat, hit (trans) (something round)",,,185
 186_beatplaymakingaclickingclackingnoise,"beat, play (making a clicking/clacking noise",,,186
 187_beaten,beaten,,,187
 188_becomeabsorbedinterested,"become absorbed, interested",,,188
 189_becomemuddy,become muddy,,,189
 190_becomephysicallytired,become physically tired,,,190
-191_becomesick,become sick,,,191
+191_becomesick,become sick,2327,BECOME SICK,191
 192_becomesouracidicbitter,"become sour, acidic, bitter",,,192
 193_bed,bed,1663,BED,193
 194_bedframeplatform,"bed frame, platform",,,194
 195_bedtime,bed time,,,195
 196_bedplace,"bed, place",,,196
-197_bee,bee,,,197
-198_before,before,,,198
-199_beginvtranscomp,"begin (v.) (trans, comp)",,,199
-200_beginning,beginning,,,200
-201_beginningorigin,"beginning, origin",,,201
-202_behind,behind,,,202
-203_behindsomethingsomeone,"behind something, someone",,,203
+197_bee,bee,665,BEE,197
+198_before,before,1882,BEFORE,198
+199_beginvtranscomp,"begin (v.) (trans, comp)",1806,BEGIN,199
+200_beginning,beginning,1557,BEGINNING,200
+201_beginningorigin,"beginning, origin",3447,BEGIN OR START,201
+202_behind,behind,1686,BEHIND,202
+203_behindsomethingsomeone,"behind something, someone",1686,BEHIND,203
 204_beingn,being (n.),,,204
-205_believe,believe,,,205
-206_believetranscomp,"believe (trans, comp)",,,206
-207_belly,belly,,,207
+205_believe,believe,1890,BELIEVE,205
+206_believetranscomp,"believe (trans, comp)",1890,BELIEVE,206
+207_belly,belly,1251,BELLY,207
 208_bellythepartbetweenthehips,belly (the part between the hips),,,208
 209_bellybutton,belly button,1838,NAVEL,209
-210_bendtrans,bend (trans),,,210
-211_bendcurve,"bend, curve",,,211
+210_bendtrans,bend (trans),2224,BEND (SOMETHING),210
+211_bendcurve,"bend, curve",2004,BEND,211
 212_benthumped,"bent, humped",,,212
 213_benttwisted,"bent, twisted",,,213
 214_benttwisted,"bent, twisted@",,,214
-215_betray,betray,,,215
+215_betray,betray,1902,BETRAY,215
 216_bigandthick,big and thick,,,216
-217_biglarge,"big, large",,,217
+217_biglarge,"big, large",1202,BIG,217
 218_biglargeandthick,"big, large (and thick)",,,218
 219_biglargeandthick,"big, large and thick",,,219
-220_biglarge,"big, large@",,,220
+220_biglarge,"big, large@",1202,BIG,220
 221_bird,bird,937,BIRD,221
-222_birdgenericterm,"bird, generic term",,,222
-223_bird,bird@,,,223
-224_bitetrans,bite (trans),,,224
+222_birdgenericterm,"bird, generic term",937,BIRD,222
+223_bird,bird@,937,BIRD,223
+224_bitetrans,bite (trans),1403,BITE,224
 225_bitter,bitter,887,BITTER,225
 226_bitterbecomebitterfromfermentation,"bitter, become bitter from fermentation",,,226
 227_black,black,163,BLACK,227
 228_blackjaguarlitblackdog,"black jaguar, lit. black dog",,,228
 229_blackvulturecoragypsatratus,"black vulture, Coragyps atratus",,,229
-230_blind,blind,,,230
+230_blind,blind,1653,BLIND,230
 231_blood,blood,946,BLOOD,231
-232_blossombloom,"blossom, bloom",,,232
-233_blowtrans,blow (trans),,,233
-234_blowtransplaywindinstrument,"blow (trans), play wind instrument",,,234
-235_blue,blue,,,235
+232_blossombloom,"blossom, bloom",3287,BLOOM,232
+233_blowtrans,blow (trans),176,BLOW (WITH MOUTH),233
+234_blowtransplaywindinstrument,"blow (trans), play wind instrument",176,BLOW (WITH MOUTH),234
+235_blue,blue,837,BLUE,235
 236_bluecolorsbetweenblueandgray,"blue, colors between blue and gray",,,236
-237_body,body,,,237
-238_bodyhair,body hair,,,238
-239_bodypart,body part,,,239
-240_boil,boil,,,240
-241_boiltrans,boil (trans),,,241
+237_body,body,1480,BODY,237
+238_bodyhair,body hair,189,HAIR (BODY),238
+239_bodypart,body part,2213,BODY PART,239
+240_boil,boil,2493,BOIL,240
+241_boiltrans,boil (trans),2492,BOIL (SOMETHING),241
 242_bone,bone,1394,BONE,242
-243_border,border,,,243
+243_border,border,2546,BORDER,243
 244_borrow,borrow,1823,BORROW,244
 245_botflylarva,botfly larva,,,245
 246_bottombackexternal,"bottom, back (external)",,,246
-247_bow,bow,,,247
-248_boymalechild,"boy, male child",,,248
+247_bow,bow,994,BOW,247
+248_boymalechild,"boy, male child",1366,BOY,248
 249_brain,brain,1583,BRAIN,249
 250_branch,branch,1531,BRANCH,250
-251_branchofariver,branch of a river,,,251
-252_branch,branch@,,,252
-253_brave,brave,,,253
-254_breadthcapacity,"breadth, capacity",,,254
-255_breaklongskinnythingslikestickstrans,break (long skinny things like sticks) (trans),,,255
+251_branchofariver,branch of a river,826,BRANCH (BIFURCATION),251
+252_branch,branch@,1531,BRANCH,252
+253_brave,brave,3,BRAVE,253
+254_breadthcapacity,"breadth, capacity",2536,BREADTH,254
+255_breaklongskinnythingslikestickstrans,break (long skinny things like sticks) (trans),459,SNAP (OF STICK),255
 256_breaksomethinground,break (something round),,,256
-257_breaktrans,break (trans),,,257
-258_breaktranswithoutaninstrument,break (trans) (without an instrument),,,258
+257_breaktrans,break (trans),2558,BREAK (CLEAVE),257
+258_breaktranswithoutaninstrument,break (trans) (without an instrument),2558,BREAK (CLEAVE),258
 259_breaktranssomethinghollow,break (trans) something hollow,,,259
 260_breakupcamp,break up camp,,,260
 261_breaktear,"break, tear",,,261
 262_breast,breast,1402,BREAST,262
-263_breastfeed,breastfeed,,,263
-264_breastfeedtrans,breastfeed (trans),,,264
-265_breath,breath,,,265
-266_breatheintr,breathe (intr),,,266
-267_breatheininhale,"breathe in, inhale",,,267
+263_breastfeed,breastfeed,2472,"SUCKLE (BREASTFEED, NURSE)",263
+264_breastfeedtrans,breastfeed (trans),2472,"SUCKLE (BREASTFEED, NURSE)",264
+265_breath,breath,870,BREATH,265
+266_breatheintr,breathe (intr),1407,BREATHE,266
+267_breatheininhale,"breathe in, inhale",2705,INHALE,267
 268_breeding,breeding,,,268
-269_bringtrans,bring (trans),,,269
-270_bringtakesomethingfromoneplacetoanothertrans,"bring, take something from one place to another (trans)",,,270
+269_bringtrans,bring (trans),692,BRING,269
+270_bringtakesomethingfromoneplacetoanothertrans,"bring, take something from one place to another (trans)",692,BRING,270
 271_bristlefur,"bristle, fur",,,271
-272_brokendamaged,"broken, damaged",,,272
-273_broom,broom,,,273
+272_brokendamaged,"broken, damaged",3190,BROKEN (NOT WORKING),272
+273_broom,broom,245,BROOM,273
 274_brothjuice,"broth, juice",,,274
-275_brother,brother,,,275
-276_brotherfemaleego,"brother, female ego",,,276
-277_brothermaleego,"brother, male ego",,,277
+275_brother,brother,1262,BROTHER,275
+276_brotherfemaleego,"brother, female ego",560,BROTHER (OF WOMAN),276
+277_brothermaleego,"brother, male ego",559,BROTHER (OF MAN),277
 278_brotherinlawheborhpgsfemaleego,"brother-in law, HeB or HPGS , female ego",,,278
 279_brotherinlawhybfemaleego,"brother-in law, HyB, female ego",,,279
-280_brotherinlaw,brother-in-law,,,280
+280_brotherinlaw,brother-in-law,2314,BROTHER-IN-LAW,280
 281_brotherinlawfemaleego,"brother-in-law, female ego",,,281
-282_brotherinlawmaleego,"brother-in-law, male ego",,,282
-283_brotherinlawwborwpgsmaleego,"brother-in-law, WB or WPGS male ego",,,283
+282_brotherinlawmaleego,"brother-in-law, male ego",2380,BROTHER-IN-LAW (OF MAN),282
+283_brotherinlawwborwpgsmaleego,"brother-in-law, WB or WPGS male ego",2380,BROTHER-IN-LAW (OF MAN),283
 284_brotherinlawezhpgdhgdhfemaleego,"brother-in-law: eZH, PGDH, GDH, female ego",,,284
 285_brotherinlawyzhpgdyorgdyfemaleego,"brother-in-law: yZH, PGD(y), or GD(y), female ego",,,285
-286_brown,brown,,,286
+286_brown,brown,2409,BROWN,286
 287_browncapuchinmonkey,brown capuchin monkey,,,287
 288_bubblev,bubble (v.),,,288
-289_bullcow,"bull, cow",,,289
+289_bullcow,"bull, cow",3044,BOVINE,289
 290_bulletantparaponeraclavata,"bullet ant, Paraponera clavata",,,290
 291_bumblebee,bumble bee,,,291
-292_bunchcluster,"bunch, cluster",,,292
+292_bunchcluster,"bunch, cluster",1966,BUNCH,292
 293_bundlewraptrans,"bundle, wrap (trans)",,,293
 294_burn,burn,2102,BURN,294
-295_burnscald,"burn, scald",,,295
+295_burnscald,"burn, scald",3383,SCALD (BURN ONESELF WITH LIQUID),295
 296_burntsingedsmell,"burnt, singed smell",,,296
-297_burstbreakopen,"burst, break open",,,297
-298_burytrans,bury (trans),,,298
+297_burstbreakopen,"burst, break open",3976,EXPLODE,297
+298_burytrans,bury (trans),1719,BURY,298
 299_butterfly,butterfly,1791,BUTTERFLY,299
-300_buttocks,buttocks,,,300
-301_cadavercorpse,"cadaver, corpse",,,301
+300_buttocks,buttocks,834,BUTTOCKS,300
+301_cadavercorpse,"cadaver, corpse",767,CORPSE,301
 302_caiman,caiman,2438,CAIMAN,302
-303_calabashcrescentiacujete,"calabash, Crescentia cujete",,,303
-304_calltrans,call (trans),,,304
+303_calabashcrescentiacujete,"calabash, Crescentia cujete",3918,CALABASH,303
+304_calltrans,call (trans),1084,CALL,304
 305_calmdown,calm down,,,305
-306_candela,candela,,,306
+306_candela,candela,1273,CANDLE,306
 307_canoe,canoe,1970,CANOE,307
-308_capture,capture,,,308
-309_capturetrans,capture (trans),,,309
-310_capturecacar,"capture, caçar",,,310
+308_capture,capture,702,CATCH,308
+309_capturetrans,capture (trans),702,CATCH,309
+310_capturecacar,"capture, caçar",1435,HUNT,310
 311_cargo,cargo,,,311
-312_carrytrans,carry (trans),,,312
-313_carrytransinarms,carry (trans) in arms,,,313
+312_carrytrans,carry (trans),700,CARRY,312
+313_carrytransinarms,carry (trans) in arms,412,CARRY IN HAND,313
 314_carryashortdistancetrans,carry a short distance (trans),,,314
 315_catchwithalassoetc,"catch (with a lasso, etc.)",,,315
 316_catchbysurprise,catch by surprise,,,316
-317_catchfire,catch fire,,,317
+317_catchfire,catch fire,737,LIGHT (IGNITE),317
 318_catchwithhookpullupwithfishinghook,"catch with hook, pull up with fishing hook",,,318
-319_caterpillarsp,caterpillar sp.,,,319
+319_caterpillarsp,caterpillar sp.,2247,CATERPILLAR,319
 320_catfish,catfish,3777,CATFISH,320
 321_causeoffear,cause of fear,,,321
-322_celebrationparty,"celebration, party",,,322
-323_centipede,centipede,,,323
-324_cerebellumbackofthehead,"cerebellum, back of the head",,,324
-325_certain,certain,,,325
+322_celebrationparty,"celebration, party",131,FESTIVAL,322
+323_centipede,centipede,1974,CENTIPEDE,323
+324_cerebellumbackofthehead,"cerebellum, back of the head",523,BACK OF HEAD,324
+325_certain,certain,509,CERTAIN,325
 326_certainly,certainly,,,326
 327_chacra,chacra,212,FIELD,327
-328_chacrafarm,"chacra, farm",,,328
-329_chacrafarmgarden,"chacra, farm, garden",,,329
-330_chacragarden,"chacra, garden",,,330
+328_chacrafarm,"chacra, farm",212,FIELD,328
+329_chacrafarmgarden,"chacra, farm, garden",212,FIELD,329
+330_chacragarden,"chacra, garden",212,FIELD,330
 331_chameleon,chameleon,1555,CHAMELEON,331
 332_changedirectionsinthewater,change directions in the water,,,332
-333_changetransform,"change, transform",,,333
-334_charcoal,charcoal,,,334
-335_cheek,cheek,,,335
+333_changetransform,"change, transform",1264,CHANGE,333
+334_charcoal,charcoal,1188,CHARCOAL,334
+335_cheek,cheek,1730,CHEEK,335
 336_chest,chest,1592,CHEST,336
 337_chestinflatedpart,"chest, inflated part",,,337
-338_chew,chew,,,338
-339_chewtrans,chew (trans),,,339
-340_chiefleader,chief (leader),,,340
+338_chew,chew,321,CHEW,338
+339_chewtrans,chew (trans),321,CHEW,339
+340_chiefleader,chief (leader),301,CHIEFTAIN,340
 341_chiefleaderking,"chief (leader), king",,,341
 342_chigger,chigger,,,342
 343_chiggertrombiculaalfreddugesi,"chigger, Trombicula alfreddugesi",,,343
-344_child,child,,,344
-345_chin,chin,,,345
+344_child,child,2099,CHILD,344
+345_chin,chin,1510,CHIN,345
 346_chopfirewood,chop firewood,,,346
 347_cicada,cicada,2353,CICADA,347
 348_cigar,cigar,,,348
-349_claw,claw,,,349
-350_claw,claw@,,,350
+349_claw,claw,72,CLAW,349
+350_claw,claw@,72,CLAW,350
 351_clay,clay,1399,CLAY,351
-352_clean,clean,,,352
+352_clean,clean,704,CLEAN,352
 353_cleandirtthatishardtoremovevtrans,clean (dirt that is hard to remove) (v) (trans),,,353
 354_cleanjustdirtfromthesurfacevtrans,clean (just dirt from the surface) (v) (trans),,,354
-355_cleanvtrans,clean (v) (trans),,,355
+355_cleanvtrans,clean (v) (trans),2235,CLEAN (SOMETHING),355
 356_cleantherustoffvtrans,clean the rust off (v) (trans),,,356
 357_clearlandforfarming,clear land (for farming),,,357
-358_climbtrans,climb (trans),,,358
-359_closevtrans,close (v.) (trans),,,359
-360_closevtransforexampleadoor,"close (v.) (trans), for example, a door",,,360
-361_closevtransforexampleapotorbottle,"close (v.) (trans), for example, a pot or bottle",,,361
-362_closedoorvtrans,close door (v.) (trans),,,362
-363_cloth,cloth,,,363
-364_clothes,clothes,,,364
-365_cloud,cloud,,,365
-366_coati,coati,,,366
+358_climbtrans,climb (trans),1102,CLIMB,358
+359_closevtrans,close (v.) (trans),1046,SHUT,359
+360_closevtransforexampleadoor,"close (v.) (trans), for example, a door",1046,SHUT,360
+361_closevtransforexampleapotorbottle,"close (v.) (trans), for example, a pot or bottle",1046,SHUT,361
+362_closedoorvtrans,close door (v.) (trans),1046,SHUT,362
+363_cloth,cloth,1616,CLOTH,363
+364_clothes,clothes,1895,CLOTHES,364
+365_cloud,cloud,1489,CLOUD,365
+366_coati,coati,2389,COATI (COATIMUNDI),366
 367_cockroach,cockroach,1575,COCKROACH,367
-368_cold,cold,,,368
-369_collaredpeccarypecaritajacu,collared peccary (Pecari tajacu),,,369
-370_collaredpeccarypecaritajacu,"collared peccary, Pecari tajacu",,,370
+368_cold,cold,1287,COLD,368
+369_collaredpeccarypecaritajacu,collared peccary (Pecari tajacu),435,COLLARED PECCARY,369
+370_collaredpeccarypecaritajacu,"collared peccary, Pecari tajacu",435,COLLARED PECCARY,370
 371_colorofclayearth,color of clay/earth,,,371
 372_coloredclayearth,colored clay/earth,,,372
-373_comeintr,come (intr),,,373
-374_companion,companion,1325,FRIEND,374
+373_comeintr,come (intr),1446,COME,373
+374_companion,companion,3978,COMPANION,374
 375_conductorofsongdance,"conductor (of song, dance)",,,375
-376_confess,confess,,,376
+376_confess,confess,2022,ADMIT,376
 377_conservedwellkept,"conserved, well kept",,,377
 378_constellation,constellation,,,378
 379_continuous,continuous,,,379
 380_conversetrans,converse (trans),,,380
 381_conversediscuss,"converse, discuss",,,381
 382_cook,cook,1100,COOK (SOMETHING),382
-383_cookintrtrans,"cook (intr, trans)",,,383
-384_cookintrtrans,"cook (intr, trans)@",,,384
-385_cooked,cooked,,,385
+383_cookintrtrans,"cook (intr, trans)",1100,COOK (SOMETHING),383
+384_cookintrtrans,"cook (intr, trans)@",1100,COOK (SOMETHING),384
+385_cooked,cooked,269,COOKED,385
 386_copaltree,copal tree,,,386
-387_copulatehavesexwith,"copulate, have sex with",,,387
+387_copulatehavesexwith,"copulate, have sex with",549,COPULATE,387
 388_copulatehavesexwithmate,"copulate, have sex with, mate",,,388
 389_corn,corn,506,MAIZE,389
 390_corndrinkcornchicha,"corn drink, corn chicha",,,390
 391_corndrink,corn drink@,,,391
 392_corralpenv,"corral, pen (v.)",,,392
 393_cotton,cotton,1850,COTTON,393
-394_coughintr,cough (intr.),,,394
-395_coughn,cough (n.),,,395
-396_coughintr,cough(intr),,,396
-397_cousinfemale,cousin (female),,,397
-398_cousinmale,cousin (male),,,398
+394_coughintr,cough (intr.),879,COUGH,394
+395_coughn,cough (n.),3913,COUGH (ACT OF COUGHING),395
+396_coughintr,cough(intr),879,COUGH,396
+397_cousinfemale,cousin (female),3823,FEMALE COUSIN,397
+398_cousinmale,cousin (male),3822,MALE COUSIN,398
 399_cousinmalembsmaleorfemaleego,"cousin (male) MBS, male or female ego",,,399
 400_cousinmalefemaleego,"cousin (male), female ego",,,400
-401_covertrans,cover (trans),,,401
+401_covertrans,cover (trans),761,COVER,401
 402_crackn,crack (n.),,,402
 403_crackcracked,"crack, cracked",,,403
-404_cricket,cricket,,,404
-405_cricketsp,cricket sp.,,,405
+404_cricket,cricket,2354,CRICKET,404
+405_cricketsp,cricket sp.,2354,CRICKET,405
 406_crockearthenware,crock (earthenware),,,406
 407_crockearthenwareformakingchichaormasato,crock (earthenware) for making chicha or masato,,,407
 408_crockearthenwareformakingmaniocbeer,crock (earthenware) for making manioc beer,,,408
-409_crossgoacross,"cross, go across",,,409
+409_crossgoacross,"cross, go across",1367,CROSS,409
 410_crosseyed,cross-eyed,,,410
-411_cryintr,cry (intr),,,411
+411_cryintr,cry (intr),1839,CRY,411
 412_crycallforexampleroostercrynandv,"cry, call (for example, rooster cry) (n. and v.)",,,412
-413_cultivatetrans,cultivate (trans),,,413
-414_cup,cup,,,414
+413_cultivatetrans,cultivate (trans),1541,CULTIVATE,413
+414_cup,cup,476,CUP,414
 415_cupfordrinkingmaniocbeerorwine,cup (for drinking manioc beer or wine),,,415
 416_curebysucking,cure by sucking,,,416
-417_curemedicine,"cure, medicine",,,417
-418_current,current,,,418
-419_curse,curse,,,419
+417_curemedicine,"cure, medicine",1372,MEDICINE,417
+418_current,current,2935,CURRENT (STREAM),418
+419_curse,curse,8,CURSE,419
 420_cut,cut,1432,CUT,420
 421_cutadj,cut (adj),,,421
 422_cutwithintrument,cut (with intrument),,,422
 423_cutwithoutaninstrument,cut (without an instrument),,,423
 424_cuthairfur,"cut hair, fur",,,424
 425_cutinhalfwithouttheuseofforceforexamplethehandaclothhairbread,"cut in half, without the use of force. for example: the hand, a cloth, hair, bread",,,425
-426_cutwithscissors,cut with scissors,,,426
+426_cutwithscissors,cut with scissors,2155,CUT (WITH SCISSORS),426
 427_cutchop,"cut, chop",,,427
 428_cutchopintolargepiecesforexamplechopfirewood,"cut, chop into large pieces. For example, chop firewood",,,428
 429_cutcutdownfelltreetrans,"cut, cut down, fell tree (trans)",,,429
 430_cutbankcliffbluff,"cutbank, cliff, bluff",,,430
 431_cyst,cyst,,,431
 432_dammadeofwood,dam made of wood,,,432
-433_danceintr,dance (intr),,,433
-434_danceintr,dance (intr.),1879,DANCE,434
-435_dancen,dance (n.),,,435
-436_dancev,dance (v.),,,436
-437_dark,dark,,,437
-438_dark,dark@,,,438
-439_daughter,daughter,,,439
-440_daughterfemaleego,"daughter, female ego",,,440
-441_daughtermaleego,"daughter, male ego",,,441
-442_daughterinlaw,daughter-in-law,,,442
-443_daughterinlawsworgswfemaleego,"daughter-in-law, SW or GSW, female ego",,,443
-444_daughterinlawsworbswmaleego,"daughter-in-law; SW or  BSW, male ego",,,444
+433_danceintr,dance (intr),1879,DANCE,433
+434_danceintr,dance (intr.),,,434
+435_dancen,dance (n.),3472,DANCE (MOVEMENT),435
+436_dancev,dance (v.),1879,DANCE,436
+437_dark,dark,706,DARK,437
+438_dark,dark@,706,DARK,438
+439_daughter,daughter,1357,DAUGHTER,439
+440_daughterfemaleego,"daughter, female ego",3930,DAUGHTER (OF WOMAN),440
+441_daughtermaleego,"daughter, male ego",3778,DAUGHTER (OF MALE EGO),441
+442_daughterinlaw,daughter-in-law,1057,DAUGHTER-IN-LAW,442
+443_daughterinlawsworgswfemaleego,"daughter-in-law, SW or GSW, female ego",2264,DAUGHTER-IN-LAW (OF WOMAN),443
+444_daughterinlawsworbswmaleego,"daughter-in-law; SW or  BSW, male ego",2265,DAUGHTER-IN-LAW (OF MAN),444
 445_dawn,dawn,729,DAWN,445
-446_dawnearlyinthemorning,"dawn, early in the morning",,,446
-447_day,day,,,447
-448_deaf,deaf,,,448
-449_deathn,death (n),,,449
-450_decreaseinvolume,decrease in volume,,,450
+446_dawnearlyinthemorning,"dawn, early in the morning",729,DAWN,446
+447_day,day,1260,DAY (24 HOURS),447
+448_deaf,deaf,996,DEAF,448
+449_deathn,death (n),910,DEATH,449
+450_decreaseinvolume,decrease in volume,2864,DECREASE,450
 451_deep,deep,1593,DEEP,451
 452_deer,deer,1936,DEER,452
-453_deergeneric,"deer, generic",,,453
-454_defecateintr,defecate (intr),,,454
+453_deergeneric,"deer, generic",1936,DEER,453
+454_defecateintr,defecate (intr),676,SHIT (DEFECATE),454
 455_defoliatepickleaves,"defoliate, pick leaves",,,455
-456_demon,demon,,,456
+456_demon,demon,1973,DEMON,456
 457_demondevil,"demon, devil",,,457
-458_denforanimals,"den, for animals",,,458
-459_desire,desire,,,459
-460_destroy,destroy,,,460
-461_destroyruin,"destroy, ruin",,,461
+458_denforanimals,"den, for animals",2949,LAIR,458
+459_desire,desire,2117,DESIRE,459
+460_destroy,destroy,681,DESTROY,460
+461_destroyruin,"destroy, ruin",681,DESTROY,461
 462_dexterousskilled,"dexterous, skilled",,,462
-463_dieintr,die (intr),,,463
-464_different,different,,,464
-465_digintrans,dig (intrans),,,465
-466_digtrans,dig (trans),,,466
-467_diggingstick,digging stick,,,467
+463_dieintr,die (intr),1494,DIE,463
+464_different,different,2504,DIFFERENT,464
+465_digintrans,dig (intrans),1418,DIG,465
+466_digtrans,dig (trans),1418,DIG,466
+467_diggingstick,digging stick,339,DIGGING STICK,467
 468_diggingstickhoe,"digging stick, hoe",,,468
 469_diminutivesuffixsmall,diminutive suffix; small,,,469
-470_dirt,dirt,,,470
+470_dirt,dirt,25,DIRT,470
 471_dirtinessfilth,"dirtiness, filth",,,471
-472_dirty,dirty,,,472
-473_dirty,dirty@,,,473
-474_disappearintr,disappear (intr),,,474
+472_dirty,dirty,1230,DIRTY,472
+473_dirty,dirty@,1230,DIRTY,473
+474_disappearintr,disappear (intr),485,DISAPPEAR,474
 475_disarmlassoetc,"disarm (lasso, etc.)",,,475
 476_disarrange,disarrange,,,476
 477_discussconverse,"discuss, converse",,,477
 478_disembark,disembark,,,478
-479_disgustinggross,"disgusting, gross",,,479
+479_disgustinggross,"disgusting, gross",2507,DISGUSTING,479
 480_distantrelative,distant relative,,,480
 481_distantrelativefemalemaleego,"distant relative (female), male ego",,,481
 482_ditchofwater,ditch of water,,,482
-483_dive,dive,,,483
-484_diveintowater,dive into water,,,484
-485_divideseparate,"divide, separate",,,485
-486_dotrans,do (trans),,,486
+483_dive,dive,119,DIVE,483
+484_diveintowater,dive into water,119,DIVE,484
+485_divideseparate,"divide, separate",1119,DIVIDE,485
+486_dotrans,do (trans),813,DO,486
 487_dohabituallygetusedto,"do habitually, get used to",,,487
 488_dowith,do with,,,488
 489_dockvtransintr,"dock (V trans, intr)",,,489
 490_dockinaport,dock in a port,,,490
 491_docktoportarrivebywater,"dock to port, arrive by water",,,491
-492_dog,dog,,,492
+492_dog,dog,2009,DOG,492
 493_domesticmouseratsp,"domestic mouse, rat sp.",,,493
-494_domesticatedanimalpet,"domesticated animal, pet",,,494
+494_domesticatedanimalpet,"domesticated animal, pet",3780,PET,494
 495_door,door,1567,DOOR,495
-496_drag,drag,,,496
+496_drag,drag,2030,DRAG,496
 497_dragaheavyobject,drag a heavy object,,,497
-498_dragpull,"drag, pull",,,498
+498_dragpull,"drag, pull",2030,DRAG,498
 499_draindripliquids,"drain, drip (liquids)",,,499
-500_drinkintrtrans,"drink (intr, trans)",,,500
+500_drinkintrtrans,"drink (intr, trans)",1401,DRINK,500
 501_drinkalcohol,drink alcohol,,,501
-502_dripintr,drip (intr),,,502
-503_dripintr,drip (intr.),,,503
+502_dripintr,drip (intr),2253,DRIP (EMIT LIQUID),502
+503_dripintr,drip (intr.),2253,DRIP (EMIT LIQUID),503
 504_dripn,drip (n.),,,504
-505_drownintr,drown (intr),,,505
+505_drownintr,drown (intr),1904,DROWN,505
 506_drunk,drunk,1463,DRUNK,506
-507_dry,dry,,,507
+507_dry,dry,1398,DRY,507
 508_dryfoodtrans,dry (food) (trans),,,508
-509_dryintr,dry (intr),,,509
-510_dryintrtrans,"dry (intr, trans)",,,510
+509_dryintr,dry (intr),1786,DRY UP,509
+510_dryintrtrans,"dry (intr, trans)",2015,MAKE DRY,510
 511_dryriverlakeintrtrans,"dry (river, lake) (intr, trans)",,,511
-512_drytrans,dry (trans),,,512
+512_drytrans,dry (trans),2015,MAKE DRY,512
 513_drycookdrysteamsomethingbetweensteamingandroastingwherethewomenuseadryingpotclayvaseforexampletocooktamalestheyarewrappedandputintothepotwithalittlebitofwaterthenthepotisputontopofthecoalsandthetamalescookslowlyintheirownsteam,"dry cook/dry steam something between steaming and roasting, where the women use a 'drying pot' (clay vase). For example, to cook tamales, they are wrapped and put into the pot with a little bit of water. Then the pot is put on top of the coals and the tamales cook slowly in their own steam.",,,513
-514_dryseasonsummer,"dry season, summer",,,514
+514_dryseasonsummer,"dry season, summer",452,DRY SEASON,514
 515_dryhardened,"dry, hardened",,,515
 516_drystrikeknockeverythingdown,"dry, strike, knock everything down",,,516
 517_dryingpotclaypotintheshapeofavaseusedfordrysteamingfood,"drying pot, clay pot in the shape of a vase used for dry steaming food",,,517
-518_dust,dust,,,518
+518_dust,dust,2,DUST,518
 519_dyewithachiote,dye with achiote,,,519
 520_dyesmadefromcoloredclayearthusedtodecoratepottery,dyes made from colored clay/earth. used to decorate pottery,,,520
 521_ear,ear,1247,EAR,521
 522_earinside,ear (inside),,,522
 523_earoutsidepart,ear (outside part),,,523
-524_earthworm,earthworm,,,524
-525_eatintr,eat (intr),,,525
-526_eatintrtrans,"eat (intr, trans)",,,526
+524_earthworm,earthworm,2350,EARTHWORM,524
+525_eatintr,eat (intr),1336,EAT,525
+526_eatintrtrans,"eat (intr, trans)",1336,EAT,526
 527_edgeofanobject,edge of an object,,,527
-528_edgefringe,"edge, fringe",,,528
+528_edgefringe,"edge, fringe",2989,FRINGE,528
 529_egg,egg,744,EGG,529
-530_elbow,elbow,,,530
-531_elbowlittheseatofthearm,"elbow, lit. the seat of the arm",,,531
-532_embers,embers,,,532
-533_embracehugtrans,"embrace, hug (trans)",,,533
-534_emerge,emerge,,,534
-535_emitnoisesound,"emit noise, sound",,,535
-536_emitsmokeorsteam,emit smoke or steam,,,536
+530_elbow,elbow,981,ELBOW,530
+531_elbowlittheseatofthearm,"elbow, lit. the seat of the arm",981,ELBOW,531
+532_embers,embers,67,EMBERS,532
+533_embracehugtrans,"embrace, hug (trans)",928,EMBRACE,533
+534_emerge,emerge,1076,EMERGE (APPEAR),534
+535_emitnoisesound,"emit noise, sound",2879,SOUND (OF INSTRUMENT OR VOICE),535
+536_emitsmokeorsteam,emit smoke or steam,2859,SMOKE (EMIT SMOKE),536
 537_emptyshell,empty shell,,,537
-538_enclosureyardfencedinarea,"enclosure, yard, fenced-in area",,,538
+538_enclosureyardfencedinarea,"enclosure, yard, fenced-in area",736,YARD,538
 539_endconclusion,"end, conclusion",,,539
-540_endure,endure,,,540
-541_enemy,enemy,,,541
+540_endure,endure,833,ENDURE,540
+541_enemy,enemy,1358,ENEMY,541
 542_enjoy,enjoy,,,542
-543_enterintr,enter (intr),,,543
+543_enterintr,enter (intr),749,ENTER,543
 544_entrance,entrance,,,544
-545_escapeintr,escape (intr),,,545
+545_escapeintr,escape (intr),1615,ESCAPE,545
 546_esophagus,esophagus,,,546
 547_evennow,even now,,,547
 548_everydayalways,"every day, always",,,548
-549_evil,evil,,,549
+549_evil,evil,45,EVIL,549
 550_evilsnakespirit,evil snake spirit,,,550
 551_evilspiritdemon,"evil spirit, demon",,,551
-552_excrement,excrement,,,552
-553_excrementfeces,"excrement, feces",,,553
-554_exist,exist,,,554
+552_excrement,excrement,675,FAECES (EXCREMENT),552
+553_excrementfeces,"excrement, feces",675,FAECES (EXCREMENT),553
+554_exist,exist,1579,BE,554
 555_extendstretchoutbow,"extend, stretch out (bow",,,555
 556_exterior,exterior,,,556
-557_eye,eye,,,557
-558_eyeeyes,"eye, eyes",,,558
-559_eyeballlitwhatisinsidetheeye,"eyeball, lit. what is inside the eye",,,559
-560_eyebrow,eyebrow,,,560
-561_eyebrowlithairofeye,"eyebrow, lit. hair of eye",,,561
-562_face,face,,,562
-563_faint,faint,,,563
+557_eye,eye,1248,EYE,557
+558_eyeeyes,"eye, eyes",1248,EYE,558
+559_eyeballlitwhatisinsidetheeye,"eyeball, lit. what is inside the eye",3807,EYEBALL,559
+560_eyebrow,eyebrow,1173,EYEBROW,560
+561_eyebrowlithairofeye,"eyebrow, lit. hair of eye",1173,EYEBROW,561
+562_face,face,1560,FACE,562
+563_faint,faint,3616,FAINT (PASS OUT),563
 564_faintn,faint (n),,,564
-565_fallwhatisatrest,fall (what is at rest),,,565
-566_falldownscatter,"fall down, scatter",,,566
+565_fallwhatisatrest,fall (what is at rest),1276,AUTUMN,565
+566_falldownscatter,"fall down, scatter",2894,TUMBLE (FALL DOWN),566
 567_fallfromaheightintr,fall from a height (intr),,,567
 568_fallintowater,fall into water,,,568
-569_falloverfalldownintr,"fall over, fall down (intr)",,,569
-570_falloverfalldownfalltothesideintr,"fall over, fall down, fall to the side (intr)",,,570
-571_familymaleorfemaleego,family (male or female ego),,,571
-572_fan,fan,,,572
+569_falloverfalldownintr,"fall over, fall down (intr)",1280,FALL,569
+570_falloverfalldownfalltothesideintr,"fall over, fall down, fall to the side (intr)",1280,FALL,570
+571_familymaleorfemaleego,family (male or female ego),194,FAMILY,571
+572_fan,fan,1971,FAN (OBJECT),572
 573_far,far,1406,FAR,573
-574_farsomethingvisible,far (something visible),,,574
+574_farsomethingvisible,far (something visible),1406,FAR,574
 575_farmingagriculture,"farming, agriculture",,,575
-576_fast,fast,,,576
-577_fat,fat,,,577
-578_fatlard,fat (lard),,,578
-579_father,father,,,579
-580_fatherreligious,father (religious),,,580
+576_fast,fast,1631,FAST,576
+577_fat,fat,1279,FAT (OBESE),577
+578_fatlard,fat (lard),1282,FAT (FROM ANIMALS),578
+579_father,father,1217,FATHER,579
+580_fatherreligious,father (religious),852,PRIEST,580
 581_fathermotherofonesgodchild,"father, mother of one's godchild",,,581
-582_fatherinlaw,father-in-law,,,582
-583_fatherinlawfemaleego,"father-in-law, female ego",,,583
-584_fatherinlawmaleego,"father-in-law, male ego",,,584
+582_fatherinlaw,father-in-law,1055,FATHER-IN-LAW,582
+583_fatherinlawfemaleego,"father-in-law, female ego",2254,FATHER-IN-LAW (OF WOMAN),583
+584_fatherinlawmaleego,"father-in-law, male ego",2255,FATHER-IN-LAW (OF MAN),584
 585_fearnbescaredv,"fear (n.), be scared (v.)",,,585
-586_fearbescared,"fear, be scared",,,586
-587_feather,feather,,,587
+586_fearbescared,"fear, be scared",1419,FEAR (BE AFRAID),586
+587_feather,feather,1201,FEATHER,587
 588_featherfromawing,feather from a wing,,,588
-589_fecesexcrement,"feces, excrement",,,589
-590_feedofferfoodtrans,"feed, offer food (trans)",,,590
-591_feedofferfoodtrans,"feed, offer food (trans)@",,,591
+589_fecesexcrement,"feces, excrement",675,FAECES (EXCREMENT),589
+590_feedofferfoodtrans,"feed, offer food (trans)",739,FEED,590
+591_feedofferfoodtrans,"feed, offer food (trans)@",739,FEED,591
 592_feelguilty,feel guilty,,,592
-593_feelperceive,"feel, perceive",,,593
+593_feelperceive,"feel, perceive",2572,SENSE (PERCEIVE BY SENSES),593
 594_fellowcommunitymembermalefemaleego,"fellow community member (male), female ego",,,594
 595_fellowman,fellow man,,,595
-596_female,female,,,596
+596_female,female,1551,FEMALE,596
 597_femalecousinmaleego,"female cousin, male ego",,,597
-598_fencefordefense,fence (for defense),,,598
-599_fever,fever,,,599
+598_fencefordefense,fence (for defense),1690,FENCE,598
+599_fever,fever,1534,FEVER,599
 600_feverish,feverish,,,600
-601_fewalittle,few (a little),,,601
-602_fiberthread,"fiber, thread",,,602
+601_fewalittle,few (a little),1242,FEW,601
+602_fiberthread,"fiber, thread",1161,THREAD,602
 603_fibrous,fibrous,,,603
 604_fieldmouseratsp,"field mouse, rat sp.",,,604
 605_fieldmeadowsavannah,"field, meadow, savannah",,,605
-606_fightn,fight (n),,,606
-607_fighttrans,fight (trans),,,607
+606_fightn,fight (n),3880,FIGHT (COMBAT),606
+607_fighttrans,fight (trans),1423,FIGHT,607
 608_fightagainsteachother,fight against each other,,,608
-609_fightbattlen,"fight, battle (n)",,,609
-610_filltrans,fill (trans),,,610
-611_finofafish,fin (of a fish),,,611
-612_find,find,,,612
-613_findcomeacross,"find, come across",,,613
-614_finger,finger,,,614
-615_fingerlitpointsofthehand,"finger, lit. points of the hand",,,615
-616_fingerlitsonofthehand,"finger, lit. son of the hand",,,616
-617_fingernail,fingernail,,,617
-618_finishtrans,finish (trans),,,618
-619_finishtransend,"finish (trans), end",,,619
+609_fightbattlen,"fight, battle (n)",3880,FIGHT (COMBAT),609
+610_filltrans,fill (trans),2006,FILL,610
+611_finofafish,fin (of a fish),213,FIN,611
+612_find,find,719,FIND,612
+613_findcomeacross,"find, come across",719,FIND,613
+614_finger,finger,1303,FINGER,614
+615_fingerlitpointsofthehand,"finger, lit. points of the hand",1303,FINGER,615
+616_fingerlitsonofthehand,"finger, lit. son of the hand",1303,FINGER,616
+617_fingernail,fingernail,1258,FINGERNAIL,617
+618_finishtrans,finish (trans),1766,FINISH,618
+619_finishtransend,"finish (trans), end",1766,FINISH,619
 620_finished,finished,,,620
 621_finisheddone,"finished, done",,,621
-622_fire,fire,,,622
+622_fire,fire,221,FIRE,622
 623_firefly,firefly,206,FIREFLY,623
 624_fireflyspphotinuspyralis,"firefly sp., Photinus pyralis",,,624
-625_firefly,firefly@,,,625
-626_firewood,firewood,,,626
-627_first,first,,,627
+625_firefly,firefly@,206,FIREFLY,625
+626_firewood,firewood,10,FIREWOOD,626
+627_first,first,728,FIRST,627
 628_firsttime,first time,,,628
 629_fish,fish,227,FISH,629
-630_fishtrans,fish (trans),,,630
-631_fishhook,fish hook,,,631
+630_fishtrans,fish (trans),2638,FISHING,630
+631_fishhook,fish hook,1074,FISHHOOK,631
 632_fishpoison,fish poison,348,FISH POISON,632
 633_fishpoisonlonchocarpusutilis,"fish poison, Lonchocarpus utilis",,,633
-634_fishscales,fish scales,,,634
+634_fishscales,fish scales,227,FISH,634
 635_fishsp,fish sp.,,,635
 636_fishspcatfishspmicroglanishpoecilus,fish sp. catfish sp. Microglanish poecilus,,,636
 637_fishspcichlidsp,"fish sp., cichlid sp.",,,637
@@ -641,54 +641,54 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 640_fishsptrahira,"fish sp., trahira",,,640
 641_fishsptucunarespcichlamonoculus,"fish sp., tucunare sp., Cichla monoculus",,,641
 642_fishwithfishpoison,fish with fish poison,,,642
-643_fishwithfishingnet,fish with fishing net,,,643
-644_fishwithhooktrans,fish with hook (trans),,,644
-645_fishwithnettrans,fish with net (trans),,,645
-646_fish,fish@,,,646
-647_fishbone,fishbone,,,647
+643_fishwithfishingnet,fish with fishing net,2639,FISHING (WITH A NET),643
+644_fishwithhooktrans,fish with hook (trans),2796,FISHING (WITH A HOOK),644
+645_fishwithnettrans,fish with net (trans),2639,FISHING (WITH A NET),645
+646_fish,fish@,227,FISH,646
+647_fishbone,fishbone,3799,FISHBONE,647
 648_fishingnet,fishing net,388,FISHNET,648
-649_fishingnetsp,fishing net sp.,,,649
-650_five,five,,,650
-651_fivemyhand,five (my hand),,,651
-652_fix,fix,,,652
+649_fishingnetsp,fishing net sp.,388,FISHNET,649
+650_five,five,493,FIVE,650
+651_fivemyhand,five (my hand),493,FIVE,651
+652_fix,fix,3074,FIX,652
 653_flamevshineasingivingofflight,"flame (v.), shine (as in giving off light)",,,653
 654_flamevshinebrightasingivingofflight,"flame (v.), shine, bright (as in giving off light)",,,654
 655_flat,flat,1633,FLAT,655
-656_flatextendedhorizontally,"flat, extended horizontally",,,656
-657_flea,flea,,,657
+656_flatextendedhorizontally,"flat, extended horizontally",1633,FLAT,656
+657_flea,flea,232,FLEA,657
 658_flexiblebutstrong,flexible but strong,,,658
-659_float,float,,,659
+659_float,float,1574,FLOAT,659
 660_floodintrtrans,"flood (intr, trans)",,,660
 661_floormadefrompalmtrunks,floor made from palm trunks,,,661
-662_flourmaniocflour,flour/manioc flour,,,662
-663_flow,flow,,,663
-664_flowrunoffliquids,"flow, run off (liquids)",,,664
-665_flower,flower,,,665
-666_flower,flower@,,,666
-667_flute,flute,,,667
+662_flourmaniocflour,flour/manioc flour,324,MANIOC FLOUR,662
+663_flow,flow,2003,FLOW,663
+664_flowrunoffliquids,"flow, run off (liquids)",2003,FLOW,664
+665_flower,flower,239,FLOWER,665
+666_flower,flower@,239,FLOWER,666
+667_flute,flute,777,FLUTE,667
 668_fly,fly,1504,FLY (INSECT),668
-669_flyintr,fly (intr),,,669
+669_flyintr,fly (intr),1441,FLY (MOVE THROUGH AIR),669
 670_flysp,fly sp.,,,670
 671_flygeneric,"fly, generic",,,671
-672_fog,fog,,,672
-673_followtrans,follow (trans),,,673
+672_fog,fog,249,FOG,672
+673_followtrans,follow (trans),1085,FOLLOW,673
 674_followthetrailofcoming,follow the trail of (coming),,,674
 675_followthetrailofgoing,follow the trail of (going),,,675
-676_food,food,,,676
+676_food,food,256,FOOD,676
 677_foot,foot,1301,FOOT,677
 678_footmoving,foot (moving),,,678
-679_forearm,forearm,,,679
-680_forestjungle,forest (jungle),,,680
+679_forearm,forearm,446,LOWER ARM,679
+680_forestjungle,forest (jungle),420,FOREST,680
 681_forestjunglewilderness,"forest (jungle), wilderness",,,681
 682_foreveralways,"forever, always",,,682
-683_forgettrans,forget (trans),,,683
+683_forgettrans,forget (trans),1523,FORGET,683
 684_four,four,1500,FOUR,684
 685_fourtimes,four times,,,685
 686_frameforbuilding,frame (for building),,,686
-687_fresh,fresh,,,687
-688_friend,friend,,,688
-689_friendcompanion,"friend, companion",,,689
-690_friend,friend@,,,690
+687_fresh,fresh,243,FRESH,687
+688_friend,friend,1325,FRIEND,688
+689_friendcompanion,"friend, companion",1325,FRIEND,689
+690_friend,friend@,1325,FRIEND,690
 691_frogsphylapunctata,"frog sp., Hyla punctata",,,691
 692_frogspleptodactyluspentadactylus,"frog sp., Leptodactylus pentadactylus",,,692
 693_frogtoad,"frog, toad",,,693
@@ -698,111 +698,111 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 697_frogtoadgeneric,"frog, toad, generic",,,697
 698_fruit,fruit,1507,FRUIT,698
 699_fruitfromthestemof,fruit (from the stem of),,,699
-700_fruitgeneric,"fruit, generic",,,700
-701_frytrans,fry (trans),,,701
+700_fruitgeneric,"fruit, generic",1507,FRUIT,700
+701_frytrans,fry (trans),991,FRY,701
 702_fugitivepersonwhoescapes,"fugitive, person who escapes",,,702
-703_fulfillaccomplish,"fulfill, accomplish",,,703
-704_full,full,,,704
+703_fulfillaccomplish,"fulfill, accomplish",1112,SUCCEED,703
+704_full,full,1429,FULL,704
 705_fullmouth,full mouth,,,705
-706_fur,fur,,,706
+706_fur,fur,580,FUR,706
 707_furtheronbeyond,"further on, beyond",,,707
 708_gameparty,"game, party",,,708
-709_gapemptyspot,"gap, empty spot",,,709
+709_gapemptyspot,"gap, empty spot",2948,GAP (DISTANCE),709
 710_garbage,garbage,909,GARBAGE,710
-711_garbage,garbage@,,,711
+711_garbage,garbage@,909,GARBAGE,711
 712_gatherfirewood,gather firewood,,,712
 713_gatherharvesttrans,"gather, harvest (trans)",,,713
 714_gatherpickbreakingthestem,"gather, pick (breaking the stem)",,,714
 715_getclosenearnearbytosomeoneorsomethingslowly,get close (near/nearby) to someone or something slowly,,,715
 716_getconfused,get confused,,,716
-717_getdressed,get dressed,,,717
-718_getdressedintr,get dressed (intr),,,718
-719_getdressedintr,get dressed (intr)@,,,719
+717_getdressed,get dressed,814,DRESS UP,717
+718_getdressedintr,get dressed (intr),814,DRESS UP,718
+719_getdressedintr,get dressed (intr)@,814,DRESS UP,719
 720_getlatetheday,get late (the day),,,720
-721_getsick,get sick,,,721
+721_getsick,get sick,2327,BECOME SICK,721
 722_getusedtotrans,get used to (trans),,,722
 723_giantanteatermyrmecophagatridactyla,"giant anteater, Myrmecophaga tridáctyla",,,723
-724_gift,gift,,,724
-725_girlfemalechild,"girl, female child",,,725
-726_giveditr,give (ditr),,,726
-727_giveaway,give away,,,727
-728_givebirthtotrans,give birth to (trans),,,728
+724_gift,gift,2982,GIFT,724
+725_girlfemalechild,"girl, female child",1646,GIRL,725
+726_giveditr,give (ditr),1447,GIVE,726
+727_giveaway,give away,196,DONATE,727
+728_givebirthtotrans,give birth to (trans),1195,GIVE BIRTH,728
 729_giveflower,give flower,,,729
 730_gland,gland,,,730
-731_glutton,glutton,,,731
+731_glutton,glutton,533,GLUTTON,731
 732_gnawnibblebite,"gnaw, nibble, bite",,,732
-733_go,go,,,733
+733_go,go,695,GO,733
 734_goimp,go (IMP),,,734
-735_godown,go down,,,735
-736_godownintr,go down (intr),,,736
+735_godown,go down,2014,GO DOWN (DESCEND),735
+736_godownintr,go down (intr),2014,GO DOWN (DESCEND),736
 737_godownthetide,go down (the tide),,,737
 738_godownriverintr,go downriver (intr),,,738
 739_goupriverintr,go upriver (intr),,,739
-740_god,god,,,740
+740_god,god,1944,GOD,740
 741_godofthunderandlightning,god of thunder and lightning,,,741
 742_godchildgodsonordaughterfemaleego,"godchild (godson or daughter), female ego",,,742
 743_godfather,godfather,,,743
 744_godmother,godmother,,,744
-745_good,good,,,745
-746_good,good@,,,746
+745_good,good,1035,GOOD,745
+746_good,good@,1035,GOOD,746
 747_gourd,gourd,411,GOURD,747
 748_gourdvessel,gourd vessel,,,748
 749_gourdpumpkinsquash,"gourd, pumpkin, squash",,,749
 750_gourdpumpkinsquashsp,"gourd, pumpkin, squash sp.",,,750
 751_grabtrans,grab (trans),,,751
-752_grandchild,grandchild,,,752
-753_grandchildfemaleego,"grandchild, female ego",,,753
-754_grandchildmaleego,"grandchild, male ego",,,754
+752_grandchild,grandchild,1618,GRANDSON,752
+753_grandchildfemaleego,"grandchild, female ego",3782,GRANDCHILD (OF FEMALE EGO),753
+754_grandchildmaleego,"grandchild, male ego",1618,GRANDSON,754
 755_grandfather,grandfather,1383,GRANDFATHER,755
-756_grandmother,grandmother,,,756
+756_grandmother,grandmother,1496,GRANDMOTHER,756
 757_grandson,grandson,,,757
 758_grass,grass,606,GRASS,758
-759_grasssp,grass sp.,,,759
-760_grasshopper,grasshopper,,,760
-761_grate,grate,,,761
-762_gravesicknessdisease,"grave sickness, disease",,,762
+759_grasssp,grass sp.,606,GRASS,759
+760_grasshopper,grasshopper,607,GRASSHOPPER,760
+761_grate,grate,3114,GRATE (SOMETHING),761
+762_gravesicknessdisease,"grave sickness, disease",1986,DISEASE,762
 763_green,green,1425,GREEN,763
-764_greengrue,"green, grue",,,764
-765_grill,grill,,,765
-766_grillbarbeque,"grill, barbeque",,,766
+764_greengrue,"green, grue",2382,BLUE OR GREEN,764
+765_grill,grill,1962,ROAST (SOMETHING),765
+766_grillbarbeque,"grill, barbeque",1962,ROAST (SOMETHING),766
 767_grillbarbequen,"grill, barbeque (n)",,,767
-768_grillbarbeque,"grill, barbeque@",,,768
-769_grindtrans,grind (trans),,,769
-770_grindstonestoneforsharpening,"grindstone, stone for sharpening",,,770
+768_grillbarbeque,"grill, barbeque@",1962,ROAST (SOMETHING),768
+769_grindtrans,grind (trans),1033,GRIND,769
+770_grindstonestoneforsharpening,"grindstone, stone for sharpening",2459,GRINDSTONE,770
 771_groann,groan (n.),,,771
-772_groanv,groan (v.),,,772
+772_groanv,groan (v.),716,GROAN,772
 773_groin,groin,,,773
 774_group,group,,,774
-775_groupmultitude,"group, multitude",,,775
-776_growintrtrans,"grow (intr, trans)",,,776
-777_growintrtransonlypeople,"grow (intr, trans) (only people)",,,777
+775_groupmultitude,"group, multitude",538,MULTITUDE,775
+776_growintrtrans,"grow (intr, trans)",479,GROW,776
+777_growintrtransonlypeople,"grow (intr, trans) (only people)",552,GROW UP,777
 778_growbigintr,grow big (intr),,,778
 779_growfillforexamplewateratitssource,"grow, fill (for example water at it's source)",,,779
 780_grue,grue,,,780
-781_guardn,guard (n),,,781
+781_guardn,guard (n),1940,GUARD,781
 782_guideprotector,"guide, protector",,,782
-783_guineapig,guinea pig (?),,,783
-784_gull,gull,,,784
+783_guineapig,guinea pig (?),3718,GUINEA PIG,783
+784_gull,gull,950,SEAGULL,784
 785_gulpmouthful,"gulp, mouthful",,,785
 786_haber,haber,,,786
-787_hair,hair,,,787
-788_haironhead,hair (on head),,,788
+787_hair,hair,1040,HAIR,787
+788_haironhead,hair (on head),2648,HAIR (HEAD),788
 789_hammock,hammock,2019,HAMMOCK,789
 790_hand,hand,1277,HAND,790
-791_handle,handle,,,791
-792_handleofaninstrument,handle (of an instrument),,,792
-793_handleofvaseetc,"handle (of vase, etc.)",,,793
+791_handle,handle,1254,HANDLE,791
+792_handleofaninstrument,handle (of an instrument),1254,HANDLE,792
+793_handleofvaseetc,"handle (of vase, etc.)",1254,HANDLE,793
 794_happy,happy,1495,HAPPY,794
 795_happyjoy,"happy, joy",,,795
-796_hard,hard,1884,HARD,796
+796_hard,hard,584,DIFFICULT,796
 797_hardbutflexible,hard (but flexible),,,797
 798_hardrigiddense,"hard (rigid, dense)",,,798
 799_hardtough,"hard, tough",,,799
 800_harden,harden,,,800
 801_harpoontrans,harpoon (trans),,,801
-802_hate,hate,,,802
-803_hatedetest,"hate, detest",,,803
-804_havetrans,have (trans),,,804
+802_hate,hate,1607,HATE,802
+803_hatedetest,"hate, detest",1607,HATE,803
+804_havetrans,have (trans),773,HAVE,804
 805_haveabeardmoustachefacialhair,"have a beard, moustache, facial hair",,,805
 806_haveaholebehollow,"have a hole, be hollow",,,806
 807_havealoverorspousehidden,have a lover or spouse hidden,,,807
@@ -816,194 +816,194 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 815_havetheflu,have the flu,,,815
 816_head,head,1256,HEAD,816
 817_headofariverstreamravine,"head of a river, stream, ravine",,,817
-818_headwatersbeginningofriver,"headwaters, beginning of river",,,818
-819_healintr,heal (intr),,,819
-820_healintrtrans,"heal (intr, trans)",,,820
-821_healtrans,heal (trans),,,821
-822_healthy,healthy,,,822
+818_headwatersbeginningofriver,"headwaters, beginning of river",2672,HEADWATERS,818
+819_healintr,heal (intr),499,CURE,819
+820_healintrtrans,"heal (intr, trans)",499,CURE,820
+821_healtrans,heal (trans),499,CURE,821
+822_healthy,healthy,1364,HEALTHY,822
 823_heapofdusttrash,"heap of dust, trash",,,823
 824_heappileupstackaccumulate,"heap, pile up, stack, accumulate",,,824
 825_heappilestack,"heap, pile, stack",,,825
-826_heartrans,hear (trans),,,826
+826_heartrans,hear (trans),1408,HEAR,826
 827_heart,heart,1223,HEART,827
-828_heat,heat,,,828
+828_heat,heat,612,HEAT,828
 829_heavy,heavy,1210,HEAVY,829
 830_heavyweight,"heavy, weight",,,830
-831_heel,heel,,,831
+831_heel,heel,980,HEEL,831
 832_heighthightallplace,"height, high/tall place",,,832
-833_helptrans,help (trans),,,833
+833_helptrans,help (trans),1897,HELP,833
 834_helptogivebirt,help to give birt,,,834
-835_hideintrtrans,"hide (intr, trans)",,,835
-836_highupadv,high up (adv.),1265,HIGH,836
-837_hightall,"high, tall",,,837
-838_hill,hill,,,838
-839_hillmountain,"hill, mountain",,,839
+835_hideintrtrans,"hide (intr, trans)",2486,HIDE,835
+836_highupadv,high up (adv.),,,836
+837_hightall,"high, tall",2790,HIGH OR TALL,837
+838_hill,hill,614,HILL,838
+839_hillmountain,"hill, mountain",2118,MOUNTAIN OR HILL,839
 840_hillspit,"hill, spit",,,840
-841_hips,hips,,,841
+841_hips,hips,1745,HIP,841
 842_holdhands,hold hands,,,842
 843_hole,hole,1667,HOLE,843
 844_holypersonspiritualforce,"holy person, spiritual force",,,844
-845_honey,honey,,,845
-846_honeybee,honeybee,,,846
+845_honey,honey,942,HONEY,845
+846_honeybee,honeybee,665,BEE,846
 847_horn,horn,1393,HORN (ANATOMY),847
 848_horsefly,horsefly,3262,HORSEFLY,848
-849_hot,hot,,,849
+849_hot,hot,1286,HOT,849
 850_hotburning,"hot, burning",,,850
 851_house,house,1252,HOUSE,851
-852_how,how?,,,852
+852_how,how?,1239,HOW,852
 853_howlermonkey,howler monkey,433,HOWLER MONKEY,853
-854_howlermonkeysp,howler monkey sp.,,,854
-855_howlermonkeyalouattaseniculus,"howler monkey, Alouatta seniculus",,,855
+854_howlermonkeysp,howler monkey sp.,433,HOWLER MONKEY,854
+855_howlermonkeyalouattaseniculus,"howler monkey, Alouatta seniculus",433,HOWLER MONKEY,855
 856_huasacuorhuasacohopliasmalabaricustrahirafish,"huasacu or huasaco, Hoplias malabaricus, trahira fish",,,856
-857_hump,hump,,,857
+857_hump,hump,534,HUMP,857
 858_hungry,hungry,1533,BE HUNGRY,858
-859_huntintrtrans,"hunt (intr, trans)",,,859
+859_huntintrtrans,"hunt (intr, trans)",1435,HUNT,859
 860_huntorfishforoneself,hunt or fish for oneself,,,860
-861_hurt,hurt,,,861
-862_hurtbepainful,"hurt, be painful",,,862
-863_hurtwound,"hurt, wound",,,863
+861_hurt,hurt,2411,HURT (SOMEBODY),861
+862_hurtbepainful,"hurt, be painful",1129,PAINFUL,862
+863_hurtwound,"hurt, wound",1109,WOUND,863
 864_hurtwoundhead,"hurt, wound head",,,864
 865_hurtwounded,"hurt, wounded",,,865
 866_husband,husband,1200,HUSBAND,866
-867_iguanaiguanaiguana,iguana. Iguana iguana,,,867
+867_iguanaiguanaiguana,iguana. Iguana iguana,1578,IGUANA,867
 868_illuminateshinelighton,"illuminate, shine light on",,,868
-869_imitaterepresentsignalsometimesimitateasinmock,"imitate, represent, signal, sometimes 'imitate' as in 'mock'",,,869
+869_imitaterepresentsignalsometimesimitateasinmock,"imitate, represent, signal, sometimes 'imitate' as in 'mock'",117,IMITATE,869
 870_immaturenewforsomethingroundlikefruit,"immature, new (for something round like fruit)",,,870
-871_importunebother,"importune, bother",,,871
-872_infront,in front,,,872
-873_infrontofsomethingorsomeone,in front of something or someone,,,873
-874_inclinebow,"incline, bow",,,874
-875_increase,increase,,,875
-876_indian,Indian,,,876
+871_importunebother,"importune, bother",2869,BOTHER (HARASS),871
+872_infront,in front,1883,IN FRONT OF,872
+873_infrontofsomethingorsomeone,in front of something or someone,1883,IN FRONT OF,873
+874_inclinebow,"incline, bow",994,BOW,874
+875_increase,increase,1041,INCREASE,875
+876_indian,Indian,3612,INDIGENOUS PEOPLES OF THE AMERICAS,876
 877_indianfromanothergroup,Indian from another group,,,877
 878_indianwoman,Indian woman,,,878
-879_infant,infant,,,879
+879_infant,infant,1289,BABY,879
 880_information,information,,,880
-881_inside,inside,,,881
-882_intestinesguts,"intestines, guts",,,882
-883_invite,invite,,,883
-884_invitetrans,invite (trans),,,884
+881_inside,inside,1606,INSIDE,881
+882_intestinesguts,"intestines, guts",1991,INTESTINES,882
+883_invite,invite,1611,INVITE,883
+884_invitetrans,invite (trans),1611,INVITE,884
 885_invitetoapartytrans,invite to a party (trans),,,885
-886_invokecall,"invoke, call",,,886
-887_ironmetal,"iron, metal",,,887
+886_invokecall,"invoke, call",1084,CALL,886
+887_ironmetal,"iron, metal",3324,IRON OR METAL,887
 888_island,island,622,ISLAND,888
 889_isulaorizulaparaponeraclavatabulletant,"isula or izula, Paraponera clavata, bullet ant",,,889
 890_itstrue,it's true,,,890
-891_jaguar,jaguar,,,891
-892_jaw,jaw,,,892
+891_jaguar,jaguar,1250,JAGUAR,891
+892_jaw,jaw,798,JAW,892
 893_jergonbothropsatroxferdelancesnake,"jergón, Bothrops atrox, fer-de-lance snake",,,893
-894_joinputtogetherattachtrans,"join, (put together, attach) (trans)",,,894
-895_jumpintr,jump (intr),,,895
+894_joinputtogetherattachtrans,"join, (put together, attach) (trans)",1743,JOIN,894
+895_jumpintr,jump (intr),1829,JUMP,895
 896_jumpfromonesidetoanother,jump from one side to another,,,896
 897_jumpwithonefootortwo,jump with one foot or two,,,897
-898_keep,keep,,,898
-899_kidney,kidney,,,899
-900_killtrans,kill (trans),,,900
+898_keep,keep,1477,KEEP,898
+899_kidney,kidney,489,KIDNEY,899
+900_killtrans,kill (trans),1417,KILL,900
 901_killtransdoinggreatdamage,kill (trans) doing great damage,,,901
 902_kinracenation,"kin, race, nation",,,902
-903_kiss,kiss,,,903
+903_kiss,kiss,578,KISS,903
 904_kneadrubtrans,"knead, rub (trans)",,,904
-905_knee,knee,,,905
-906_kneecap,kneecap,,,906
+905_knee,knee,1371,KNEE,905
+906_kneecap,kneecap,1371,KNEE,906
 907_knife,knife,1352,KNIFE,907
 908_knockdown,knock down,,,908
 909_knockdownundobreakup,"knock down, undo, break up",,,909
-910_knot,knot,,,910
+910_knot,knot,760,KNOT,910
 911_knotinwoodtree,knot (in wood/tree),,,911
 912_knotknobforexampleinacanereed,"knot, knob (for example, in a cane/reed)",,,912
-913_knowtrans,know (trans),,,913
+913_knowtrans,know (trans),1410,KNOW (SOMETHING),913
 914_knowhowtodo,know how to do,,,914
 915_knowwell,know well,,,915
 916_lake,lake,624,LAKE,916
-917_landgroundearth,"land, ground, earth",,,917
+917_landgroundearth,"land, ground, earth",3603,EARTH OR LAND,917
 918_landslide,landslide,,,918
-919_language,language,,,919
-920_lap,lap,,,920
+919_language,language,1307,LANGUAGE,919
+920_lap,lap,3263,LAP,920
 921_larvamaggotgrub,"larva, maggot, grub",,,921
 922_larvamaggotgrubsp,"larva, maggot, grub sp.",,,922
 923_larvamaggotgrubspthatappearsinfruitsandmeats,"larva, maggot, grub sp. that appears in fruits and meats",,,923
 924_larvamaggotgrubsppalmweevilsuri,"larva, maggot, grub sp., palm weevil, suri",,,924
 925_lateatnight,late at night,,,925
 926_latelyrecently,"lately, recently",,,926
-927_later,later,,,927
+927_later,later,477,LATE,927
 928_lateraftersomethingsomeone,"later, after something, someone",,,928
-929_laughintr,laugh (intr),,,929
-930_law,law,,,930
-931_laydown,lay down,,,931
-932_lazy,lazy,,,932
+929_laughintr,laugh (intr),1355,LAUGH,929
+930_law,law,1062,LAW,930
+931_laydown,lay down,1411,LIE (REST),931
+932_lazy,lazy,1564,LAZY,932
 933_leaderofthesongconductor,"leader of the song, conductor",,,933
-934_leaf,leaf,,,934
+934_leaf,leaf,628,LEAF,934
 935_leafcutterant,leaf-cutter ant,,,935
-936_leavetrans,leave (trans),,,936
-937_leavefromintr,leave from (intr),,,937
+936_leavetrans,leave (trans),1752,LEAVE,936
+937_leavefromintr,leave from (intr),1752,LEAVE,937
 938_leavefromdepartleaveonatrail,"leave from, depart, leave on a trail",,,938
-939_left,left,,,939
-940_lefthand,left (hand),,,940
-941_leg,leg,,,941
-942_lend,lend,,,942
-943_lendletborrow,"lend, let borrow",,,943
-944_lengthbodyofsomethinglong,"length, body of something long",,,944
-945_letgo,let go,,,945
-946_liarpersonwholies,"liar, person who lies",,,946
-947_lien,lie (n.),,,947
+939_left,left,244,LEFT,939
+940_lefthand,left (hand),2182,LEFT HAND,940
+941_leg,leg,1297,LEG,941
+942_lend,lend,582,LEND,942
+943_lendletborrow,"lend, let borrow",582,LEND,943
+944_lengthbodyofsomethinglong,"length, body of something long",2537,LENGTH,944
+945_letgo,let go,1095,LET GO OR SET FREE,945
+946_liarpersonwholies,"liar, person who lies",3470,LIAR,946
+947_lien,lie (n.),2826,LIE (FALSEHOOD),947
 948_lieonasurfaceintr,lie on a surface (intr),,,948
 949_lieonasurfaceintronlyanimals,"lie on a surface (intr), only animals",,,949
-950_lietodeceivetrans,"lie to, deceive (trans)",,,950
-951_life,life,,,951
-952_lifttrans,lift (trans),,,952
+950_lietodeceivetrans,"lie to, deceive (trans)",601,LIE (MISLEAD),950
+951_life,life,210,LIFE,951
+952_lifttrans,lift (trans),501,LIFT,952
 953_lifttranssomethingheavy,lift (trans) (something heavy),,,953
-954_light,light,,,954
-955_lightv,light (v.),,,955
-956_lightvstartfire,"light (v.), start fire",,,956
-957_lightweight,light (weight),,,957
-958_lightfirev,light fire (v.),,,958
+954_light,light,630,LIGHT (RADIATION),954
+955_lightv,light (v.),737,LIGHT (IGNITE),955
+956_lightvstartfire,"light (v.), start fire",737,LIGHT (IGNITE),956
+957_lightweight,light (weight),1052,LIGHT (WEIGHT),957
+958_lightfirev,light fire (v.),737,LIGHT (IGNITE),958
 959_limpwithonefootanddragtheother,limp with one foot and drag the other,,,959
-960_linerow,"line, row",,,960
-961_lip,lip,,,961
-962_liplips,"lip, lips",,,962
-963_lipslitedgeofthemouth,"lips, lit. edge of the mouth",,,963
-964_lipslitskinofthemouth,"lips, lit. skin of the mouth",,,964
-965_liveintr,live (intr),,,965
-966_liver,liver,,,966
-967_lixardsp,lixard sp.,,,967
-968_lizardsp,lizard sp.,,,968
-969_lizardsptupinambisteguixin,"lizard sp.,  Tupinambis teguixin",,,969
+960_linerow,"line, row",1048,LINE,960
+961_lip,lip,478,LIP,961
+962_liplips,"lip, lips",478,LIP,962
+963_lipslitedgeofthemouth,"lips, lit. edge of the mouth",478,LIP,963
+964_lipslitskinofthemouth,"lips, lit. skin of the mouth",478,LIP,964
+965_liveintr,live (intr),1422,BE ALIVE,965
+966_liver,liver,1224,LIVER,966
+967_lixardsp,lixard sp.,632,LIZARD,967
+968_lizardsp,lizard sp.,632,LIZARD,968
+969_lizardsptupinambisteguixin,"lizard sp.,  Tupinambis teguixin",632,LIZARD,969
 970_lizardgeckosp,"lizard, gecko sp.",,,970
 971_lizardgeckoiguana,"lizard, gecko, iguana",,,971
 972_lizardgeckoiguana,"lizard, gecko, iguana@",,,972
-973_loadn,load (n.),,,973
+973_loadn,load (n.),1679,LOAD,973
 974_lobeshapedpartofaclub,lobe-shaped part of a club,,,974
 975_long,long,1203,LONG,975
 976_longstickformakingholesinthegroundforplanting,long stick for making holes in the ground for planting,,,976
-977_longtime,long time,,,977
+977_longtime,long time,418,FOR A LONG TIME,977
 978_longtimeago,long time ago,373,LONG AGO,978
-979_lookintr,look (intr),,,979
-980_lookfortrans,look for (trans),,,980
-981_lookforsomething,look for something,,,981
-982_looklikeresemble,"look like, resemble",,,982
+979_lookintr,look (intr),1819,LOOK,979
+980_lookfortrans,look for (trans),1468,LOOK FOR,980
+981_lookforsomething,look for something,1468,LOOK FOR,981
+982_looklikeresemble,"look like, resemble",1777,RESEMBLE,982
 983_lookoverobserve,"look over, observe",,,983
-984_loseoneselfintr,lose (oneself) (intr),,,984
-985_loseoneselflosetheway,"lose (oneself), lose the way",,,985
+984_loseoneselfintr,lose (oneself) (intr),423,GET LOST,984
+985_loseoneselflosetheway,"lose (oneself), lose the way",423,GET LOST,985
 986_losesomething,lose something,,,986
-987_loseway,lose way,,,987
-988_lost,lost,,,988
+987_loseway,lose way,423,GET LOST,987
+988_lost,lost,3667,LOST,988
 989_louse,louse,1392,LOUSE,989
-990_love,love,,,990
-991_lovetrans,love (trans),,,991
-992_lovetrans,love (trans)@,,,992
-993_lowerback,lower back,,,993
-994_lowerleg,lower leg,,,994
-995_lowerlip,lower lip,,,995
+990_love,love,3834,LOVE (AFFECTION),990
+991_lovetrans,love (trans),923,LOVE,991
+992_lovetrans,love (trans)@,923,LOVE,992
+993_lowerback,lower back,3613,LOWER BACK,993
+994_lowerleg,lower leg,447,LOWER LEG,994
+995_lowerlip,lower lip,3944,LOWER LIP,995
 996_lumbarregiontailboneendofspinalcolumn,"lumbar region, tailbone, end of spinal column",,,996
 997_lumpbecomelumpy,"lump, become lumpy",,,997
 998_lumpbulgethatformsontheheadandotherpartsofthebody,"lump, bulge that forms on the head and other parts of the body",,,998
-999_lung,lung,,,999
+999_lung,lung,688,LUNG,999
 1000_macaw,macaw,1630,MACAW,1000
 1001_macawaap,macawa ap.,,,1001
-1002_machete,machete,,,1002
-1003_majaspaca,majás (paca),,,1003
-1004_majaspacacuniculuspaca,"majás (paca), Cuniculus paca",,,1004
-1005_make,make,,,1005
+1002_machete,machete,2680,MACHETE,1002
+1003_majaspaca,majás (paca),316,PACA,1003
+1004_majaspacacuniculuspaca,"majás (paca), Cuniculus paca",316,PACA,1004
+1005_make,make,734,MAKE,1005
 1006_makearrive,make arrive,,,1006
 1007_makedirty,make dirty,,,1007
 1008_makedirtysoil,"make dirty, soil",,,1008
@@ -1014,237 +1014,237 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1013_makeleave,make leave,,,1013
 1014_makeremembertrans,make remember (trans),,,1014
 1015_makesweat,make sweat,,,1015
-1016_male,male,,,1016
+1016_male,male,1553,MALE,1016
 1017_malleable,malleable,,,1017
-1018_man,man,,,1018
-1019_manioc,manioc,,,1019
+1018_man,man,1554,MAN,1018
+1019_manioc,manioc,925,CASSAVA,1019
 1020_maniocbeer,manioc beer,,,1020
 1021_manioccutting,manioc cutting,,,1021
 1022_maniocflour,manioc flour,324,MANIOC FLOUR,1022
-1023_maniocmanihotesculenta,"manioc, Manihot esculenta",,,1023
-1024_manymuch,many (much),,,1024
+1023_maniocmanihotesculenta,"manioc, Manihot esculenta",925,CASSAVA,1023
+1024_manymuch,many (much),1198,MANY,1024
 1025_manymuchinagroup,many (much) in a group,,,1025
-1026_marrytrans,marry (trans),,,1026
+1026_marrytrans,marry (trans),203,MARRY,1026
 1027_marrytransmarriagemarried,"marry (trans), marriage, married",,,1027
 1028_marryamantrans,marry a man (trans),,,1028
 1029_marryawomantrans,marry a woman (trans),,,1029
 1030_marshswamp,"marsh, swamp",,,1030
-1031_massage,massage,,,1031
-1032_mat,mat,,,1032
-1033_maternaluncle,maternal uncle,,,1033
-1034_maternalunclembormpgsmaleorfemaleego,"maternal uncle: MB or MPGS, male or female ego",,,1034
-1035_meat,meat,,,1035
-1036_meet,meet,,,1036
-1037_meetencountercomeacrossfind,"meet, encounter, come across, find",,,1037
+1031_massage,massage,3119,MASSAGE (SOMEBODY),1031
+1032_mat,mat,195,MAT,1032
+1033_maternaluncle,maternal uncle,3220,MATERNAL UNCLE,1033
+1034_maternalunclembormpgsmaleorfemaleego,"maternal uncle: MB or MPGS, male or female ego",3220,MATERNAL UNCLE,1034
+1035_meat,meat,2615,FLESH OR MEAT,1035
+1036_meet,meet,1831,MEET,1036
+1037_meetencountercomeacrossfind,"meet, encounter, come across, find",3904,ENCOUNTER (MEET),1037
 1038_meetvisit,"meet, visit",,,1038
 1039_meetvisitagainseeagain,"meet/visit again, see again",,,1039
 1040_meltfatlard,melt fat/lard,,,1040
 1041_melted,melted,,,1041
-1042_memory,memory,,,1042
+1042_memory,memory,1018,MEMORY,1042
 1043_messenger,messenger,,,1043
 1044_mestizomixedperson,"mestizo, mixed person",,,1044
 1045_microbebugassociatedtowater,"microbe, bug (associated to water)",,,1045
-1046_mine,mine,,,1046
+1046_mine,mine,2090,MY,1046
 1047_mitespscabies,mite sp. (scabies),,,1047
-1048_mixtrans,mix (trans),,,1048
+1048_mixtrans,mix (trans),2017,MIX,1048
 1049_mixturn,"mix, turn",,,1049
 1050_mixerblender,"mixer, blender",,,1050
-1051_mockmakefunof,"mock, make fun of",,,1051
+1051_mockmakefunof,"mock, make fun of",2760,MAKE A JOKE,1051
 1052_monkey,monkey,1350,MONKEY,1052
-1053_monkeysp,monkey sp.,,,1053
+1053_monkeysp,monkey sp.,1350,MONKEY,1053
 1054_monkeyspbalduakaricacajaocalvus,"monkey sp., bald uakari, Cacajao calvus",,,1054
 1055_monkeyspmarmoset,"monkey sp., marmoset",,,1055
-1056_monkeygeneric,"monkey, generic",,,1056
-1057_month,month,,,1057
+1056_monkeygeneric,"monkey, generic",1350,MONKEY,1056
+1057_month,month,1370,MONTH,1057
 1058_moon,moon,1313,MOON,1058
-1059_more,more,,,1059
-1060_morning,morning,,,1060
-1061_mortar,mortar,,,1061
+1059_more,more,1992,MORE,1059
+1060_morning,morning,1339,MORNING,1060
+1061_mortar,mortar,224,MORTAR,1061
 1062_mortarpestle,mortar & pestle,,,1062
 1063_mosquito,mosquito,1509,MOSQUITO,1063
-1064_mosquitosp,mosquito sp.,,,1064
-1065_mosquitogeneric,"mosquito, generic",,,1065
-1066_mother,mother,,,1066
-1067_motherinlaw,mother-in-law,,,1067
-1068_motherinlawfemaleego,"mother-in-law, female ego",,,1068
-1069_motherinlawmaleego,"mother-in-law, male ego",,,1069
+1064_mosquitosp,mosquito sp.,1509,MOSQUITO,1064
+1065_mosquitogeneric,"mosquito, generic",1509,MOSQUITO,1065
+1066_mother,mother,1216,MOTHER,1066
+1067_motherinlaw,mother-in-law,1050,MOTHER-IN-LAW,1067
+1068_motherinlawfemaleego,"mother-in-law, female ego",2256,MOTHER-IN-LAW (OF WOMAN),1068
+1069_motherinlawmaleego,"mother-in-law, male ego",2257,MOTHER-IN-LAW (OF MAN),1069
 1070_mourn,mourn,1955,GRIEVE,1070
-1071_mouserat,"mouse, rat",,,1071
-1072_moustache,moustache,,,1072
+1071_mouserat,"mouse, rat",2139,MUROID (MOUSE OR RAT),1071
+1072_moustache,moustache,1165,MOUSTACHE,1072
 1073_mouth,mouth,674,MOUTH,1073
 1074_moveto,move to,,,1074
-1075_muchmany,"much, many",,,1075
-1076_mud,mud,,,1076
+1075_muchmany,"much, many",1198,MANY,1075
+1076_mud,mud,640,MUD,1076
 1077_murky,murky,,,1077
 1078_murkywater,murky water,,,1078
 1079_mythicalhero,mythical hero,,,1079
 1080_nailfastenattach,"nail, fasten, attach",,,1080
-1081_naked,naked,,,1081
-1082_namen,name (n.),,,1082
-1083_namen,name (n.)@,,,1083
+1081_naked,naked,590,NAKED,1081
+1082_namen,name (n.),1405,NAME,1082
+1083_namen,name (n.)@,1405,NAME,1083
 1084_nameofagodfromtupimythology,name of a god from Tupi mythology,,,1084
-1085_napebackofneck,"nape, back of neck",,,1085
-1086_narrow,narrow,,,1086
+1085_napebackofneck,"nape, back of neck",1347,NAPE (OF NECK),1085
+1086_narrow,narrow,1267,NARROW,1086
 1087_narrowinthemiddle,narrow in the middle,,,1087
 1088_narrowinthemiddleandwideontheends,narrow in the middle and wide on the ends,,,1088
 1089_nationrace,"nation, race",,,1089
-1090_nearnearby,near (nearby),,,1090
+1090_nearnearby,near (nearby),1942,NEAR,1090
 1091_nearnearbybewithperson,"near (nearby), be with (person)",,,1091
-1092_neck,neck,,,1092
-1093_necklace,necklace,,,1093
-1094_need,need,,,1094
-1095_negatesayno,"negate, say no",,,1095
-1096_negotiationagreement,"negotiation, agreement",,,1096
-1097_neighbor,neighbor,,,1097
+1092_neck,neck,1333,NECK,1092
+1093_necklace,necklace,1961,NECKLACE,1093
+1094_need,need,2339,NEED (SOMETHING),1094
+1095_negatesayno,"negate, say no",49,REFUSE,1095
+1096_negotiationagreement,"negotiation, agreement",3644,AGREEMENT,1096
+1097_neighbor,neighbor,1332,NEIGHBOUR,1097
 1098_nephew,nephew,1063,NEPHEW,1098
 1099_nephewbcorpgccfemaleego,"nephew, BC or PGCC, female ego",,,1099
 1100_nephewfemaleego,"nephew, female ego",,,1100
 1101_nephewmaleego,"nephew, male ego",,,1101
 1102_nepheworsonofmalecousinmaleego,"nephew, or son of male cousin. male ego",,,1102
-1103_nephewzs,"nephew, ZS",,,1103
-1104_nestforbirds,"nest, for birds",,,1104
+1103_nephewzs,"nephew, ZS",1063,NEPHEW,1103
+1104_nestforbirds,"nest, for birds",3549,BIRD NEST,1104
 1105_new,new,1231,NEW,1105
 1106_nextpart,next part,,,1106
-1107_niece,niece,,,1107
+1107_niece,niece,1642,NIECE,1107
 1108_niecezdormzddorfzddmaleego,"niece (ZD or MZDD or FZDD), male ego",,,1108
 1109_niecebcorpgccfemaleego,"niece, BC or PGCC, female ego",,,1109
 1110_niecemaleego,"niece, male ego",,,1110
 1111_niecemaleegobrothersdaughterorcousinsdaughter,"niece, male ego (brother's daughter or cousin's daughter)",,,1111
-1112_nightevening,night (evening),,,1112
-1113_no,no,,,1113
+1112_nightevening,night (evening),1629,EVENING,1112
+1113_no,no,1269,NO,1113
 1114_nofemalewoman,no (female/woman),,,1114
-1115_nonegation,"no, negation",,,1115
-1116_nobody,nobody,,,1116
-1117_noise,noise,,,1117
+1115_nonegation,"no, negation",2279,NO OR NOT,1115
+1116_nobody,nobody,3887,NOBODY,1116
+1117_noise,noise,1182,NOISE,1117
 1118_none,none,,,1118
 1119_none,NONE,,,1119
 1120_nose,nose,1221,NOSE,1120
-1121_nothing,nothing,,,1121
-1122_now,now,,,1122
+1121_nothing,nothing,687,NOTHING,1121
+1122_now,now,1376,NOW,1122
 1123_nowsoon,"now, soon",,,1123
-1124_obeytrans,obey (trans),,,1124
+1124_obeytrans,obey (trans),1635,OBEY,1124
 1125_oblongbasket,oblong basket,,,1125
-1126_oceansea,"ocean, sea",,,1126
+1126_oceansea,"ocean, sea",2282,SEA OR OCEAN,1126
 1127_ocelot,ocelot,,,1127
-1128_offspring,offspring,,,1128
+1128_offspring,offspring,1801,CHILD (DESCENDANT),1128
 1129_offspringsonordaughterfemaleego,"offspring (son or daughter), female ego",,,1129
 1130_offspringchildcubofmale,"offspring, child, cub (of male)",,,1130
-1131_oftenfrequent,"often, frequent",,,1131
-1132_old,old,,,1132
-1133_oldman,old man,,,1133
-1134_oldwoman,old woman,,,1134
-1135_olderbrothermaleego,"older brother, male ego",,,1135
+1131_oftenfrequent,"often, frequent",1852,OFTEN,1131
+1132_old,old,1229,OLD,1132
+1133_oldman,old man,406,OLD MAN,1133
+1134_oldwoman,old woman,907,OLD WOMAN,1134
+1135_olderbrothermaleego,"older brother, male ego",2414,OLDER BROTHER (OF MAN),1135
 1136_oldercousinfemalefemaleego,"older cousin (female), female ego",,,1136
 1137_oldercousinmalemaleego,"older cousin (male), male ego",,,1137
 1138_oldernephewmaleego,"older nephew, male ego",,,1138
 1139_olderniecefemaleego,"older niece, female ego",,,1139
-1140_oldersisterfemaleego,"older sister, female ego",,,1140
-1141_one,one,,,1141
-1142_onetime,one time,,,1142
+1140_oldersisterfemaleego,"older sister, female ego",2419,OLDER SISTER (OF WOMAN),1140
+1141_one,one,1493,ONE,1141
+1142_onetime,one time,374,ONE TIME,1142
 1143_oneeyedcrosseyed,"one-eyed, cross-eyed",,,1143
 1144_onehanded,one-handed,,,1144
-1145_open,open,,,1145
-1146_openstativeverbadj,"open (stative verb, adj)",,,1146
-1147_opentrans,open (trans),,,1147
+1145_open,open,1156,OPEN,1145
+1146_openstativeverbadj,"open (stative verb, adj)",3235,OPEN (STATE),1146
+1147_opentrans,open (trans),1156,OPEN,1147
 1148_openingcrack,"opening, crack",,,1148
 1149_ordercommand,"order, command",,,1149
-1150_orphan,orphan,,,1150
+1150_orphan,orphan,1149,ORPHAN,1150
 1151_orphanoffather,orphan (of father),,,1151
 1152_orphanofmother,"orphan, of mother",,,1152
 1153_other,other,197,OTHER,1153
 1154_otherfs,other (FS),,,1154
 1155_otherms,other (MS),,,1155
-1156_overthere,over there,,,1156
+1156_overthere,over there,3411,OVER THERE,1156
 1157_ownerbossmaster,"owner, boss (master)",,,1157
-1158_pacoorpacufishcolossomaspp,paco or pacu fish (Colossoma spp.),,,1158
+1158_pacoorpacufishcolossomaspp,paco or pacu fish (Colossoma spp.),3922,PACU,1158
 1159_pacuspmylossomaduriventre,"pacu sp., Mylossoma duriventre",,,1159
-1160_paddleintr,paddle (intr),,,1160
+1160_paddleintr,paddle (intr),3668,PADDLE (MOVEMENT),1160
 1161_paddlen,paddle (n.),234,PADDLE,1161
-1162_paddlev,paddle (v.),,,1162
-1163_painn,pain (n.),,,1163
-1164_paintintrtrans,"paint (intr, trans)",,,1164
+1162_paddlev,paddle (v.),3668,PADDLE (MOVEMENT),1162
+1163_painn,pain (n.),1783,PAIN,1163
+1164_paintintrtrans,"paint (intr, trans)",3194,PAINT (SOMETHING) OR PAINTING,1164
 1165_paintbluetrans,paint blue (trans),,,1165
 1166_paintwithhand,paint with hand,,,1166
 1167_paintedspotted,painted (spotted),,,1167
 1168_paintedspottedwithwhite,painted (spotted) with white,,,1168
 1169_paintedspotted,"painted, spotted",,,1169
-1170_paircouple,"pair, couple",,,1170
-1171_pantbreatheheavily,pant (breathe heavily),,,1171
-1172_parakeet,parakeet,,,1172
-1173_parakeetsp,parakeet sp.,,,1173
+1170_paircouple,"pair, couple",1888,PAIR,1170
+1171_pantbreatheheavily,pant (breathe heavily),3614,PANT,1171
+1172_parakeet,parakeet,886,PARAKEET,1172
+1173_parakeetsp,parakeet sp.,886,PARAKEET,1173
 1174_parcialparalysis,parcial paralysis,,,1174
 1175_parentsrelativeskin,"parents, relatives, kin",,,1175
-1176_parrot,parrot,,,1176
-1177_parrotsp,parrot sp.,,,1177
-1178_parrot,parrot@,,,1178
-1179_pass,pass,,,1179
-1180_passtime,pass (time),,,1180
-1181_passtrans,pass (trans),,,1181
+1176_parrot,parrot,882,PARROT,1176
+1177_parrotsp,parrot sp.,882,PARROT,1177
+1178_parrot,parrot@,882,PARROT,1178
+1179_pass,pass,1951,PASS,1179
+1180_passtime,pass (time),1951,PASS,1180
+1181_passtrans,pass (trans),1367,CROSS,1181
 1182_passinfrontoftrans,pass in front of (trans),,,1182
 1183_passionfruit,passion fruit,,,1183
 1184_passionfruitpassifloraligularis,"passion fruit, Passiflora ligularis",,,1184
-1185_paternalauntfatherssisterorfathersfemalecousin,paternal aunt; father's sister or father's female cousin,,,1185
-1186_paternalunclefborfpgs,paternal uncle FB or FPGS,,,1186
+1185_paternalauntfatherssisterorfathersfemalecousin,paternal aunt; father's sister or father's female cousin,2175,PATERNAL AUNT,1185
+1186_paternalunclefborfpgs,paternal uncle FB or FPGS,3763,PATERNAL UNCLE,1186
 1187_pathfromtheseatoinland,path from the sea to inland,,,1187
-1188_pathroad,"path, road",,,1188
-1189_patioporch,patio (porch),,,1189
-1190_peanut,peanut,2364,PEANUT,1190
-1191_peeltrans,peel (trans),,,1191
+1188_pathroad,"path, road",2457,PATH OR ROAD,1188
+1189_patioporch,patio (porch),3269,PORCH,1189
+1190_peanut,peanut,595,GROUNDNUT (PEANUT),1190
+1191_peeltrans,peel (trans),275,PEEL,1191
 1192_peelofafruit,peel of a fruit,,,1192
 1193_penetratedeeply,penetrate deeply,,,1193
-1194_penis,penis,,,1194
-1195_people,people,,,1195
+1194_penis,penis,1222,PENIS,1194
+1195_people,people,789,PEOPLE,1195
 1196_personwholivesintheforestispartofanindigenouscommunity,"person who lives in the forest, is part of an indigenous community",,,1196
 1197_personwhonames,person who names,,,1197
-1198_personhuman,"person, human",,,1198
-1199_personhuman,"person, human@",,,1199
-1200_pestle,pestle,,,1200
-1201_phlegm,phlegm,,,1201
-1202_piece,piece,,,1202
+1198_personhuman,"person, human",683,PERSON,1198
+1199_personhuman,"person, human@",683,PERSON,1199
+1200_pestle,pestle,225,PESTLE,1200
+1201_phlegm,phlegm,3061,PHLEGM,1201
+1202_piece,piece,594,PIECE,1202
 1203_piecepartofsomethingextensivelikeforestgroundwoodfleshleather,"piece, part (of something extensive, like forest, ground, wood, flesh, leather)",,,1203
 1204_piecesslicesforexampleoffruitslikepineapplepapaya,"pieces, slices (for example, of fruits like pineapple, papaya)",,,1204
-1205_piercetrans,pierce (trans),,,1205
+1205_piercetrans,pierce (trans),398,PIERCE,1205
 1206_piercethroughtheinside,pierce through the inside,,,1206
 1207_pinchsqueezenibbleforexampleafishnibblingahooketc,"pinch, squeeze, nibble (for example, a fish nibbling a hook, etc)",,,1207
 1208_pineapple,pineapple,2440,PINEAPPLE,1208
 1209_piranha,piranha,317,PIRANHA,1209
 1210_pitheciasppespeciallypitheciamonachusmonksakimonjey,"Pithecia spp., especially Pithecia monachus, monk saki monjey",,,1210
-1211_place,place,,,1211
+1211_place,place,723,PLACE (POSITION),1211
 1212_placeseat,"place, seat",,,1212
 1213_placewaytimefordrinkingwater,"place, way, time for drinking water",,,1213
 1214_plague,plague,,,1214
-1215_planttrans,plant (trans),,,1215
+1215_planttrans,plant (trans),1486,PLANT (SOMETHING),1215
 1216_plantspbroomweed,"plant sp., broomweed",,,1216
-1217_plantbushgenericterm,"plant, bush. generic term",,,1217
-1218_plantains,plantains,,,1218
-1219_plantainsmusaparadisiaca,"plantains, Musa paradisiaca",,,1219
-1220_plate,plate,,,1220
-1221_playintrtrans,"play (intr, trans)",,,1221
-1222_playintrtrans,"play (intr, trans)@",,,1222
-1223_plazacourtyard,"plaza, courtyard",,,1223
+1217_plantbushgenericterm,"plant, bush. generic term",653,PLANT (VEGETATION),1217
+1218_plantains,plantains,399,PLANTAIN,1218
+1219_plantainsmusaparadisiaca,"plantains, Musa paradisiaca",399,PLANTAIN,1219
+1220_plate,plate,480,PLATE,1220
+1221_playintrtrans,"play (intr, trans)",1413,PLAY,1221
+1222_playintrtrans,"play (intr, trans)@",1413,PLAY,1222
+1223_plazacourtyard,"plaza, courtyard",4,COURTYARD,1223
 1224_pleiades,Pleiades,,,1224
 1225_plowbeat,"plow, beat",,,1225
-1226_point,point,,,1226
+1226_point,point,2669,POINT (WITH FINGER),1226
 1227_pointfront,"point, front",,,1227
-1228_pointtipoftreeetc,"point, tip (of tree, etc.)",,,1228
+1228_pointtipoftreeetc,"point, tip (of tree, etc.)",2992,TIP (OF OBJECT),1228
 1229_pointtipofearthland,"point, tip of earth/land",,,1229
-1230_poison,poison,,,1230
+1230_poison,poison,655,POISON,1230
 1231_poor,poor,1674,POOR,1231
-1232_port,port,,,1232
-1233_pot,pot,,,1233
+1232_port,port,610,PORT,1232
+1233_pot,pot,1462,POT,1233
 1234_potwithhandles,pot with handles,,,1234
 1235_pourspill,"pour, spill",,,1235
 1236_poverty,poverty,,,1236
 1237_practice,practice,,,1237
 1238_prankstertrickster,"prankster, trickster",,,1238
 1239_pregnant,pregnant,,,1239
-1240_press,press,,,1240
-1241_prettybeautiful,"pretty, beautiful",,,1241
+1240_press,press,1913,PRESS,1240
+1241_prettybeautiful,"pretty, beautiful",1427,BEAUTIFUL,1241
 1242_prey,prey,,,1242
 1243_preycaught,prey (caught),,,1243
-1244_prisoner,prisoner,,,1244
+1244_prisoner,prisoner,1072,PRISONER,1244
 1245_procreate,procreate,,,1245
-1246_promise,promise,,,1246
+1246_promise,promise,1675,PROMISE,1246
 1247_pronounce,pronounce,,,1247
 1248_protrusionintheshapeofanose,protrusion in the shape of a nose,,,1248
 1249_protrusionmoreorlessround,"protrusion, more or less round",,,1249
@@ -1255,438 +1255,438 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1254_prunetrimonlytheleaves,"prune, trim only the leaves",,,1254
 1255_publicly,publicly,,,1255
 1256_pucacuruorpucacurosolonepsisinvictafireant,"pucacuru or pucacuro, Solonepsis invicta, fire ant",,,1256
-1257_pulltrans,pull (trans),,,1257
+1257_pulltrans,pull (trans),1455,PULL,1257
 1258_pullback,pull back,,,1258
 1259_pullofftearaway,"pull off, tear away",,,1259
-1260_pulloutextracttrans,"pull out, extract (trans)",,,1260
+1260_pulloutextracttrans,"pull out, extract (trans)",2325,PULL OUT,1260
 1261_pullwithdraw,"pull, withdraw",,,1261
 1262_pulp,pulp,,,1262
-1263_pushtrans,push (trans),,,1263
-1264_putditr,put (ditr),,,1264
-1265_putditrplace,"put (ditr), place",,,1265
+1263_pushtrans,push (trans),1452,PUSH,1263
+1264_putditr,put (ditr),998,PUT,1264
+1265_putditrplace,"put (ditr), place",998,PUT,1265
 1266_putinside,put inside,,,1266
 1267_putupagainst,put up against,,,1267
-1268_putplaceditr,"put, place (ditr)",,,1268
+1268_putplaceditr,"put, place (ditr)",998,PUT,1268
 1269_putplaceputsomethinginside,"put, place, put something inside",,,1269
-1270_question,question,,,1270
-1271_quickfast,"quick, fast",,,1271
+1270_question,question,3268,QUESTION,1270
+1271_quickfast,"quick, fast",1631,FAST,1271
 1272_quietdown,quiet down,,,1272
 1273_quietcalm,"quiet, calm",,,1273
-1274_rain,rain,2108,RAINING OR RAIN,1274
-1275_rainn,rain (n.),,,1275
-1276_rainvintr,rain (v.) (intr),,,1276
-1277_rainbow,rainbow,,,1277
-1278_rattlemaraca,"rattle, maraca",,,1278
+1274_rain,rain,1253,RAIN (RAINING),1274
+1275_rainn,rain (n.),658,RAIN (PRECIPITATION),1275
+1276_rainvintr,rain (v.) (intr),1253,RAIN (RAINING),1276
+1277_rainbow,rainbow,1733,RAINBOW,1277
+1278_rattlemaraca,"rattle, maraca",300,RATTLE,1278
 1279_reach,reach,,,1279
 1280_reachtrans,reach (trans),,,1280
 1281_recently,recently,,,1281
 1282_recentlyafewminutesago,"recently, a few minutes ago",,,1282
-1283_receptaclevessel,"receptacle, vessel",,,1283
+1283_receptaclevessel,"receptacle, vessel",1462,POT,1283
 1284_red,red,156,RED,1284
 1285_redclay,red clay,,,1285
 1286_redbrightcolorofripefruits,"red, bright color of ripe fruits",,,1286
 1287_reddish,reddish,,,1287
 1288_relativemalefemaleego,"relative (male), female ego",,,1288
-1289_remembertrans,remember (trans),,,1289
-1290_remembertrans,remember (trans)@,,,1290
-1291_requestsomething,request something,,,1291
-1292_requestaskforditr,"request, ask for (ditr?)",,,1292
+1289_remembertrans,remember (trans),707,REMEMBER,1289
+1290_remembertrans,remember (trans)@,707,REMEMBER,1290
+1291_requestsomething,request something,1828,ASK (REQUEST),1291
+1292_requestaskforditr,"request, ask for (ditr?)",1828,ASK (REQUEST),1292
 1293_requestaskforsomethingasagift,request/ask for something as a gift,,,1293
-1294_respondtrans,respond (trans),,,1294
-1295_restintr,rest (intr),,,1295
-1296_return,return,,,1296
-1297_returnintr,return (intr),,,1297
+1294_respondtrans,respond (trans),1275,ANSWER,1294
+1295_restintr,rest (intr),168,REST,1295
+1296_return,return,85,GIVE BACK,1296
+1297_returnintr,return (intr),581,COME BACK,1297
 1298_reuniteasacouple,reunite as a couple,,,1298
 1299_rhythmstickinstrument,rhythm stick (instrument),,,1299
-1300_rib,rib,,,1300
-1301_ribslitthebonesoftheownerboss,"ribs, lit. 'the bones of the owner/boss'",,,1301
-1302_ridehorse,ride horse,,,1302
-1303_righthand,right (hand),,,1303
-1304_rightsidehand,right (side/hand),,,1304
+1300_rib,rib,801,RIB,1300
+1301_ribslitthebonesoftheownerboss,"ribs, lit. 'the bones of the owner/boss'",801,RIB,1301
+1302_ridehorse,ride horse,367,RIDE,1302
+1303_righthand,right (hand),2183,RIGHT HAND,1303
+1304_rightsidehand,right (side/hand),1019,RIGHT,1304
 1305_rightherenear,"right here, near",,,1305
 1306_rightnow,right now,,,1306
 1307_rigid,rigid,,,1307
-1308_ringhoop,"ring, hoop",,,1308
-1309_ripe,ripe,,,1309
-1310_ripebecomeripe,"ripe, become ripe",,,1310
+1308_ringhoop,"ring, hoop",1374,RING,1308
+1309_ripe,ripe,178,RIPE,1309
+1310_ripebecomeripe,"ripe, become ripe",178,RIPE,1310
 1311_river,river,666,RIVER,1311
 1312_rivercaudaloso,river caudaloso,,,1312
-1313_roasttrans,roast (trans),,,1313
+1313_roasttrans,roast (trans),1962,ROAST (SOMETHING),1313
 1314_roastfarinatrans,roast fariña (trans),,,1314
 1315_roastedsiftedmaniocdoughwrappedinfoilandroastedinclaypot,"roasted, sifted manioc dough wrapped in foil and roasted in clay pot",,,1315
-1316_robberthief,"robber, thief",,,1316
-1317_rocksway,"rock, sway",,,1317
-1318_rockswayforexamplerockababy,"rock, sway. for example, rock a baby",,,1318
-1319_rodentgenericterm,"rodent, generic term",,,1319
+1316_robberthief,"robber, thief",3376,ROBBER,1316
+1317_rocksway,"rock, sway",573,SWAY,1317
+1318_rockswayforexamplerockababy,"rock, sway. for example, rock a baby",573,SWAY,1318
+1319_rodentgenericterm,"rodent, generic term",669,RODENT,1319
 1320_rollwrap,"roll, wrap",,,1320
-1321_root,root,,,1321
-1322_rope,rope,,,1322
+1321_root,root,670,ROOT,1321
+1322_rope,rope,1218,ROPE,1322
 1323_ropeforhammock,rope for hammock,,,1323
-1324_rotten,rotten,,,1324
-1325_rough,rough,,,1325
+1324_rotten,rotten,1728,ROTTEN,1324
+1325_rough,rough,1923,ROUGH,1325
 1326_round,round,1395,ROUND,1326
-1327_roundspherical,"round, spherical",,,1327
-1328_rubtrans,rub (trans),,,1328
+1327_roundspherical,"round, spherical",2303,SPHERICAL (ROUND IN THREE DIMENSIONS),1327
+1328_rubtrans,rub (trans),1449,RUB,1328
 1329_rubsmeartrans,"rub, smear (trans)",,,1329
-1330_runintr,run (intr),,,1330
-1331_sad,sad,,,1331
+1330_runintr,run (intr),1519,RUN,1330
+1331_sad,sad,699,SAD,1331
 1332_saddlebacktamarinmonkey,saddle-back tamarin monkey,,,1332
-1333_saliva,saliva,,,1333
-1334_salt,salt,,,1334
-1335_salty,salty,,,1335
-1336_same,same,,,1336
-1337_sand,sand,,,1337
+1333_saliva,saliva,1503,SALIVA,1333
+1334_salt,salt,1274,SALT,1334
+1335_salty,salty,1091,SALTY,1335
+1336_same,same,200,SAME,1336
+1337_sand,sand,671,SAND,1337
 1338_sandfly,sandfly,95,SANDFLY,1338
-1339_sandflysp,sandfly sp.,,,1339
-1340_sapresin,sap (resin),,,1340
-1341_satisfy,satisfy,,,1341
-1342_save,save,,,1342
-1343_saytrans,say (trans),,,1343
-1344_scabiesmitesp,"scabies, mite sp.",,,1344
-1345_scales,scales,,,1345
-1346_scare,scare,,,1346
-1347_scaretrans,scare (trans),,,1347
+1339_sandflysp,sandfly sp.,95,SANDFLY,1339
+1340_sapresin,sap (resin),345,SAP,1340
+1341_satisfy,satisfy,1271,DELIGHT,1341
+1342_save,save,2008,RESCUE,1342
+1343_saytrans,say (trans),1458,SAY,1343
+1344_scabiesmitesp,"scabies, mite sp.",3172,SCABIES,1344
+1345_scales,scales,266,SCALE,1345
+1346_scare,scare,252,FRIGHTEN,1346
+1347_scaretrans,scare (trans),252,FRIGHTEN,1347
 1348_scarletmacawaramacao,"scarlet macaw, Ara macao",,,1348
 1349_scrapescratchtrans,"scrape, scratch (trans)",,,1349
-1350_scratchwoundcutn,"scratch, wound, cut (n.)",,,1350
+1350_scratchwoundcutn,"scratch, wound, cut (n.)",1109,WOUND,1350
 1351_scratchpaintbodywithpaint,scratch/(paint?) body with paint,,,1351
-1352_seeintr,see (intr),,,1352
-1353_seeintrtrans,"see (intr, trans)",,,1353
-1354_seed,seed,,,1354
-1355_semen,semen,,,1355
-1356_send,send,,,1356
+1352_seeintr,see (intr),1409,SEE,1352
+1353_seeintrtrans,"see (intr, trans)",1409,SEE,1353
+1354_seed,seed,714,SEED,1354
+1355_semen,semen,2283,SEMEN,1355
+1356_send,send,1127,SEND,1356
 1357_sendsomethingtoanotherplace,send something to another place,,,1357
 1358_separateallot,"separate, allot",,,1358
-1359_sewtrans,sew (trans),,,1359
-1360_shadowshade,"shadow, shade",,,1360
-1361_shadowshade,"shadow, shade@",,,1361
-1362_shakeintr,shake (intr),,,1362
-1363_shakeintrtrans,"shake (intr, trans)",,,1363
-1364_shakeintrtransagitate,"shake (intr, trans), agitate",,,1364
-1365_shaketrembleintrtrans,"shake, tremble (intr, trans)",,,1365
-1366_shaketremorintr,"shake, tremor (intr.)",,,1366
+1359_sewtrans,sew (trans),1457,SEW,1359
+1360_shadowshade,"shadow, shade",1388,SHADE,1360
+1361_shadowshade,"shadow, shade@",1388,SHADE,1361
+1362_shakeintr,shake (intr),1909,SHAKE,1362
+1363_shakeintrtrans,"shake (intr, trans)",1909,SHAKE,1363
+1364_shakeintrtransagitate,"shake (intr, trans), agitate",1909,SHAKE,1364
+1365_shaketrembleintrtrans,"shake, tremble (intr, trans)",52,SHIVER,1365
+1366_shaketremorintr,"shake, tremor (intr.)",1909,SHAKE,1366
 1367_shaketremorn,"shake, tremor (n.)",,,1367
 1368_shaken,shaken,,,1368
 1369_sharedistributegive,"share, distribute, give",,,1369
-1370_sharp,sharp,,,1370
-1371_sharpentrans,sharpen (trans),,,1371
+1370_sharp,sharp,1396,SHARP,1370
+1371_sharpentrans,sharpen (trans),251,SHARPEN (SOMETHING),1371
 1372_sharpentransmakeapointon,sharpen (trans)/ make a point on,,,1372
-1373_sharpentrans,sharpen (trans)@,,,1373
+1373_sharpentrans,sharpen (trans)@,251,SHARPEN (SOMETHING),1373
 1374_shavehead,shave head,,,1374
-1375_shell,shell,,,1375
-1376_shelter,shelter,,,1376
-1377_shelterhut,"shelter, hut",,,1377
-1378_shin,shin,,,1378
-1379_shine,shine,,,1379
-1380_shinebrightnessn,"shine, brightness (n.)",,,1380
+1375_shell,shell,598,SHELL,1375
+1376_shelter,shelter,1678,HUT,1376
+1377_shelterhut,"shelter, hut",1678,HUT,1377
+1378_shin,shin,186,SHIN,1378
+1379_shine,shine,708,SHINE,1379
+1380_shinebrightnessn,"shine, brightness (n.)",2236,SHINE (EMITTED LIGHT),1380
 1381_shineshiny,"shine, shiny",,,1381
-1382_shirt,shirt,,,1382
-1383_shoot,shoot,,,1383
-1384_shoottrans,shoot (trans),,,1384
+1382_shirt,shirt,1622,SHIRT,1382
+1383_shoot,shoot,1172,SHOOT,1383
+1384_shoottrans,shoot (trans),1172,SHOOT,1384
 1385_shootandhit,shoot and hit,,,1385
-1386_shootsprout,"shoot, sprout",,,1386
-1387_shorebank,"shore, bank",,,1387
-1388_short,short,,,1388
-1389_shoulder,shoulder,,,1389
-1390_shoulderlittheseatofthearm,"shoulder, lit. the seat of the arm",,,1390
-1391_shoutyellintr,"shout, yell (intr)",,,1391
+1386_shootsprout,"shoot, sprout",3358,SPROUT (SHOOT),1386
+1387_shorebank,"shore, bank",113,SHORE,1387
+1388_short,short,1645,SHORT,1388
+1389_shoulder,shoulder,1482,SHOULDER,1389
+1390_shoulderlittheseatofthearm,"shoulder, lit. the seat of the arm",1482,SHOULDER,1390
+1391_shoutyellintr,"shout, yell (intr)",715,SHOUT,1391
 1392_shoutyelln,"shout, yell (n)",,,1392
 1393_shoutyelln,"shout, yell (n.)",,,1393
-1394_shoutyellv,"shout, yell (v.)",,,1394
-1395_show,show,,,1395
+1394_shoutyellv,"shout, yell (v.)",715,SHOUT,1394
+1395_show,show,1039,SHOW,1395
 1396_shusupelachesismutabushmastersnake,"shusupe, Lachesis muta, bushmaster snake",,,1396
-1397_sick,sick,,,1397
-1398_sicknessdisease,"sickness, disease",,,1398
-1399_side,side,,,1399
-1400_sievestrainer,sieve (strainer),,,1400
-1401_sievestrainer,"sieve, strainer",,,1401
+1397_sick,sick,1847,SICK,1397
+1398_sicknessdisease,"sickness, disease",1986,DISEASE,1398
+1399_side,side,682,SIDE,1399
+1400_sievestrainer,sieve (strainer),3353,SIEVE (TOOL),1400
+1401_sievestrainer,"sieve, strainer",3353,SIEVE (TOOL),1401
 1402_signalimage,"signal, image",,,1402
-1403_similar,similar,,,1403
-1404_sin,sin,,,1404
-1405_sing,sing,,,1405
-1406_singintr,sing (intr),,,1406
-1407_sinkintr,sink (intr),,,1407
+1403_similar,similar,1558,SIMILAR,1403
+1404_sin,sin,2971,SIN,1404
+1405_sing,sing,1261,SING,1405
+1406_singintr,sing (intr),1261,SING,1406
+1407_sinkintr,sink (intr),1088,SINK (DESCEND),1407
 1408_sister,sister,1263,SISTER,1408
-1409_sisterfemaleego,"sister, female ego",,,1409
-1410_sistermaleego,"sister, male ego",,,1410
-1411_sisterinlaw,sister-in law,,,1411
-1412_sisterinlawfemaleego,"sister-in law, female ego",,,1412
+1409_sisterfemaleego,"sister, female ego",562,SISTER (OF WOMAN),1409
+1410_sistermaleego,"sister, male ego",561,SISTER (OF MAN),1410
+1411_sisterinlaw,sister-in law,2317,SISTER-IN-LAW,1411
+1412_sisterinlawfemaleego,"sister-in law, female ego",3781,SISTER-IN-LAW (OF FEMALE EGO),1412
 1413_sisterinlawmaleego,"sister-in law, male ego",,,1413
-1414_sisterinlawbwormbswfemaleego,"sister-in law: BW or MBSW, female ego",,,1414
+1414_sisterinlawbwormbswfemaleego,"sister-in law: BW or MBSW, female ego",3781,SISTER-IN-LAW (OF FEMALE EGO),1414
 1415_sisterinlawbwfbsworgbwmaleego,"sister-in law: BW, FBSW, or GBW,  male ego",,,1415
 1416_sisterinlawybwmaleego,"sister-in law: yBW, male ego",,,1416
 1417_sisterinlawwezmaleego,"sister-in-law, WeZ, male ego",,,1417
 1418_sisterinlawwyzmaleego,"sister-in-law, WyZ, male ego",,,1418
-1419_sistersinlawhbwfemaleego,"sisters-in-law: HBW, female ego",,,1419
-1420_sitintr,sit (intr),,,1420
+1419_sistersinlawhbwfemaleego,"sisters-in-law: HBW, female ego",3781,SISTER-IN-LAW (OF FEMALE EGO),1419
+1420_sitintr,sit (intr),1416,SIT,1420
 1421_skin,skin,763,SKIN,1421
 1422_skinseparatedfrombody,skin (separated from body),,,1422
-1423_skintrans,skin (trans),,,1423
+1423_skintrans,skin (trans),291,PULL OFF (SKIN),1423
 1424_skinananimaltrans,skin an animal(trans),,,1424
-1425_skinnythin,"skinny, thin",,,1425
-1426_sky,sky,,,1426
-1427_sleepintr,sleep (intr),,,1427
+1425_skinnythin,"skinny, thin",2308,THIN,1425
+1426_sky,sky,1732,SKY,1426
+1427_sleepintr,sleep (intr),1585,SLEEP,1427
 1428_sleepingspot,sleeping spot,,,1428
-1429_slipintr,slip (intr),,,1429
+1429_slipintr,slip (intr),1324,SLIP,1429
 1430_slipfallkeepingincontactwiththeground,"slip, fall, keeping in contact with the ground",,,1430
-1431_slippery,slippery,,,1431
+1431_slippery,slippery,3702,SLIPPERY,1431
 1432_sloth,sloth,2446,SLOTH,1432
 1433_slothbradypusvariegatus,"sloth, Bradypus variegatus.",,,1433
-1434_slow,slow,,,1434
+1434_slow,slow,701,SLOW,1434
 1435_slowflowrunoffofviscousphlegmyliquids,"slow flow, run off (of viscous/ phlegmy liquids)",,,1435
 1436_smack,smack,,,1436
-1437_small,small,,,1437
+1437_small,small,1246,SMALL,1437
 1438_smallbasket,small basket,,,1438
 1439_smallcanoe,small canoe,,,1439
 1440_smallcutuppiecesforexamplesmallpiecesofmaniocorsweetpotatotomakechips,"small cut up pieces (for example, small pieces of manioc or sweet potato to make chips)",,,1440
 1441_smallpartofanobjectforexamplearippedpieceofcloth,"small part of an object (for example, a ripped piece of cloth)",,,1441
 1442_smallpiecescutupforexamplefood,"small pieces, cut up (for example, food)",,,1442
-1443_smellintrtrans,"smell (intr, trans)",,,1443
-1444_smelltrans,smell (trans),,,1444
-1445_smileintr,smile (intr),,,1445
-1446_smoken,smoke (n),,,1446
+1443_smellintrtrans,"smell (intr, trans)",2124,SMELL,1443
+1444_smelltrans,smell (trans),1586,SMELL (PERCEIVE),1444
+1445_smileintr,smile (intr),1451,SMILE,1445
+1446_smoken,smoke (n),778,SMOKE (EXHAUST),1446
 1447_smoken,smoke (n.),778,SMOKE (EXHAUST),1447
-1448_smoketrans,smoke (trans),,,1448
-1449_smokev,smoke (v),,,1449
+1448_smoketrans,smoke (trans),1689,SMOKE (INHALE),1448
+1449_smokev,smoke (v),2859,SMOKE (EMIT SMOKE),1449
 1450_smokefood,smoke food,,,1450
 1451_smokefood,smoke food@,,,1451
 1452_smoketobacco,smoke tobacco,,,1452
-1453_smokingv,smoking (v.),,,1453
+1453_smokingv,smoking (v.),1689,SMOKE (INHALE),1453
 1454_smooth,smooth,1234,SMOOTH,1454
 1455_smoothslipperyandhardsurface,"smooth, slippery, and hard surface",,,1455
 1456_snake,snake,730,SNAKE,1456
-1457_snakesp,snake sp.,,,1457
+1457_snakesp,snake sp.,730,SNAKE,1457
 1458_snakespcorallushortulanus,"snake sp., Corallus hortulanus",,,1458
 1459_snakesppitviperspbothropsatrox,"snake sp., pit viper sp., Bothrops atrox",,,1459
 1460_snakesppitviperspbothropsjararaca,"snake sp., pit viper sp., Bothrops jararaca",,,1460
 1461_snakesppitvipersplachesismuta,"snake sp., pit viper sp., Lachesis muta",,,1461
-1462_snakesprattlesnake,"snake sp., rattle snake",,,1462
-1463_snakespvipers,"snake sp., vipers",,,1463
-1464_snake,snake@,,,1464
-1465_snore,snore,,,1465
-1466_snout,snout,,,1466
-1467_sobcry,"sob, cry",,,1467
-1468_soft,soft,,,1468
-1469_some,some,,,1469
+1462_snakesprattlesnake,"snake sp., rattle snake",871,RATTLESNAKE,1462
+1463_snakespvipers,"snake sp., vipers",2654,VIPER,1463
+1464_snake,snake@,730,SNAKE,1464
+1465_snore,snore,1983,SNORE,1465
+1466_snout,snout,2200,SNOUT,1466
+1467_sobcry,"sob, cry",1839,CRY,1467
+1468_soft,soft,1856,SOFT,1468
+1469_some,some,1241,SOME,1469
 1470_sometimeago,some time ago,,,1470
 1471_somedayfuture,someday (future),,,1471
-1472_somethingsweetortasty,something sweet or tasty,,,1472
-1473_son,son,,,1473
-1474_sonfemaleego,"son, female ego",,,1474
-1475_sonmaleego,"son, male ego",,,1475
-1476_soninlaw,son-in-law,,,1476
-1477_soninlawmaleego,"son-in-law, male ego",,,1477
-1478_soninlawdhorgdhfemaleego,"son-in-law: DH or GDH, female ego",,,1478
-1479_soon,soon,,,1479
+1472_somethingsweetortasty,something sweet or tasty,1813,TASTY,1472
+1473_son,son,1620,SON,1473
+1474_sonfemaleego,"son, female ego",3939,SON OF WOMAN,1474
+1475_sonmaleego,"son, male ego",3779,SON (OF MALE EGO),1475
+1476_soninlaw,son-in-law,1056,SON-IN-LAW,1476
+1477_soninlawmaleego,"son-in-law, male ego",2267,SON-IN-LAW (OF MAN),1477
+1478_soninlawdhorgdhfemaleego,"son-in-law: DH or GDH, female ego",2266,SON-IN-LAW (OF WOMAN),1478
+1479_soon,soon,703,SOON,1479
 1480_soulseparated,soul (separated),,,1480
 1481_soundofspillingsomething,sound of spilling something,,,1481
-1482_sour,sour,,,1482
+1482_sour,sour,1906,SOUR,1482
 1483_spaguajemauritiaflexuosa,Sp. `aguaje` (Mauritia flexuosa),,,1483
-1484_spacious,spacious,,,1484
-1485_speakutterwordsintrans,speak (utter words) (intrans),,,1485
+1484_spacious,spacious,2531,BROAD,1484
+1485_speakutterwordsintrans,speak (utter words) (intrans),1623,SPEAK,1485
 1486_speakclear,speak clear,,,1486
-1487_spear,spear,,,1487
+1487_spear,spear,945,SPEAR,1487
 1488_spearmetal,spear (metal),,,1488
 1489_speckofdustgarbage,"speck of dust, garbage",,,1489
 1490_speechlanguage,"speech, language",,,1490
-1491_spell,spell,,,1491
+1491_spell,spell,118,BEWITCH,1491
 1492_spicy,spicy,544,SPICY,1492
 1493_spicybittertastefromapepperetc,"spicy, bitter taste (from a pepper, etc.)",,,1493
 1494_spider,spider,843,SPIDER,1494
-1495_spidermonkey,spider monkey,,,1495
+1495_spidermonkey,spider monkey,434,SPIDER MONKEY,1495
 1496_spillpour,"spill, pour",,,1496
 1497_spillwaste,"spill, waste",,,1497
-1498_spinthreadtrans,spin (thread) (trans),,,1498
+1498_spinthreadtrans,spin (thread) (trans),121,SPIN,1498
 1499_spinningtop,spinning top,,,1499
-1500_spiritsoul,spirit (soul),,,1500
-1501_spitintr,spit (intr),,,1501
-1502_spleen,spleen,,,1502
-1503_splittrans,split (trans),,,1503
+1500_spiritsoul,spirit (soul),53,SPIRIT,1500
+1501_spitintr,spit (intr),1440,SPIT,1501
+1502_spleen,spleen,1744,SPLEEN,1502
+1503_splittrans,split (trans),1437,SPLIT,1503
 1504_splittranswithoutaninstrument,split (trans) (without an instrument),,,1504
-1505_splitintopiecestrans,split into pieces (trans),,,1505
-1506_splitopentrans,split open (trans),,,1506
-1507_splitbreaktransforexamplesticksetc,"split, break (trans) (for example sticks, etc)",,,1507
+1505_splitintopiecestrans,split into pieces (trans),1437,SPLIT,1505
+1506_splitopentrans,split open (trans),3080,SPLIT OPEN,1506
+1507_splitbreaktransforexamplesticksetc,"split, break (trans) (for example sticks, etc)",459,SNAP (OF STICK),1507
 1508_splitcutsomethinginpiecesorslicesforexampleacakeastickintowoodchipsorfirewood,"split, cut something in pieces or slices (for example, a cake, a stick into woodchips or firewood)",,,1508
 1509_splitcutsomethinginpiecesorslicesforexampleatreetrunkintofirewoodfruitintoslices,"split, cut something in pieces or slices (for example, a tree trunk into firewood, fruit into slices)",,,1509
-1510_spousehusbandwife,"spouse, husband, wife",,,1510
-1511_springofwater,spring (of water),,,1511
-1512_sprout,sprout,,,1512
+1510_spousehusbandwife,"spouse, husband, wife",2514,SPOUSE,1510
+1511_springofwater,spring (of water),849,SPRING (OF WATER),1511
+1512_sprout,sprout,2076,SPROUT (VERB),1512
 1513_spur,spur,,,1513
 1514_squashspcucurbitamaxima,"squash sp., Cucurbita maxima.",,,1514
-1515_squeezetrans,squeeze (trans),,,1515
+1515_squeezetrans,squeeze (trans),1414,SQUEEZE,1515
 1516_squeezetranstwist,"squeeze (trans), twist",,,1516
 1517_squirrelmonkeyortamarinmonkey,squirrel monkey or tamarin monkey,,,1517
 1518_stabsign,stab sign,,,1518
 1519_stalkshank,"stalk, shank",,,1519
-1520_standintr,stand (intr),,,1520
+1520_standintr,stand (intr),1442,STAND,1520
 1521_standasideawayquietly,"stand aside, away quietly",,,1521
-1522_standstandupintr,"stand, stand up (intr)",,,1522
+1522_standstandupintr,"stand, stand up (intr)",570,STAND UP,1522
 1523_star,star,1430,STAR,1523
-1524_startfire,start fire,,,1524
+1524_startfire,start fire,737,LIGHT (IGNITE),1524
 1525_stateofbeing,state of being,,,1525
-1526_stayintr,stay (intr),,,1526
+1526_stayintr,stay (intr),987,REMAIN,1526
 1527_staystill,stay still,,,1527
-1528_stealtrans,steal (trans),,,1528
+1528_stealtrans,steal (trans),713,STEAL,1528
 1529_steepriverbankbluff,"steep riverbank, bluff",,,1529
-1530_stemstalk,"stem, stalk",,,1530
-1531_stepon,step on,,,1531
-1532_steponwalkon,"step on, walk on",,,1532
-1533_stepmother,stepmother,,,1533
+1530_stemstalk,"stem, stalk",2628,PLANT STEM,1530
+1531_stepon,step on,575,TREAD,1531
+1532_steponwalkon,"step on, walk on",575,TREAD,1532
+1533_stepmother,stepmother,236,STEPMOTHER,1533
 1534_stepsonmaleego,"stepson, male ego",,,1534
-1535_stick,stick,,,1535
+1535_stick,stick,254,STICKING,1535
 1536_stilldeeppartofariver,"still, deep part of a river",,,1536
-1537_sting,sting,,,1537
+1537_sting,sting,571,STING,1537
 1538_stinkybadsmellbestinkysmellbadintr,"stinky, bad smell, be stinky (smell bad) (intr)",,,1538
-1539_stomach,stomach,,,1539
-1540_stonerock,"stone, rock",,,1540
-1541_stop,stop,,,1541
-1542_stopintr,stop (intr),,,1542
-1543_stopintrtrans,"stop (intr, trans)",,,1543
-1544_story,story,,,1544
-1545_straight,straight,,,1545
+1539_stomach,stomach,819,STOMACH,1539
+1540_stonerock,"stone, rock",2125,STONE OR ROCK,1540
+1541_stop,stop,3351,STOP DOING,1541
+1542_stopintr,stop (intr),1928,CEASE,1542
+1543_stopintrtrans,"stop (intr, trans)",2115,CEASE OR FINISH,1543
+1544_story,story,2060,STORY,1544
+1545_straight,straight,1404,STRAIGHT,1545
 1546_straighten,straighten,,,1546
-1547_straintrans,strain (trans),,,1547
-1548_strap,strap,,,1548
-1549_stream,stream,,,1549
-1550_stream,stream@,,,1550
+1547_straintrans,strain (trans),940,STRAIN,1547
+1548_strap,strap,2973,STRAP,1548
+1549_stream,stream,947,STREAM,1549
+1550_stream,stream@,,947,1550
 1551_streetroadpath,"street, road, path",,,1551
-1552_stretch,stretch,,,1552
+1552_stretch,stretch,214,STRETCH,1552
 1553_strikegrindtrans,"strike, grind (trans)",,,1553
-1554_strong,strong,,,1554
+1554_strong,strong,785,STRONG,1554
 1555_strongarms,strong arms,,,1555
 1556_strongly,strongly,,,1556
 1557_suckthesicknesstrans,suck (the sickness) (trans),,,1557
-1558_sucktrans,suck (trans),,,1558
-1559_suffer,suffer,,,1559
-1560_sugarcane,sugar cane,,,1560
+1558_sucktrans,suck (trans),1421,SUCK,1558
+1559_suffer,suffer,1101,SUFFER,1559
+1560_sugarcane,sugar cane,146,SUGAR CANE,1560
 1561_summerdryseason,"summer, dry season",,,1561
 1562_summonforwar,summon for war,,,1562
 1563_sun,sun,1343,SUN,1563
-1564_swallowintrtrans,"swallow (intr, trans)",,,1564
-1565_swarm,swarm,,,1565
-1566_sweatintr,sweat (intr),,,1566
-1567_sweatn,sweat (n),,,1567
-1568_sweatn,sweat (n.),,,1568
-1569_sweepintrtrans,"sweep (intr, trans)",,,1569
+1564_swallowintrtrans,"swallow (intr, trans)",897,SWALLOW,1564
+1565_swarm,swarm,2974,SWARM (OF BIRDS),1565
+1566_sweatintr,sweat (intr),126,SWEAT (PERSPIRE),1566
+1567_sweatn,sweat (n),125,SWEAT (SUBSTANCE),1567
+1568_sweatn,sweat (n.),125,SWEAT (SUBSTANCE),1568
+1569_sweepintrtrans,"sweep (intr, trans)",230,SWEEP,1569
 1570_sweet,sweet,717,SWEET,1570
 1571_sweetpotato,sweet potato,159,SWEET POTATO,1571
-1572_swellintr,swell (intr),,,1572
+1572_swellintr,swell (intr),1573,SWELL,1572
 1573_swellcollectwaterintr,"swell, collect water (intr)",,,1573
 1574_swellenlarge,"swell, enlarge",,,1574
 1575_swellswollen,"swell, swollen",,,1575
 1576_swellswollenbloated,"swell, swollen, bloated",,,1576
-1577_swimintr,swim (intr),,,1577
+1577_swimintr,swim (intr),1439,SWIM,1577
 1578_swimunderwater,swim under water,,,1578
 1579_tail,tail,1220,TAIL,1579
 1580_takealongtrans,take along (trans),,,1580
 1581_takeawaytakeoff,"take away, take off",,,1581
 1582_takecareof,take care of,,,1582
-1583_takeoutremove,"take out, remove",,,1583
-1584_takeoutremovetrans,"take out, remove (trans)",,,1584
-1585_takeoutremoveextract,"take out, remove, extract",,,1585
-1586_takegrab,"take, grab",,,1586
-1587_takegrabtrans,"take, grab (trans)",,,1587
-1588_tall,tall,,,1588
-1589_tamboshelter,"tambo, shelter",,,1589
+1583_takeoutremove,"take out, remove",3654,TAKE OUT,1583
+1584_takeoutremovetrans,"take out, remove (trans)",3654,TAKE OUT,1584
+1585_takeoutremoveextract,"take out, remove, extract",3654,TAKE OUT,1585
+1586_takegrab,"take, grab",1749,TAKE,1586
+1587_takegrabtrans,"take, grab (trans)",1749,TAKE,1587
+1588_tall,tall,711,TALL,1588
+1589_tamboshelter,"tambo, shelter",1678,HUT,1589
 1590_tapir,tapir,312,TAPIR,1590
 1591_tapirtapirusterrestris,"tapir, Tapirus terrestris",,,1591
-1592_tasten,taste (n.),,,1592
-1593_tasty,tasty,,,1593
-1594_tastysweetorsalty,tasty (sweet or salty),,,1594
-1595_teardetach,"tear, detach",,,1595
-1596_teasepranktrick,"tease, prank, trick",,,1596
-1597_teethtooth,"teeth, tooth",,,1597
-1598_tellastorytrans,tell (a story) (trans),,,1598
-1599_tellastory,tell a story,,,1599
+1592_tasten,taste (n.),2190,TASTE,1592
+1593_tasty,tasty,1813,TASTY,1593
+1594_tastysweetorsalty,tasty (sweet or salty),1813,TASTY,1594
+1595_teardetach,"tear, detach",1735,TEAR (SHRED),1595
+1596_teasepranktrick,"tease, prank, trick",2869,BOTHER (HARASS),1596
+1597_teethtooth,"teeth, tooth",1380,TOOTH,1597
+1598_tellastorytrans,tell (a story) (trans),1711,TELL,1598
+1599_tellastory,tell a story,1711,TELL,1599
 1600_termite,termite,883,TERMITE,1600
-1601_testicles,testicles,,,1601
+1601_testicles,testicles,797,TESTICLES,1601
 1602_thatone,that one,,,1602
-1603_thick,thick,,,1603
+1603_thick,thick,1244,THICK,1603
 1604_thickandround,thick and round,,,1604
 1605_thickdense,"thick, dense",,,1605
 1606_thicketforest,"thicket, forest",,,1606
-1607_thigh,thigh,800,THIGH,1607
+1607_thigh,thigh,471,UPPER LEG (THIGH),1607
 1608_thighinsidepart,thigh (inside part,,,1608
-1609_thigh,thigh@,,,1609
-1610_thinobjects,thin (objects),,,1610
+1609_thigh,thigh@,471,UPPER LEG (THIGH),1609
+1610_thinobjects,thin (objects),2249,THIN (OF SHAPE OF OBJECT),1610
 1611_thing,thing,738,THING,1611
-1612_things,things,,,1612
-1613_thinkintrtrans,"think (intr, trans)",,,1613
-1614_thinktrans,think (trans),,,1614
-1615_thinkbelieve,"think, believe",,,1615
-1616_this,this,,,1616
+1612_things,things,738,THING,1612
+1613_thinkintrtrans,"think (intr, trans)",2271,THINK,1613
+1614_thinktrans,think (trans),1415,THINK (REFLECT),1614
+1615_thinkbelieve,"think, believe",1513,THINK (BELIEVE),1615
+1616_this,this,1214,THIS,1616
 1617_thorn,thorn,124,THORN,1617
-1618_thread,thread,,,1618
-1619_threaten,threaten,,,1619
+1618_thread,thread,1161,THREAD,1618
+1619_threaten,threaten,1192,THREATEN,1619
 1620_three,three,492,THREE,1620
-1621_threetimes,three times,,,1621
-1622_throat,throat,,,1622
+1621_threetimes,three times,417,THREE TIMES,1621
+1622_throat,throat,1346,THROAT,1622
 1623_throwaspearstab,"throw a spear, stab",,,1623
 1624_throwthrowawaytrans,"throw, throw away (trans)",,,1624
 1625_thunder,thunder,1150,THUNDER,1625
 1626_thunderingnoiseloudnoise,"thundering noise, loud noise",,,1626
-1627_tick,tick,,,1627
+1627_tick,tick,1527,TICK,1627
 1628_tickspamblyommadissimite,"tick sp., Amblyomma dissimite",,,1628
 1629_tidalflood,tidal flood,,,1629
-1630_tietrans,tie (trans),,,1630
+1630_tietrans,tie (trans),1917,TIE,1630
 1631_tieupcornfromthetipstrans,tie up corn from the tips (trans),,,1631
-1632_tightentrans,tighten (trans),,,1632
-1633_tightentrans,tighten (trans)@,,,1633
-1634_tipend,"tip, end",,,1634
+1632_tightentrans,tighten (trans),1094,FASTEN,1632
+1633_tightentrans,tighten (trans)@,1094,FASTEN,1633
+1634_tipend,"tip, end",2992,TIP (OF OBJECT),1634
 1635_tired,tired,1757,TIRED,1635
 1636_tissueoftheposteriorsuperiorpartofthethigh,tissue of the posterior-superior part of the thigh,,,1636
 1637_toarmprepare,"to arm, prepare",,,1637
-1638_toboardgetonaboat,"to board, get on a boat",,,1638
+1638_toboardgetonaboat,"to board, get on a boat",1227,BOARD,1638
 1639_tocalmquietdown,"to calm, quiet down",,,1639
-1640_tofanespeciallyinreferencetocooling,"to fan, especially in reference to cooling",,,1640
+1640_tofanespeciallyinreferencetocooling,"to fan, especially in reference to cooling",360,FAN (ACTION),1640
 1641_togreaseoil,"to grease, oil",,,1641
-1642_toleak,to leak,,,1642
-1643_toplaybeatinstrument,"to play, beat (instrument)",,,1643
-1644_totremble,to tremble,,,1644
+1642_toleak,to leak,2253,DRIP (EMIT LIQUID),1642
+1643_toplaybeatinstrument,"to play, beat (instrument)",3124,PLAY (INSTRUMENT),1643
+1644_totremble,to tremble,52,SHIVER,1644
 1645_toastcornetc,"toast (corn, etc.)",,,1645
 1646_toastbrowntrans,"toast, brown (trans)",,,1646
 1647_toastbrowntrans,"toast, brown (trans)@",,,1647
 1648_toasted,toasted,,,1648
 1649_tobacco,tobacco,974,TOBACCO,1649
-1650_tobacconicotianatabacum,"tobacco, Nicotiana tabacum",,,1650
-1651_today,today,,,1651
+1650_tobacconicotianatabacum,"tobacco, Nicotiana tabacum",974,TOBACCO,1650
+1651_today,today,1283,TODAY,1651
 1652_todayfuture,today (future),,,1652
 1653_todaynowadays,"today, nowadays",,,1653
-1654_toe,toe,,,1654
-1655_toenail,toenail,,,1655
-1656_together,together,,,1656
-1657_tomorrow,tomorrow,,,1657
+1654_toe,toe,1389,TOE,1654
+1655_toenail,toenail,2662,TOENAIL,1655
+1656_together,together,2482,TOGETHER,1656
+1657_tomorrow,tomorrow,1329,TOMORROW,1657
 1658_tongue,tongue,1205,TONGUE,1658
 1659_tortoisespchelonoidisdenticulata,"tortoise sp., Chelonoidis denticulata",,,1659
-1660_touch,touch,,,1660
-1661_touchtrans,touch (trans),,,1661
-1662_touchfeel,"touch, feel",,,1662
+1660_touch,touch,1892,TOUCH,1660
+1661_touchtrans,touch (trans),1892,TOUCH,1661
+1662_touchfeel,"touch, feel",2559,FEEL (TACTUALLY),1662
 1663_trailtrace,"trail, trace",,,1663
 1664_treattakecareof,"treat, take care of",,,1664
 1665_tree,tree,906,TREE,1665
-1666_treebase,tree base,,,1666
+1666_treebase,tree base,344,TREE TRUNK,1666
 1667_treespbraziliangrapetreepliniacauliflora,"tree sp. (Brazilian grapetree, Plinia cauliflora)",,,1667
 1668_treesplicaniaelata,"tree sp., Licania elata",,,1668
-1669_treegeneric,"tree, generic",,,1669
-1670_trembleshake,"tremble, shake",,,1670
-1671_trembleshakeintrandn,"tremble, shake (intr and n.)",,,1671
-1672_trunk,trunk,,,1672
-1673_try,try,,,1673
+1669_treegeneric,"tree, generic",906,TREE,1669
+1670_trembleshake,"tremble, shake",1909,SHAKE,1670
+1671_trembleshakeintrandn,"tremble, shake (intr and n.)",1909,SHAKE,1671
+1672_trunk,trunk,344,TREE TRUNK,1672
+1673_try,try,1812,TRY,1673
 1674_tucunarecichlaspppeacockbassfish,"tucunaré, cichla spp., peacock bass fish",,,1674
 1675_tumor,tumor,,,1675
-1676_turn,turn,,,1676
-1677_turnintrtrans,"turn (intr, trans)",,,1677
-1678_turnoffextinguish,"turn off, extinguish",,,1678
-1679_turnoffextinguishthefire,"turn off, extinguish the fire",,,1679
-1680_turnoverrevolve,"turn over, revolve",,,1680
+1676_turn,turn,1588,TURN,1676
+1677_turnintrtrans,"turn (intr, trans)",1588,TURN,1677
+1678_turnoffextinguish,"turn off, extinguish",127,EXTINGUISH,1678
+1679_turnoffextinguishthefire,"turn off, extinguish the fire",127,EXTINGUISH,1679
+1680_turnoverrevolve,"turn over, revolve",3537,TURN OVER,1680
 1681_turnuptwistup,"turn up, twist up",,,1681
 1682_turtlesppodocnemisexpansa,"turtle sp., Podocnemis expansa",,,1682
 1683_turtlesppodocnemisunifilis,"turtle sp., Podocnemis unifilis",,,1683
 1684_turtletortoise,turtle/tortoise,,,1684
 1685_turtletortoisesp,turtle/tortoise sp.,,,1685
 1686_turtletortoise,turtle/tortoise@,,,1686
-1687_twistintrtrans,"twist (intr, trans)",,,1687
-1688_twisttrans,twist (trans),,,1688
+1687_twistintrtrans,"twist (intr, trans)",430,TWIST,1687
+1688_twisttrans,twist (trans),430,TWIST,1688
 1689_twistthreadfibertrans,twist thread/fiber (trans),,,1689
 1690_two,two,1498,TWO,1690
 1691_twostoryhouseraisedstructure,"two story house, raised structure",,,1691
@@ -1696,105 +1696,105 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1695_typeofrattlemaraca,"type of rattle, maraca",,,1695
 1696_typeofspirit,type of spirit,,,1696
 1697_typeofyellowclay,type of yellow clay,,,1697
-1698_ugly,ugly,,,1698
-1699_uncle,uncle,,,1699
-1700_unclepborppgs,"uncle, PB or PPGS",,,1700
+1698_ugly,ugly,1548,UGLY,1698
+1699_uncle,uncle,1327,UNCLE,1699
+1700_unclepborppgs,"uncle, PB or PPGS",1327,UNCLE,1700
 1701_unloaddisembark,"unload, disembark",,,1701
 1702_unlock,unlock,,,1702
-1703_unripe,unripe,,,1703
-1704_untietrans,untie (trans),,,1704
+1703_unripe,unripe,1958,UNRIPE,1703
+1704_untietrans,untie (trans),352,UNTIE,1704
 1705_upperlip,upper lip,,,1705
-1706_urinateintr,urinate (intr),,,1706
-1707_urine,urine,,,1707
-1708_use,use,,,1708
-1709_usedtosettled,"used to, settled",,,1709
+1706_urinateintr,urinate (intr),592,PISS,1706
+1707_urine,urine,1142,URINE,1707
+1708_use,use,2072,USE (VERB),1708
+1709_usedtosettled,"used to, settled",1118,ACCUSTOM,1709
 1710_vagabond,vagabond,,,1710
-1711_vagina,vagina,,,1711
-1712_vapor,vapor,,,1712
+1711_vagina,vagina,1836,VAGINA,1711
+1712_vapor,vapor,1193,STEAM,1712
 1713_vaporsteambreath,"vapor, steam, breath",,,1713
 1714_vegetabledyes,vegetable dyes,,,1714
-1715_veinartery,"vein, artery",,,1715
+1715_veinartery,"vein, artery",1925,ARTERY,1715
 1716_venitiveauxiliarymergesassociatedmovementtowardsthespeakerandimperfectaspectoccursattheendoftheverbalphraseintheclause,"venitive auxiliary, merges associated movement towards the speaker and imperfect aspect. Occurs at the end of the verbal phrase in the clause.",,,1716
-1717_venompoison,"venom, poison",,,1717
-1718_village,village,,,1718
+1717_venompoison,"venom, poison",655,POISON,1717
+1718_village,village,930,VILLAGE,1718
 1719_vine,vine,343,VINE,1719
 1720_virtuous,virtuous,,,1720
-1721_vomitintr,vomit (intr),,,1721
+1721_vomitintr,vomit (intr),1278,VOMIT,1721
 1722_vomitn,vomit (n),,,1722
 1723_vulture,vulture,1185,VULTURE,1723
 1724_vulva,vulva,1837,VULVA,1724
-1725_wakeupintr,wake up (intr),,,1725
-1726_walkintr,walk (intr),,,1726
+1725_wakeupintr,wake up (intr),1602,WAKE UP,1725
+1726_walkintr,walk (intr),1443,WALK,1726
 1727_walkalotorfast,walk a lot or fast,,,1727
-1728_wallfence,"wall, fence",,,1728
-1729_wallseparationinhouse,"wall, separation in house",,,1729
-1730_want,want,,,1730
-1731_wanttrans,want (trans),,,1731
+1728_wallfence,"wall, fence",3830,WALL,1728
+1729_wallseparationinhouse,"wall, separation in house",933,WALL (OF HOUSE),1729
+1730_want,want,1784,WANT,1730
+1731_wanttrans,want (trans),1784,WANT,1731
 1732_wantlikelove,want/like/love,,,1732
 1733_warbattle,"war, battle",,,1733
 1734_warbattlefightn,"war, battle, fight (n)",,,1734
-1735_washclothes,wash (clothes),,,1735
-1736_washtrans,wash (trans),,,1736
-1737_washtrans,wash (trans)@,,,1737
+1735_washclothes,wash (clothes),2503,LAUNDER (WASH CLOTHES),1735
+1736_washtrans,wash (trans),1453,WASH,1736
+1737_washtrans,wash (trans)@,1453,WASH,1737
 1738_washbybeatinghittingwringingtrans,"wash by beating, hitting, wringing (trans)",,,1738
 1739_wasp,wasp,1517,WASP,1739
 1740_water,water,948,WATER,1740
-1741_weakfeeble,weak (feeble),,,1741
+1741_weakfeeble,weak (feeble),1601,WEAK,1741
 1742_weakuseless,"weak, useless",,,1742
-1743_weave,weave,,,1743
-1744_weavehammockbasketetc,"weave (hammock, basket, etc.)",,,1744
-1745_weed,weed,,,1745
-1746_weedtrans,weed (trans),,,1746
+1743_weave,weave,133,WEAVE,1743
+1744_weavehammockbasketetc,"weave (hammock, basket, etc.)",133,WEAVE,1744
+1745_weed,weed,3288,WEED,1745
+1746_weedtrans,weed (trans),3548,PULL UP WEEDS,1746
 1747_weighsomethingdownmakesomethingheavy,"weigh something down, make something heavy",,,1747
-1748_weight,weight,,,1748
-1749_wet,wet,,,1749
-1750_wetdampentrans,"wet, dampen (trans)",,,1750
-1751_wetsoaked,"wet, soaked",,,1751
+1748_weight,weight,2466,WEIGHT,1748
+1749_wet,wet,1726,WET,1749
+1750_wetdampentrans,"wet, dampen (trans)",2324,GET WET,1750
+1751_wetsoaked,"wet, soaked",1726,WET,1751
 1752_whatthat,"what, that",,,1752
-1753_what,what?,,,1753
-1754_where,where?,,,1754
-1755_which,which?,,,1755
+1753_what,what?,1236,WHAT,1753
+1754_where,where?,1237,WHERE,1754
+1755_which,which?,727,WHICH,1755
 1756_whichever,whichever,,,1756
-1757_whistle,whistle,,,1757
+1757_whistle,whistle,1025,WHISTLE,1757
 1758_white,white,1335,WHITE,1758
 1759_whitepersonnonindian,"white person, non-Indian",,,1759
 1760_whitefrontedcapuchinmonkey,white-fronted capuchin monkey,,,1760
-1761_whitelippedpeccarytayassupecari,white-lipped peccary (Tayassu pecari),,,1761
-1762_why,why?,,,1762
+1761_whitelippedpeccarytayassupecari,white-lipped peccary (Tayassu pecari),436,WHITE-LIPPED PECCARY,1761
+1762_why,why?,1270,WHY,1762
 1763_wide,wide,1243,WIDE,1763
 1764_wife,wife,1199,WIFE,1764
-1765_win,win,,,1765
+1765_win,win,866,WIN,1765
 1766_wind,wind,960,WIND,1766
 1767_windaroundrollup,"wind around, roll up",,,1767
 1768_windroll,"wind, roll",,,1768
-1769_wine,wine,,,1769
+1769_wine,wine,1524,WINE,1769
 1770_wineincontext,wine (in context),,,1770
 1771_wing,wing,1257,WING,1771
-1772_winter,winter,,,1772
-1773_witchshamanhealer,"witch, shaman, healer",,,1773
-1774_woman,woman,,,1774
-1775_wood,wood,,,1775
+1772_winter,winter,1471,WINTER,1772
+1773_witchshamanhealer,"witch, shaman, healer",394,SHAMAN (FOLK HEALER),1773
+1774_woman,woman,962,WOMAN,1774
+1775_wood,wood,1803,WOOD,1775
 1776_woollymonkey,woolly monkey,,,1776
 1777_woollymonkeylagothrixlagotricha,"woolly monkey, Lagothrix lagotricha",,,1777
-1778_workintr,work (intr),,,1778
-1779_workn,work (n),,,1779
-1780_workv,work (v),,,1780
+1778_workintr,work (intr),1086,WORK (ACTIVITY),1778
+1779_workn,work (n),984,WORK (LABOUR),1779
+1780_workv,work (v),1086,WORK (ACTIVITY),1780
 1781_workinagroup,work in a group,,,1781
 1782_workplacen,workplace (n),,,1782
-1783_world,world,,,1783
-1784_wound,wound,,,1784
-1785_woundn,wound (n.),,,1785
+1783_world,world,965,WORLD,1783
+1784_wound,wound,44,INJURE,1784
+1785_woundn,wound (n.),1109,WOUND,1785
 1786_woundinjurewithanintrument,"wound, injure (with an intrument)",,,1786
 1787_wovencloth,woven cloth,,,1787
-1788_wraptrans,wrap (trans),,,1788
+1788_wraptrans,wrap (trans),1113,WRAP,1788
 1789_wrappedpackage,wrapped package,,,1789
-1790_wrapper,wrapper,,,1790
-1791_write,write,,,1791
+1790_wrapper,wrapper,462,WRAPPER,1790
+1791_write,write,1672,WRITE,1791
 1792_writedrawintrtrans,"write, draw (intr, trans)",,,1792
-1793_yawnintr,yawn (intr),,,1793
-1794_year,year,,,1794
+1793_yawnintr,yawn (intr),1028,YAWN,1793
+1794_year,year,1226,YEAR,1794
 1795_yellow,yellow,1424,YELLOW,1795
-1796_yes,yes,,,1796
+1796_yes,yes,1268,YES,1796
 1797_yesfs,yes (FS),,,1797
 1798_yesmainlym,yes (mainly m.),,,1798
 1799_yesms,yes (MS),,,1799
@@ -1802,7 +1802,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 1801_yesterday,yesterday,1174,YESTERDAY,1801
 1802_youngman,young man,76,YOUNG MAN,1802
 1803_youngwoman,young woman,77,YOUNG WOMAN,1803
-1804_youngerbrothermaleego,"younger brother, male ego",,,1804
+1804_youngerbrothermaleego,"younger brother, male ego",2416,YOUNGER BROTHER (OF MAN),1804
 1805_youngerfemalecousinfemaleego,"younger female cousin, female ego",,,1805
 1806_youngerniecefemaleego,"younger niece, female ego",,,1806
-1807_youngersisterfemaleego,"younger sister, female ego",,,1807
+1807_youngersisterfemaleego,"younger sister, female ego",2421,YOUNGER SISTER (OF WOMAN),1807

@@ -18,7 +18,8 @@ class Dataset(BaseDataset):
     id = "lundgrenomagoa"
     dir = Path(__file__).parent
     concept_class = CustomConcept
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+    
     def cmd_makecldf(self, args):
 
         args.writer.add_sources()
