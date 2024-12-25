@@ -1,4 +1,5 @@
 from lingpy import *
+from collections import defaultdict
 
 def modify(form):
     new_form = form.strip()
@@ -13,40 +14,45 @@ def modify(form):
     return new_form
 
 lookup = {
-    ("Tupinamba", "after", "takɨpwéɾi"): "",
-    ("Tupinamba", "all", "opaβĩ"): "",
-    ("Tupinamba", "be odorous", "tɨapwana"): "",
-    ("Kokama", "chest", "putja"): "",
-    ("Tupinamba", "cook", "jɨβa"): "",
-    ("Tupinamba", "defecate (intr.)", "kaʔapia"): "",
-    ("Omagua", "drip (intr.)", "atukɨra"): "",
-    ("Tupinamba", "dust∼sand", "kuj"): "",
-    ("Tupinamba", "four", "iɾu"): "",
-    ("Omagua", "garbage", "ɨtɨ"): "",
-    ("Kokama", "give", "mi"): "",
-    ("Omagua", "give", "mi"): "",
-    ("Kokama", "hammock", "ini"): "",
-    ("Omagua", "hammock", "ini"): "",
-    ("Tupinamba", "heart", "ɲɨʔa"): "",
-    ("Kokama", "hole", "kwaɾa"): "",
-    ("Omagua", "hole", "kwaɾa"): "",
-    ("Kokama", "liver∼heart", "pɨa"): "",
-    ("Kokama", "lose oneself", "kajɨma"): "",
-    ("Omagua", "lose oneself", "kajma"): "",
-    ("Kokama", "name", "iɾa"): "",
-    ("Omagua", "name", "iɾa"): "",
-    ("Omagua", "rest (intr.)", "japɨtu"): "",
-    ("Kokama", "shine (intr.)", "peɾa"): "",
-    ("Omagua", "shine (intr.)", "pɪɾa"): "",
-    ("Omagua", "split (tr.)", "pɪsɪ"): "",
-    ("Tupinamba", "sound (v.)", "pũ"): "",
-    ("Omagua", "sweat (intr.)", "sɨ ̃i"): "",
-    ("Omagua", "tail", "sũi"): "",
+    ("Kokama", "chest", "putja"): "putia",
+    ("Kokama", "give", "mi"): "jumi",
+    ("Kokama", "hammock", "ini"): "tukʷini",
+    ("Kokama", "hole", "kwaɾa"): "kakʷaɾamai",
+    ("Kokama", "liver∼heart", "pɨa"): "pɨja",
+    ("Kokama", "lose oneself", "kajɨma"): "ukajma",
+    ("Kokama", "name", "iɾa"): "tʃiɾa",
+    ("Kokama", "shine (intr.)", "peɾa"): "peɾata",
+    ("Kokama", "chest", "putja"): "putjakwaɾa",
+    ("Kokama", "hammock", "ini"): "tukini",
+    ("Kokama", "hole", "kwaɾa"): "tʃikwaɾa tsu",
+    ("Omagua", "drip (intr.)", "atukɨra"): "atukɨɾa",
+    ("Omagua", "garbage", "ɨtɨ"): "ɨtɨpɨta",
+    ("Omagua", "give", "mi"): "jumi",
+    ("Omagua", "hammock", "ini"): "tukʷini",
+    ("Omagua", "hole", "kwaɾa"): "kakʷaɾamai",
+    ("Omagua", "lose oneself", "kajma"): "ukajɨma",
+    ("Omagua", "name", "iɾa"): "ʃiɾa",
+    ("Omagua", "rest (intr.)", "japɨtu"): "japɨtuka",
+    ("Omagua", "shine (intr.)", "pɪɾa"): "pɪɾata",
+    ("Omagua", "split (tr.)", "pɪsɪ"): "pɪsɪkaka",
+    ("Omagua", "sweat (intr.)", "sɨ̃i"): "sɨNi",
+    ("Omagua", "tail", "sũi"): "suNi",
+    ("Tupinamba", "after", "takɨpwéɾi"): "akɨpʷéɾi",
+    ("Tupinamba", "all", "opaβĩ"): "opaβĩNatu",
+    ("Tupinamba", "be odorous", "tɨapwana"): "ɨapʷana",
+    ("Tupinamba", "cook", "jɨβa"): "mojɨβa",
+    ("Tupinamba", "defecate (intr.)", "kaʔapia"): "kaʔapiasó",
+    ("Tupinamba", "dust∼sand", "kuj"): "ɨβɨkuj",
+    ("Tupinamba", "four", "iɾu"): "iɾundɨk",
+    ("Tupinamba", "heart", "ɲɨʔa"): "ɲɨʔã",
+    ("Tupinamba", "sound (v.)", "pũ"): "pu",
     ("Tupinamba", "vulva", "tamatiʔá"): "amatiʔá",
     ("Tupinamba", "water", "tɨ"): "ɨ",
     ("Kokama", "wife", "miɾikʷa"): "miɾikwa",
     ("Tupinamba", "worm∼larva", "sɨsoka"): "ɨsoka",
     ("Kokama", "yesterday", "ikʷatʃi"): "ikwatʃi",
+    ("Tupinamba", "swallow (v.)", "mokona"): "mokoNa",
+
         }
 
 data = csv2list("cognates.tsv")
@@ -65,11 +71,14 @@ for row_ in data[1:]:
             idx += 1
 wl2 = Wordlist(wl2_)
 
-form2idx = {(wl[idx, "ipa"], wl[idx, "doculect"]): idx for idx in wl}
+form2idx = defaultdict(list)
+for idx, ipa, lang in wl.iter_rows("ipa", "doculect"):
+    form2idx[ipa, lang] += [idx]
 for idx, lang, tokens in wl.iter_rows("doculect", "tokens"):
     form = "".join(tokens)
     if (form, lang) not in form2idx:
-        form2idx[form, lang] = idx
+        form2idx[form, lang] += [idx]
+        
 matches = []
 for idx, lang, concept, form in wl2.iter_rows("doculect", "concept", "form"):
     looked = lookup.get((lang, concept, form), "")
