@@ -48,7 +48,8 @@ class Dataset(BaseDataset):
                     Value=wl[idx, 'ipa'] or ''.join(wl[idx, 'tokens']),
                     Form=wl[idx, 'ipa'] or ''.join(wl[idx, 'tokens']),
                     Segments=[{'_': '+'}.get(x, x) for x in wl[idx, 'tokens']],
-                    Source=['Lundgren2020']
+                    Source=['Lundgren2020'],
+                    Cognacy=wl[idx, 'cogid'],
                     )
             args.writer.add_cognate(
                     lexeme=lexeme,
